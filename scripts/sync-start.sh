@@ -2,7 +2,8 @@
 # Runs before every Claude session in this project.
 # Pulls latest from GitHub, then checks for unprocessed transcripts.
 
-cd /Users/marleybarrett/Themomtest
+PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$PROJECT_ROOT"
 
 # Pull latest
 PULL_OUTPUT=$(git pull --rebase origin main 2>&1)

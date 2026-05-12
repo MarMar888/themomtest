@@ -2,7 +2,8 @@
 # Runs after Claude finishes each response.
 # Commits any new or changed outputs and pushes to GitHub.
 
-cd /Users/marleybarrett/Themomtest
+PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$PROJECT_ROOT"
 
 # Stage all tracked output files (ignore .DS_Store, .Rhistory, etc.)
 git add inputs/ outputs/ map.csv CLAUDE.md mom_test_reference.md MT_project_instructions.md \
