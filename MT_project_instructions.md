@@ -49,8 +49,7 @@ That's it. The full workflow runs automatically from there.
 Before generating any output, read:
 - The full transcript and header
 - `mom_test_reference.md` for the full framework
-- `conversation_log.md` to check for patterns across past conversations
-- `question_bank.md` to know what questions already exist before suggesting new ones
+- `money_questions.txt` to know what questions already exist before suggesting new ones
 
 ### Step 2 — Generate the Performance Debrief
 Follow `feedback_doc.md` exactly. Output the full debrief in this order:
@@ -79,7 +78,7 @@ Follow `conversation_summary.md` exactly. Output the full summary in this order:
 6. Open Threads
 
 ### Step 5 — Update the Conversation Log
-Add a new entry to the top of `conversation_log.md` using the standard format. Pull the top mistakes from the debrief, the commitment outcome from the summary, and the standout signal from the customer's real data.
+Add a new entry to the top of transcript_summaries folder using the standard format. Pull the top mistakes from the debrief, the commitment outcome from the summary, and the standout signal from the customer's real data.
 
 ### Step 6 — Confirm Completion
 Once all steps are done, confirm with a single line:
@@ -91,8 +90,7 @@ Once all steps are done, confirm with a single line:
 
 When Lucas or Marley says something like *"We're walking into a conversation with [context] — give us a quick refresher,"* run this instead of the full workflow:
 
-1. Pull relevant questions from `question_bank.md` based on the context they described (match stage, hunting, and context tags to the situation)
-2. Scan `conversation_log.md` for any patterns or recurring mistakes worth flagging
+1. Pull relevant questions from `money_questions.md` based on the context they described (match stage, hunting, and context tags to the situation)
 3. Remind them to prepare their Big 3 goals before walking in
 4. Keep it tight — this is a quick pre-game, not a lecture
 
