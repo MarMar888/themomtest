@@ -1,0 +1,58 @@
+MONEY QUESTIONS — Running List
+Last updated: May 12, 2026
+======================================================================
+Pick 3 before every conversation. Don't fire them all. Let answers guide the next question.
+When they give a general answer, slow down: "Can you give me a specific example of when that happened?"
+
+----------------------------------------------------------------------
+
+1. "Walk me through what happened the last time you ran out of a popular model before the end of season."
+   Why: Forces a specific story. Reveals whether inventory mismatch is a real recurring pain or just mild friction.
+
+2. "What does your process look like right now for tracking what's selling fast vs. sitting on the floor?"
+   Why: Reveals current workflow and workarounds. If the answer is "we kind of just watch it" — that's a real gap.
+
+3. "Have you ever tried any software or tools to help manage inventory or forecasting? What happened?"
+   Why: The "have they searched" test. If no → problem probably isn't painful enough. If yes → learn what failed and why.
+
+4. "What's the worst inventory mistake that happened in the last year or two — over-ordered, under-ordered, wrong mix?"
+   Why: Past-specific and emotional. Reveals actual cost of the problem.
+
+5. "When you placed your last big order, how did you decide what quantities to order? Walk me through it."
+   Why: Exposes the actual decision process. Reveals where judgment calls happen and where they're flying blind.
+
+6. "Tell me about the last time a customer walked out because you didn't have what they were looking for."
+   Why: Puts a real story behind lost sales. Reveals frequency and emotional weight of the problem.
+
+7. "What do customers get frustrated about most when they come in? Give me the last specific example you can remember."
+   Why: Past-specific. Surfaces real pain points from the customer side that the shop has to manage.
+
+8. "What's the single thing about running this shop that costs the most in time or money that you didn't expect?"
+   Why: Open-ended and past-oriented. The real pain is often not what you assumed going in.
+
+9. "When you hit the net 180 deadline in late summer and you haven't sold through — what actually happens? Walk me through a real example."
+   Why: This is the cash flow crisis moment. Reveals severity and what they actually do about it.
+
+10. "How much time does the owner spend on things that aren't biking — admin, ordering, accounting, staffing? Is that a sore spot?"
+    Why: Probes whether operational overhead is a real pain the owner feels or just accepted cost of doing business.
+
+11. "If you were going to try a new tool or process here, who would have to sign off on that?"
+    Why: Reveals the actual decision-maker. If it's someone we haven't talked to, we're in the wrong conversation.
+
+12. "Has the owner ever tried to buy something — software, a system, a service — to solve an operations problem and had it not work out? What happened?"
+    Why: Reveals prior purchase behavior. One of the strongest signals of willingness to pay.
+
+13. "Is there anyone else you'd recommend we talk to who deals with this stuff more directly than you do?"
+    Why: Intro request = commitment signal. Enthusiasm here means the conversation was real.
+
+14. "Would it be useful to show you what we're thinking about and get your honest reaction? We could come back next week."
+    Why: Asks for time commitment. "Let us know when you have something" = zombie. "Yeah come back" = real interest.
+
+15. "Is this actually a problem that bothers you enough that you'd spend money to fix it — or is it just something you've accepted as part of the job?"
+    Why: Forces honest self-assessment. "We've just accepted it" is the most valuable answer you can get — it means the problem is real but the market isn't there.
+
+16. "Have you ever googled this or looked for any tools to handle it?"
+    Why: If they haven't searched, they're not going to buy yours. No = major red flag that the problem isn't urgent enough.
+
+17. [When they request a feature] "Why do you want that? What would it let you do? How are you coping without it right now?"
+    Why: Feature requests reveal the stated solution, not the real problem. Dig into motivation — the actual need is almost always different from what they asked for.

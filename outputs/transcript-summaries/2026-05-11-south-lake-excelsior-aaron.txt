@@ -1,0 +1,35 @@
+TRANSCRIPT SUMMARY
+Date: May 11, 2026 | 4:58–5:24 PM
+Location: South Lake Bicycle, 300 Water St, Excelsior, MN
+Person: Aaron (mechanic, works Sundays + Mondays, 18 months at this shop)
+Owner: Dan — in store Wed–Fri part-time + Saturdays
+======================================================================
+
+WHO WE TALKED TO
+Aaron is a wrench, not an owner or manager. Retired from a previous career, this is a part-time job he genuinely enjoys. No visibility into finances, ordering decisions, or owner-level pain. We never talked to Dan.
+
+WHAT WE LEARNED (real data)
+- Inventory model: ~80% of orders placed Jan–Feb, delivered Mar–Apr, paid on net 180 terms. Cash flow pressure hits in late Aug–Sep when the note comes due — that's when aggressive sales start.
+- Assembly bottleneck: bikes arrive 75% assembled. Shop needs mechanics to complete them. During the March glut, this is a real capacity constraint — hundreds of bikes hitting at once.
+- Business model: this is a "mechanic shop" — everyone wrenches, no dedicated sales staff. Three models exist: mechanic-only, mechanic+sales hybrid (Freewheel), and fully separated roles (Eric's).
+- Repair vs. sales seasonality: repair-heavy in off-season, new bike sales dominate May–Aug. Used bikes sell year-round.
+- E-bikes: now roughly half of all new bike sales. No longer stigmatized. Electric mountain bikes growing fast.
+- Sundays are unpredictable chaos — could be dead or slammed with walk-ins wanting test rides or emergency repairs. Aaron is the "Sunday guy" precisely because of his experience handling that.
+- Owner Dan has a separate corporate job and is only in the store part-time.
+- Social media limited to Facebook; reputation and word-of-mouth drive most traffic.
+
+SIGNALS
+- The net 180 / end-of-season cash crunch is a real structural pain point Aaron described unprompted. This is the most valuable thing we heard.
+- Sunday unpredictability is a real operational pain — but we didn't dig into it.
+- Mechanic shortage / assembly bottleneck during spring glut was mentioned but not explored.
+
+WHAT WE MISSED
+- Never asked about specific past problems — Aaron volunteered the inventory mechanics; we didn't draw it out.
+- Missed the Sunday chaos thread — moved on instead of asking "walk me through a bad Sunday."
+- No commitment ask. Lucas ended with "I'll stop back by whenever." Should have asked for an intro to Dan.
+- Revealed we're entrepreneurial/looking at industries — Aaron shifted into "helpful tour guide" mode after that.
+- Talked about ourselves (biking, skiing, wanting to get into biking) instead of listening.
+
+NEXT STEP (what we should have locked in)
+- Ask for intro to Dan (owner). He's in Wed–Fri + Saturdays.
+- Return question: "Dan, walk me through what happened the last time you hit that net 180 deadline and hadn't sold through."

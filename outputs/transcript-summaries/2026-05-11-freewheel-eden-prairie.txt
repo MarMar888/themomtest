@@ -1,0 +1,36 @@
+TRANSCRIPT SUMMARY
+Date: May 11, 2026 | 6:37–7:00 PM
+Location: Freewheel Bike, 12825 Plaza Dr, Eden Prairie, MN
+Person: Unnamed floor sales employee (previously worked at a single-location ski/bike shop)
+Decision-maker: Regional director — handles all ordering, in store 2–3 days/week
+======================================================================
+
+WHO WE TALKED TO
+A frontline sales employee with no involvement in inventory, ordering, or financials. He explicitly said he doesn't know the ins and outs of costs. All ordering decisions go through the regional director. We were in the wrong conversation for operational insights.
+
+WHAT WE LEARNED (real data)
+- Freewheel structure: 8 locations across MN. Regional director handles all inventory and ordering for the Eden Prairie store. Store manager role appears to not exist at this location — regional director fills that gap.
+- Inventory strategy: ordering on terms (same net-X model as indie shops). Multi-location advantage: larger orders = better pricing from Trek. Volume-focused strategy this year — stocking cheaper price points rather than higher-margin bikes because they don't think they can sell enough at the top end.
+- Margin: bikes have the worst margin of anything in the store. Payroll is the biggest cost by far, then rent. Regional director is laser-focused on margin.
+- Loyalty program: "Phonetics" — $30 one-time, 10% back on everything going forward. Modeled on REI. Exists partly because online competitors force the hand.
+- Customer mix: mostly new people, not regulars. Bikes are a 5–10 year purchase. Many walk in having never been in a bike shop. Staff has to start from scratch educating them.
+- Customer frustration (from Eric's defectors): poor customer service. Some staff at Eric's have no patience for customers who can't see the value in a $300 helmet.
+- Role clarity: this employee appreciated the clear separation of roles at Freewheel vs. his old shop where he had to check in bikes for service — something he hated.
+- Eric Lynn: girlfriend's uncle. Built an app independently, Trek bought it, hired him. Active on LinkedIn. Employee offered to connect us.
+
+SIGNALS
+- Regional director controls all decisions — we need to be talking to him, not floor staff.
+- Volume-over-margin strategy and the Trek discount structure is real business data.
+- The "we don't think we can sell enough at the higher price points" comment is a real insight into how they're reading the market.
+- Role confusion / checking in bikes for service was named as a genuine frustration from his previous job. Worth digging into at other shops.
+
+WHAT WE MISSED
+- Pitched the idea ("software or some sort of product to help you guys out") — contaminated the conversation.
+- Never asked for a specific past story. Got general answers throughout.
+- Let conversation drift entirely into social filler (rental properties in Dubuque, rugby, girlfriend's teaching job, Maple Grove suburbs).
+- Didn't lock in the Eric Lynn intro — got a name and a vague "search him on LinkedIn" instead of getting a warm intro sent in the moment.
+- No commitment ask. Ended with "hopefully we connect with Eric."
+
+NEXT STEP (what we should have locked in)
+- Get this employee's name and LinkedIn, ask him to send Eric Lynn a message introducing us while we were standing there.
+- Return to Freewheel when the regional director is in (2–3 days/week) and ask about ordering decisions and margin pain.
