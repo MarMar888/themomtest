@@ -125,4 +125,4 @@ Format:
 
 - Any action items add to a csv called actionitems.csv
 - add any ideas to ideas.md
-- add a summary of the output under folder conversation summaries
+- add a summary of the output under folder lucas-marley-conversation-summaries/
