@@ -1,3 +1,4 @@
 - Franchise Operational Consistency Platform
 - Onboarding Improvement
 - Better pulse surveys
+- Small business back-office automation — start with a single wedge (one automated task), prove it, then expand to full operating workflow. Marley's Squeaky Clean Boat Services is the working proof of concept.
