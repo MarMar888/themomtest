@@ -1,5 +1,5 @@
 THINGS TO AVOID — Running List
-Last updated: May 12, 2026
+Last updated: May 17, 2026
 ======================================================================
 
 1. REVEAL INTENT EARLY
@@ -49,3 +49,6 @@ Last updated: May 12, 2026
 
 16. MIX CUSTOMER TYPES IN THE SAME SESSION
     Talking to a floor mechanic, a sales rep, and an owner in the same outing gives contradictory signals. Pick one type per batch of conversations and stick to it until patterns emerge.
+
+17. USE "THEY SEEMED BUSY" AS AN EXIT
+    "Seemed busy" is not a signal to leave — it's a constraint to work around. "I know you're slammed — two quick questions and I'm out of your hair" costs almost nothing and usually works. Backing off at the first sign of friction guarantees zero signal every time.
