@@ -119,3 +119,10 @@ Format:
 ---
 
 *All documents live in this project. Read them fresh each session — do not rely on memory of previous outputs.*
+
+
+## Lucas Marley Conversations
+
+- Any action items add to a csv called actionitems.csv
+- add any ideas to ideas.md
+- add a summary of the output under folder conversation summaries
