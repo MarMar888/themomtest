@@ -1,11 +1,12 @@
-MONEY QUESTIONS — Running List
-Last updated: May 12, 2026
+MONEYBALL QUESTIONS — High-Signal Questions to Ask Next Time
+Based on: Mom Test framework + gaps from May 11 transcripts
 ======================================================================
-Pick 3 before every conversation. Don't fire them all. Let answers guide the next question.
-When they give a general answer, slow down: "Can you give me a specific example of when that happened?"
 
-----------------------------------------------------------------------
+These are questions that, if answered well, give us real data — specific past stories,
+actual spending, revealed behavior. NOT opinions. NOT hypotheticals.
 
+OPERATIONS & INVENTORY PAIN
+-----------------------------
 1. "Walk me through what happened the last time you ran out of a popular model before the end of season."
    Why: Forces a specific story. Reveals whether inventory mismatch is a real recurring pain or just mild friction.
 
@@ -16,43 +17,63 @@ When they give a general answer, slow down: "Can you give me a specific example 
    Why: The "have they searched" test. If no → problem probably isn't painful enough. If yes → learn what failed and why.
 
 4. "What's the worst inventory mistake that happened in the last year or two — over-ordered, under-ordered, wrong mix?"
-   Why: Past-specific and emotional. Reveals actual cost of the problem.
+   Why: Past-specific, emotional. Reveals actual cost of the problem.
 
-5. "When you placed your last big order, how did you decide what quantities to order? Walk me through it."
+5. "When you placed your January order, how did you decide what quantities to order? Walk me through it."
    Why: Exposes the actual decision process. Reveals where judgment calls happen and where they're flying blind.
 
+
+CUSTOMER & SALES DYNAMICS
+---------------------------
 6. "Tell me about the last time a customer walked out because you didn't have what they were looking for."
    Why: Puts a real story behind lost sales. Reveals frequency and emotional weight of the problem.
 
 7. "What do customers get frustrated about most when they come in? Give me the last specific example you can remember."
-   Why: Past-specific. Surfaces real pain points from the customer side that the shop has to manage.
+   Why: Past-specific, surfaces real pain points from the customer side that the shop owner has to manage.
 
-8. "What's the single thing about running this shop that costs the most in time or money that you didn't expect?"
-   Why: Open-ended and past-oriented. The real pain is often not what you assumed going in.
+8. "You mentioned people come in not knowing what they want — walk me through what that looks like on a busy Saturday."
+   Why: Anchors the general statement to a real moment. Reveals the actual cost in time and conversion rate.
 
-9. "When you hit the net 180 deadline in late summer and you haven't sold through — what actually happens? Walk me through a real example."
-   Why: This is the cash flow crisis moment. Reveals severity and what they actually do about it.
 
-10. "How much time does the owner spend on things that aren't biking — admin, ordering, accounting, staffing? Is that a sore spot?"
-    Why: Probes whether operational overhead is a real pain the owner feels or just accepted cost of doing business.
+BUSINESS MODEL & COSTS
+------------------------
+9. "What's the single thing about running this shop that costs the most in time or money that you didn't expect when you started?"
+   Why: Open-ended and past-oriented. Surfaces surprises — the real pain is often not what you assumed.
 
-11. "If you were going to try a new tool or process here, who would have to sign off on that?"
-    Why: Reveals the actual decision-maker. If it's someone we haven't talked to, we're in the wrong conversation.
+10. "When you hit that net 180 deadline in late summer and you haven't sold through — what actually happens? Walk me through a real example."
+    Why: This is the cash flow crisis moment. Reveals severity of the end-of-season problem and what they do about it.
 
-12. "Has the owner ever tried to buy something — software, a system, a service — to solve an operations problem and had it not work out? What happened?"
+11. "How much time does the owner spend on things that aren't biking — admin, ordering, accounting, staffing? Is that a sore spot?"
+    Why: Probes whether operational overhead is a real pain the owner feels, or just normal cost of doing business.
+
+
+DECISION-MAKING STRUCTURE
+--------------------------
+12. "If you were going to try a new tool or process here, who would have to sign off on that?"
+    Why: Reveals the actual decision-maker. If it's the regional director and we've been talking to floor staff, we're in the wrong conversation.
+
+13. "Has the owner ever tried to buy something — software, a system, a service — to solve an operations problem and had it not work out? What happened?"
     Why: Reveals prior purchase behavior. One of the strongest signals of willingness to pay.
 
-13. "Is there anyone else you'd recommend we talk to who deals with this stuff more directly than you do?"
-    Why: Intro request = commitment signal. Enthusiasm here means the conversation was real.
 
-14. "Would it be useful to show you what we're thinking about and get your honest reaction? We could come back next week."
-    Why: Asks for time commitment. "Let us know when you have something" = zombie. "Yeah come back" = real interest.
+COMMITMENT-CLOSING QUESTIONS (ask at the end of every conversation)
+---------------------------------------------------------------------
+14. "Is there anyone else you'd recommend we talk to who deals with this stuff more directly than you do?"
+    Why: Intro request = commitment signal. If they enthusiastically intro you, the conversation was real. If they deflect, it probably wasn't.
 
-15. "Is this actually a problem that bothers you enough that you'd spend money to fix it — or is it just something you've accepted as part of the job?"
-    Why: Forces honest self-assessment. "We've just accepted it" is the most valuable answer you can get — it means the problem is real but the market isn't there.
+15. "Would it be useful to show you what we're thinking about building and get your honest reaction? We could come back next week."
+    Why: Asks for time commitment. If they say yes → real interest. "Let us know when you have something" → zombie.
 
-16. "Have you ever googled this or looked for any tools to handle it?"
-    Why: If they haven't searched, they're not going to buy yours. No = major red flag that the problem isn't urgent enough.
 
-17. [When they request a feature] "Why do you want that? What would it let you do? How are you coping without it right now?"
-    Why: Feature requests reveal the stated solution, not the real problem. Dig into motivation — the actual need is almost always different from what they asked for.
+THE DESTROY-YOUR-BUSINESS QUESTION (ask this every single conversation)
+------------------------------------------------------------------------
+16. "Is this actually a problem that bothers you enough that you'd spend money to fix it — or is it just something you've accepted as part of the job?"
+    Why: Forces honest self-assessment. The answer "honestly, we've just kind of accepted it" is the most valuable signal you can get. It means the problem exists but the market isn't there — before you build anything.
+
+
+NOTES ON HOW TO USE THESE
+--------------------------
+- Pick 3 before every conversation. Know what you're trying to learn.
+- Don't fire them all in one conversation. Let the answers guide you to the next question.
+- When they give a general answer, slow down: "Can you give me a specific example of when that happened?"
+- The goal is never to validate your idea. The goal is to find out if this problem is real, frequent, and painful enough that someone would pay to fix it.

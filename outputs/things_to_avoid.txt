@@ -1,54 +1,69 @@
-THINGS TO AVOID — Running List
-Last updated: May 17, 2026
+MISTAKES WE MADE — Mom Test Analysis
+Transcripts: South Lake Excelsior (Aaron) + Freewheel Eden Prairie
+Date analyzed: May 12, 2026
 ======================================================================
 
-1. REVEAL INTENT EARLY
-   Don't say we're "entrepreneurial and looking at industries" or that we're building software/a product. The moment they know, they shift into encouraging mode and stop being honest.
+CONVERSATION 1: South Lake / Excelsior (Aaron the mechanic)
+------------------------------------------------------------
 
-2. PITCH THE IDEA
-   The cardinal sin. Saying "software or product to help you guys" poisons everything after — they start performing helpfulness instead of telling the truth.
+1. REVEALED OUR HAND EARLY
+   Lucas said: "Yeah, no, we're pretty entrepreneurial and looking at a bunch of different industries."
+   Problem: Once they know you're scoping an industry to potentially enter, they shift into being helpful/encouraging instead of honest. Aaron became a tour guide instead of a problem-sharer.
 
-3. ASK GENERIC OPINION QUESTIONS
-   Avoid: "How have bike sales been?" or "Is it a growing industry?" These invite cheerleading and surface answers. Always anchor to a specific past event instead.
+2. ASKED GENERIC INDUSTRY OPINION QUESTIONS
+   Lucas asked: "How have bike sales been good? Like, is it still a growing industry or no?"
+   Problem: Vague, future-adjacent, invites cheerleading. We got a surface-level answer about e-bikes. Should have asked about specific past instances — a bad season, a specific month that killed them, what they actually worried about.
 
-4. ACCEPT VAGUE ANSWERS WITHOUT DIGGING
-   When they say "yeah that's a challenge sometimes," slow down: "Can you give me a specific example of when that happened?" Never let a general answer be the last thing you hear.
+3. NO COMMITMENT ASK AT THE END
+   Lucas ended with: "I'll be stopping back by whenever."
+   Problem: Classic zombie close. No next step, no intro request, nothing concrete. We learned the owner is Dan and he's in Wednesday–Friday. We should have asked for an intro to Dan on the spot.
 
-5. MISS A PAIN SIGNAL
-   When they mention something chaotic or frustrating in passing (e.g. Sunday repair queue chaos), stop and dig: "Walk me through a bad version of that — what actually happened?" Don't move on.
+4. TALKED ABOUT OURSELVES INSTEAD OF LISTENING
+   Lucas: "I want to get more into biking for sure." / "We love outdoor sports. We grew up skiing and biking."
+   Problem: Personal rapport is fine briefly, but we spent several exchanges talking about our own interests instead of steering back to their operational reality.
 
-6. TALK ABOUT OURSELVES
-   Sharing personal interests or opinions burns time and changes the dynamic. Brief rapport is fine, but every exchange we spend talking is a signal we didn't get.
+5. GAVE OUR OWN OPINION MID-CONVERSATION
+   Lucas: "I think it's good to be in the store, though, and get your opinion on what bike to buy."
+   Problem: We're not there to share opinions. Every time we talk, we lose signal.
 
-7. GIVE OUR OWN OPINIONS MID-CONVERSATION
-   We're not there to share views. Every time we talk, we lose signal.
+6. NEVER ASKED ABOUT PAIN OR PROBLEMS
+   We got great info about inventory mechanics (net 180, spring delivery crunch) because Aaron volunteered it — not because we asked well. We never directly asked: "What's the hardest part of your job?" or "What keeps the owner up at night?"
 
-8. ASK LEADING QUESTIONS
-   Avoid: "Do you feel like they're pushing a lot more to drive revenue?" The answer is almost always yes. It's not real data.
+7. MISSED THE STAFFING/SUNDAY CHAOS THREAD
+   Aaron mentioned Sundays are unpredictable chaos and the repair queue piles up. We moved on instead of digging in: "Walk me through a bad Sunday — what actually happened?" That was a real pain signal we let go.
 
-9. END WITHOUT A COMMITMENT ASK
-   Never close with "I'll stop by sometime" or "hopefully we connect with X." Always ask for a specific next step: intro to the owner, a follow-up meeting, or a LinkedIn connection locked in on the spot.
 
-10. TALK TO THE WRONG PERSON
-    Frontline staff can't tell us about ordering, P&L, or decisions. Identify the decision-maker early and steer toward them. If the person we're talking to says "I don't know the ins and outs of that," that's the cue.
+CONVERSATION 2: Freewheel / Eden Prairie (sales floor employee)
+---------------------------------------------------------------
 
-11. GO IN WITHOUT STRUCTURE
-    Know what 3 things we're trying to learn before every conversation. Without that, we wander and leave with nothing actionable.
+1. PITCHED THE IDEA
+   Lucas said: "Software or some sort of product to help you guys out or just trying to hear from people that know it best."
+   Problem: This is the cardinal sin of the Mom Test. The moment you say "software or product," the interviewee starts performing helpfulness. Everything after this point is potentially contaminated — they're trying to help you, not tell you the truth.
 
-12. LET THE CONVERSATION DRIFT INTO SOCIAL FILLER
-    Rental properties, sports, weekend plans — fine briefly, then steer back. If we're not learning, we're wasting the conversation.
+2. TALKING TO THE WRONG PERSON
+   The interviewee was a frontline sales employee with no visibility into ordering, P&L, or management decisions. He said explicitly he doesn't know the ins and outs of costs, and the regional director handles all inventory. We should have gotten the conversation to the decision-maker (regional director, owner) much earlier.
 
-13. NEVER ASK THE DESTROY-YOUR-BUSINESS QUESTION
-    Every conversation needs: "Is this actually a problem you'd spend money to fix, or have you just accepted it?" The answer "we've accepted it" is the most valuable data we can get.
+3. ASKED LEADING QUESTIONS
+   Lucas: "Do you feel like they're pushing a lot more to drive revenue and sell a lot more?"
+   Problem: The answer is almost always yes to a leading question like this. It's not real data.
 
-14. ASK OPINION QUESTIONS
-    Avoid: "Do you think this is a good idea?" / "Would you use something that did X?" These invite polite lies. Every question should be past-tense and specific.
+4. LET THE CONVERSATION DRIFT INTO PERSONAL CHAT
+   Rental properties in Dubuque, rugby, his girlfriend's teaching job, Maple Grove suburbs — we spent several minutes on pure social filler. Fine to build rapport briefly, but we never steered back to learning. The conversation just ended there.
 
-15. CELEBRATE COMPLIMENTS
-    "That's such a great idea!" costs the customer nothing and tells us nothing. Deflect immediately: "Glad it resonates — tell me about the last time you ran into this problem." Compliments are fool's gold.
+5. NO COMMITMENT ASK
+   Lucas ended with: "Hopefully we connect with Eric."
+   Problem: The interviewee offered an intro to Eric Lynn (guy who built an app Trek acquired). That was a real commitment signal — but we didn't lock it in. We should have gotten his LinkedIn right then, asked him to send the intro while we were standing there, or at minimum gotten the employee's name and contact info to follow up.
 
-16. MIX CUSTOMER TYPES IN THE SAME SESSION
-    Talking to a floor mechanic, a sales rep, and an owner in the same outing gives contradictory signals. Pick one type per batch of conversations and stick to it until patterns emerge.
+6. NEVER ASKED ABOUT SPECIFIC PAST PROBLEMS
+   The closest we got was asking what frustrates him day-to-day, and he gave a decent answer (checking in bikes for service at the old job, role confusion). But we never pushed for a specific story: "Tell me about the last time that was really bad — what actually happened?"
 
-17. USE "THEY SEEMED BUSY" AS AN EXIT
-    "Seemed busy" is not a signal to leave — it's a constraint to work around. "I know you're slammed — two quick questions and I'm out of your hair" costs almost nothing and usually works. Backing off at the first sign of friction guarantees zero signal every time.
+7. NO BIG 3 QUESTIONS
+   No visible structure. We wandered from inventory → management structure → margin → costs → social chat. We didn't know what we were trying to learn before going in, so we couldn't steer toward it.
+
+
+CROSS-CONVERSATION PATTERNS TO STOP
+-------------------------------------
+- We consistently fail to ask the commitment question at the end. This must become a habit.
+- We reveal our intent (entrepreneurial exploration, building software) too early, which poisons honest responses.
+- We accept vague answers ("yeah that's a challenge sometimes") without anchoring to a specific story.
+- We never asked the destroy-your-business question: something that could prove our assumption wrong entirely.
