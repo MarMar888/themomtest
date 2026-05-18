@@ -28,6 +28,14 @@
 "When you placed your January order, how did you decide what quantities to order? Walk me through it."
 *Why: Exposes the actual decision process. Reveals where judgment calls happen and where they're flying blind.*
 
+**Q-OI-06** | `[problem-validation] [ops] [inventory] [cash-flow] [retail] [past-specific]`
+"Walk me through what actually happens to your cash position at the end of a season where you've over-ordered — how does it play out?"
+*Why: Moves past the ordering mistake to the downstream pain. Cash exposure is the real problem, not the bad call itself — confirmed by Something Safari (May 2026).*
+
+**Q-OI-07** | `[problem-validation] [ops] [inventory] [workarounds] [retail] [past-specific]`
+"When you've made a bad inventory call before, how did you actually dig out of it?"
+*Why: Reveals recovery behavior and workarounds. Whether they have a real process or just absorb the loss tells you how serious the problem is.*
+
 ### Customer & Sales Dynamics
 *(from money_questions.txt — approved May 12, 2026)*
 
@@ -108,4 +116,4 @@
 
 ---
 
-*Question count: 19 | Last updated: 2026-05-18*
+*Question count: 21 | Last updated: 2026-05-18*
