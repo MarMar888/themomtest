@@ -1,0 +1,402 @@
+Ramp sales strategy brainstorming
+=================================
+Date: May 18, 2026
+Time: 12:49 PM – 1:21 PM CDT
+Location: 228 Water St, Excelsior, MN 55331
+
+
+TRANSCRIPT
+----------
+Unknown: Watch a long rate thirty minutes.
+
+Lucas: If he's already using Salesforce, so the company's HubSpot now, like they're a huge parent company now.
+
+Lucas: But like, I wonder, even if it's my dad, would he be willing to use a new platform that we've opened?
+
+Lucas: Or is it simply just building him out of workflow that yeah, it'd be like a a tool just starting with a tool because most likely, I mean unless you really like like you have to really hate your software completely new that's the thing that's like that's like why it's what all these do is sell like plugging it into other solutions right because then you're like oh well we don't have to completely move the solution, we can plug it in or just array this is so either there's a wedge for a tool like RAM or like something else that someone wants to use that is around their core ERP slash in this case it'd probably be a CRM or something else.
+
+Lucas: What I think is cool though about starting with like that is my dad works with other people who do the same thing as him but in different like he's about to have outdoor sports liability insurance and like but like other people manage other different groups and if he all of a sudden has an awesome tool that he's loving, if he just talks about it with some of the people around him, they're gonna love it too.
+
+Lucas: And then that's an easy two more to test.
+
+Unknown: For sure.
+
+Unknown: There's and that's potentially a fit too.
+
+Unknown: We'll see finally a fit.
+
+Lucas: Did you go look at updated the like ideas doc and everything?
+
+Unknown: No I did.
+
+Unknown: Like yeah.
+
+Lucas: It like almost forces you to, which is kind of cool.
+
+Lucas: But he's still doing Iowa County.
+
+Lucas: Okay.My mom was
+
+Lucas: Sharing some prep materials.
+
+Lucas: They aren't required, but I'd strongly recommend just so you can hit the ground running as onboarding will be condensed and fast paced given the short nature of the internship.
+
+Lucas: It's cool though, I like, I put them all into the Cloud project.
+
+Lucas: And step one is just literally having me, like, I'm walking through it with what, like, so I can just ask questions about every little thing, but then I can have it like quiz me on all of the.
+
+Lucas: What?A clogged project should be fine.
+
+Lucas: That doesn't, like, upload all of the projects.
+
+Unknown: Like, it does?
+
+Lucas: I wonder if I can do that.
+
+Lucas: It's not, like, anyway.
+
+Lucas: No, well, um, I actually had that thought though, and was wondering if I did it through my terminal and had it access a folder, does it still index it?
+
+Unknown: Because it's reading through it.
+
+Unknown: Yeah, interesting.
+
+Unknown: So you just like a local or something?
+
+Lucas: Yeah.Yeah.
+
+Lucas: That's a good question to ask.
+
+Lucas: I mean, they're going to have some.
+
+Unknown: The moment you get there, you'll have access to everything completely solid.
+
+Unknown: Yeah.Anyway, sorry, what'd do?
+
+Lucas: Once you're it's just like like it was awesome to walk through the ICP because like it gave a bunch of different basic case studies of a potential customer and like breaking down just what sides of them are valuable, what are red flags, and just like having it walk me through that instead of just reading it was a lot easier.
+
+Lucas: And it can also create more to just practice with.
+
+Lucas: Wait, but I wanted to show you I've been using like the ripple style for my math course that I'm taking the street math.
+
+Lucas: And I'm asking like instructions, walking forwards on which release, following subjects, and I use like our old Ripple, finance, computer science, entrepreneurship, strategy management, control for an AI all general breaking down the economics and products.
+
+Lucas: And for what type of math is it?
+
+Unknown: Distre mathematics.
+
+Lucas: It's really good.
+
+Lucas: Is it generating good questions?
+
+Lucas: Sometimes it gets really philosophical, which is actually helpful.
+
+Lucas: Yeah.Because it talks like it talks about the rules of having mutual exclusivity and having like collective exhaustivity, which is really consulting.
+
+Lucas: And a lot of different logic of having if these two things are true, it could mean this.
+
+Unknown: Kind of like philosophy itself.
+
+Lucas: It's really, it's a weird class.
+
+Lucas: Interesting.So how many classes do you think?
+
+Unknown: Two.This one I just finished off.
+
+Unknown: And the next one I'll afraid of.
+
+Lucas: We should watch when these are watching.
+
+Lucas: So.You know, if you found count just by industry, it's qualified for like being qualified, so these are sales.
+
+Lucas: Still in their pipeline.
+
+Lucas: So it's basically the deals they're working on, how much money they would bring in versus 30-day card spend.
+
+Lucas: And so, like, you, like, I look and I see like internet software and services are by far their biggest, and it's also most of their efforts, but, like, where's one of the discrepancy ones?
+
+Lucas: I forget which one.
+
+Lucas: They're mostly lined up, but like they're have a lot of cells and biotechnology and it hasn't, like, doesn't make up a lot of their whatever.
+
+Lucas: Like, I think that's what they're trying to visualize here, right?
+
+Lucas: No, I don't understand account executive qualified monthly spec.
+
+Unknown: I don't understand that at all.
+
+Unknown: I mean, obviously, we're talking about A.
+
+Unknown: What if A qualified monthly qualifying?
+
+Lucas: My interpretation was that it was the projections for what A the sales they're hoping to close what they would spend just based on their companies month to spend.
+
+Unknown: Oh no, no. Yeah, that is not.
+
+Lucas: These are also so I don't understand at all.
+
+Lucas: I will change the area somewhere.
+
+Unknown: It's gotta it's gotta something spelling out.
+
+Unknown: It'll be okay.
+
+Unknown: July and August is saying like if it was this is from non-enterprise deals.
+
+Lucas: Like these are like mid mid-market deals or mid-level deals.
+
+Unknown: So otherwise it would go to enterprises.
+
+Unknown: So it's saying like mid-market.
+
+Lucas: Like what, like, this doesn't say anything about being F500s?
+
+Unknown: Yeah, that's what I have.
+
+Unknown: It's like down here.
+
+Unknown: I don't know, that's a question though.
+
+Unknown: Does it say anything?
+
+Unknown: Religious existence is just folks.
+
+Lucas: But this is what I'm upset, like all these knives.
+
+Unknown: It's gonna be so cool.
+
+Unknown: Yeah, CW is very cool.
+
+Unknown: Let's say Ramp wins, that's awesome.
+
+Lucas: Yeah, Ram and F Ram losses.
+
+Lucas: All the A's just post what's working and what's not on Slack channels.
+
+Unknown: So it's like that's really cool.
+
+Lucas: Like, I wanna have this, like, start my day, literally, just like build out a workflow that pulls everything from ramps, woodens, and mosses.
+
+Lucas: Like, it basically just gets me in the mindset for the day. Yeah.
+
+Unknown: Like, it would be so fun.
+
+Unknown: I feel like this is my 10-minute walk over.
+
+Lucas: I think you're fine.
+
+Unknown: Yeah, that would be nice.
+
+Lucas: That'll just be so good to see. Yeah.
+
+Unknown: So I would just have a bar.
+
+Unknown: Like, so it's both, I think it's like 65% of the time that it's recorded.
+
+Unknown: So it's a lot of unfortunately.
+
+Unknown: Do you know what you're doing?
+
+Lucas: That's what like everyone connected with that ramp already, just ask, 'cause I think they can tell me about them and tell me what they're seeing.
+
+Unknown: Would your manager be like a turn sequel?
+
+Unknown: Yeah, okay.
+
+Unknown: Go ahead.
+
+Unknown: I will bet.
+
+Unknown: Like half a car, she's like, but she'll never agree and she doesn't like help so get information.
+
+Unknown: I think it's participated in the back.
+
+Unknown: I should like to have a statement for I just don't know what I like.
+
+Unknown: really I mean, so I think this is to make the options down to like that's I wonder how Dylan organizes everything.
+
+Lucas: Or SamCon filter.
+
+Unknown: Yeah.Yeah, we're windows.
+
+Lucas: I think you could ask me what.
+
+Unknown: He went to the Wolves game with me there, right?
+
+Lucas: I mean we were talking about his mom testing him for that shit.
+
+Unknown: Yeah, he's busy.
+
+Lucas: This spring season's super busy.
+
+Lucas: He has less, a little less clients, but more like bigger contracts than like commercial clients.
+
+Lucas: You know, who he said is absolutely killing it is Robbie Evans.
+
+Unknown: Do you remember him?
+
+Lucas: Landscaping, like a lot of landscape.
+
+Lucas: Like hu like huge numbers.
+
+Lucas: Yeah.Like has a ton of trucks and equipment and like full-time employees.
+
+Lucas: I feel like.
+
+Unknown: Well there are a lot of private IP drugs.
+
+Unknown: You know what we should do.
+
+Lucas: 'Cause that's where a lot of like that's like you remember Operand?
+
+Lucas: The ones I used to follow and I still follow?
+
+Lucas: They piv totally pivoted and only work with private equity.
+
+Unknown: Really?Because private equity was volume up all the way smaller, right?
+
+Lucas: Well, so let's reach out to my mentor Jacob Sims who now owns 97 car washes.
+
+Lucas: They just through private equity bought up a ton of car washes all over the Midwest.
+
+Lucas: Yeah, that'd be a cool that would be really cool.
+
+Unknown: That's a very good idea.
+
+Lucas: Should we see if we can just go wash in his office tomorrow or Wednesday?
+
+Unknown: Yeah, that'd be awesome.
+
+Lucas: 'Cause I was looking at the conference and they teach you.
+
+Lucas: Yeah, they're like, their whole thing is they do due diligence too, but it's like this is what they're they're putting it as like analytical systems for portfolio companies that basically like they actually did they were the ones that did some market research on franchises and trying to get you to like lowest performing franchises to really be better.
+
+Lucas: Yeah, 'cause they're acquiring all these franchises.
+
+Lucas: Yeah, like they do pricing, promotion, demand planning, all these different
+
+Unknown: Interesting.
+
+Unknown: Hold on, I'm gonna text.
+
+Unknown: Yes, yes, there's a lot of people talking about how to earth.
+
+Unknown: Like, hopefully, they're like, Dude, like, they literally did part of what they did for Bregus and just went but it's actually really fun.
+
+Lucas: Like, they did put some indicator on product data and sales data to basically help figure out next products to buy.
+
+Lucas: Like they have they're talking here about retailers that have super low sales frequency of certain items and they are trying to identify how to promote and sit lift these items up for sale.
+
+Lucas: Interesting using the same stuff that we were doing a lot of time.
+
+Unknown: So I'm hanging out with my buddies and that's her. Okay.
+
+Lucas: Yeah.Now, will he probably respond with okay?
+
+Unknown: Okay.I'll pull up in two weeks.
+
+Unknown: No, I I think that's super effective.
+
+Lucas: He talks about timing and everything.
+
+Lucas: Yeah.Well, it's interesting, like, if you're married, they won't sign a huge contract until December.
+
+Lucas: Literally just like they spend December like considering you top work on they don't I think my bad stuff are saying like it's so interesting like you see a red flag of it's not the time for them now it's not a like it's what Ramp seems really good is it's not a give up it's a okay like set in stone that you're gonna reach out in six months like like get them to commit their yeah yeah maybe three months yeah giving them time yeah and then and then like you're kind of showing that's what that's why it looks so boring at a meeting with their partner OYC just to catch up and their partner told them like hey yeah you need to look at market pools you need to find market that you might not be having south if you need to buy some code like interested in that I won't even bother you anymore but reach out to me I think what's cool about ramp is the amount of different services it offers touches so many different roles in a company and there's so many different pain points that it solves or personas that it is fit for so like you can like really personalize value.
+
+Lucas: But like Ramp can actually go after what this person is doing specifically.
+
+Lucas: And like in that conversation, I know that I can find your exact biggest headache and Ramp will probably solve it.
+
+Lucas: And that just resonates.
+
+Lucas: And getting those product inches.
+
+Lucas: So if you have people kind of like that are boots on the ground, that really helps your product, right, when you go to whoever the decision maker is, it's always a decision maker on the ladder.
+
+Lucas: That works incredibly together.
+
+Lucas: Yeah.Decision makers, you need to try to just for my airpods to give you space.
+
+Lucas: Oh, yeah, so it's in 21.
+
+Unknown: No, there's one of them.
+
+Lucas: Okay, I'll just park my AirPods right here.
+
+Lucas: And sent them all message on LinkedIn saying, oh, Chef President, let's connect, and then I'll start talking about all my stuff.
+
+Unknown: One of them was.
+
+Lucas: Yeah, he's at FMI Consulting.
+
+Lucas: He's a principal there.
+
+Lucas: Been there 11 years.
+
+Unknown: Oh my gosh.
+
+Unknown: The central challenge in consumer retail need is not the end generation, it is margin architecture.
+
+Lucas: Yeah, the structural competition of growth and operation margins across channels, product categories, and customer artists.
+
+Unknown: I mean, but yeah, but I mean this shows maybe an individual's small business owner doesn't care about like when private buys all of our financial or bad.
+
+Lucas: And is it a value prop to say, hey, like you're more appealing to private equity now?
+
+Lucas: That would be a fun way to sell it.
+
+Lucas: You're gapping yourself from, okay, you know, this store next store just got like an equity.
+
+Unknown: They're probably cutting their personality.
+
+Lucas: The selling is: hey, this is why a private equity firm would buy you would be to come in and do this.
+
+Lucas: That's really cool.
+
+Unknown: They tried to do it directly.
+
+Lucas: Like they really tried to do it.
+
+Unknown: Really?I thought it was really like how it's like, yeah.
+
+Lucas: Multi-site operations, where operational alpha hides in multi-location businesses.
+
+Lucas: It talks all about like, I guess it's not specifically franchises, but like acquire platform, execute content.
+
+Lucas: And yeah, so 2, 000, 20% variance in multi-site businesses be because of, you know, performance at at an EBITDA level.
+
+Lucas: And then they talk about late so labor scheduling is what they say is the highest ROI between I wonder how these guys are actually doing.
+
+Lucas: They were winter 2025.
+
+Lucas: Really?Yeah, I should go back to quarry and just increase the guy.
+
+Unknown: They made fun of him.
+
+Unknown: They were just not funny.
+
+Lucas: Like, Corey Corey's like trained for like good people as like good side.
+
+Unknown: I agree.
+
+Lucas: These guys were.
+
+Lucas: These guys were so good.
+
+Lucas: There's so many fountain teams out there with no personality.
+
+Unknown: Oh yeah.
+
+Lucas: Or then have like that.
+
+Unknown: That's kind of common.
+
+Lucas: You can go like part of that circle of personality plus like being smart enough.
+
+Lucas: Dude, I'm telling you, our YC video next time is now you're gonna have your test of stuff to talk about.
+
+Lucas: I'll have the ramp logo.
+
+Lucas: Personable, knowledgeable, traction.
+
+Unknown: Boom.Not really, but I don't know if you're on the screen.
