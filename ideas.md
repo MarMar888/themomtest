@@ -4,4 +4,3 @@
 - Small business back-office automation — start with a single wedge (one automated task), prove it, then expand to full operating workflow. Marley's Squeaky Clean Boat Services is the working proof of concept.
 - PE acquisition value prop for small business owners — "you're more appealing to private equity if you have better operational systems." Frame the product as getting the owner PE-ready, not just more efficient. Targets owners thinking about exit.
 - Multi-site operational analytics (franchise / PE rollup angle) — 20% EBITDA variance across locations in multi-site businesses; labor scheduling is highest-ROI lever. Potential niche: PE portfolio companies that acquired platform businesses and need operational consistency across sites.
-- Morning Ramp win/loss digest — auto-pull what AEs posted in Slack win/loss channels, surface as a daily briefing. Personal tool idea that could become a product demo.
