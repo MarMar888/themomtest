@@ -67,3 +67,6 @@ CROSS-CONVERSATION PATTERNS TO STOP
 - We reveal our intent (entrepreneurial exploration, building software) too early, which poisons honest responses.
 - We accept vague answers ("yeah that's a challenge sometimes") without anchoring to a specific story.
 - We never asked the destroy-your-business question: something that could prove our assumption wrong entirely.
+- When someone volunteers that their current solution is inadequate ("our cameras aren't very good"), don't move on — that's the exact moment to ask "Have you ever looked at fixing that? What stopped you?" Missing this skips the have-they-searched test entirely.
+- When a problem has clear emotional signal but no financial weight attached, ask "Has anyone ever tried to put a number on what this costs you?" — frustration without magnitude is hard to build on.
+- When you learn of a specific, documented, recurring instance of a problem (e.g., a professional shoplifter who's been hitting multiple stores for a long time), go deeper on it: "What has the company actually tried to do about that?" Don't treat it as background detail.

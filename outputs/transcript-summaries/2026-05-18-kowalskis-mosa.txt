@@ -1,0 +1,50 @@
+TRANSCRIPT SUMMARY
+Date: May 18, 2026
+Location: Kowalski's Market (specific location not recorded; 12-store premium grocery chain, MN)
+Person: Mosa — store manager, 10 years at Kowalski's, 8 prior years at a competitor
+Decision-maker: Unknown — whether Mosa controls loss prevention budgets or ordering decisions was not established
+======================================================================
+
+WHO WE TALKED TO
+Mosa, a store manager at Kowalski's with 10 years at the company and 8 prior years in retail. She has deep institutional knowledge and a cross-store perspective (has worked at Paramount location). Whether she controls any budget or purchasing decisions is unknown — we never asked.
+
+WHAT WE LEARNED (real data)
+
+Confirmed Problems
+- Shoplifting is a real, recurring operational problem — not just at this location but across Kowalski's stores. Mosa specifically referenced Paramount as having a heavy shoplifting problem.
+- Professional shoplifters exist within their system: one specific individual has been hitting multiple Kowalski's locations for a long time. This is a documented, persistent, multi-store problem.
+- The policy constraint is severe: staff must be 100% certain before acting, cannot touch or accuse suspects, and must wait for police to arrive. By the time police show up, the window to intervene has often passed.
+- Floor staff cannot handle incidents themselves — Mosa must call her manager. This adds a response layer that slows everything down.
+
+Workarounds
+- Current loss prevention tactic: customer service shadowing. Staff follow suspected shoplifters around the floor under the guise of offering help. The logic is that awareness of being watched deters theft.
+- Mosa described verbally confronting teenagers ("knock it off") as an informal deterrent — outside official policy but apparently practiced.
+
+Equipment Gap
+- "Our cameras aren't even very good." — Direct acknowledgment that their surveillance infrastructure is inadequate, stated unprompted.
+
+Items Being Stolen
+- Health and beauty products (named "Charlie Pepper" brand), meats, gift items, small consumables.
+- Adult/professional shoplifters tend to target resellable items; teenagers target consumables.
+
+Other Operational Context (gathered after pitch — treat as lower confidence)
+- Kowalski's sources from two main distributors (USI mentioned) plus small local vendors; approximately 60/40 or 70/30 split.
+- Private label products exist under the Kowalski's brand (e.g., ice cream performing well this month, deli items).
+- Marketing includes a mailing list with coupon offers (free product with minimum spend).
+- Kowalski's operates under a "civics business" framework developed at University of St. Thomas; described as the only retail company using it.
+
+BAD DATA
+Everything after the pitch ("we're doing research on, like, how we can help the retail industry, potentially, through software products") is suspect. Mosa's pivot to supply chain structure, private labels, sourcing percentages, and company culture appears to be a tour-guide response to learning she was talking to someone researching retail software — not organic problem-sharing.
+
+COMMITMENT OUTCOME
+None. Conversation ended with no next step, no follow-up plan, no intro request.
+
+THE VERDICT
+The shoplifting signal is real. Mosa gave specific, operational detail: the 100% certainty bar, the camera gap, the response chain (floor staff → manager → police), named multiple locations being affected, and described a documented professional who's been working the chain for a long time. The problem exists and is genuinely felt. What we don't know: financial magnitude, whether Kowalski's has ever invested in solutions, and whether Mosa is the right person to be talking to about loss prevention (decision structure not established). The second half of the conversation (post-pitch) is contaminated.
+
+OPEN THREADS
+- Return without revealing purpose. First question: "Have you ever tried any systems, cameras, or tools specifically for shoplifting? What happened?"
+- Find out who owns loss prevention decisions at Kowalski's — store-level or regional/corporate?
+- Ask about the documented professional shoplifter: "What has the company tried to do about that person specifically?"
+- "What does shoplifting cost you in a typical month — has anyone ever put a number on it?"
+- Mosa has 18 years of retail experience across two chains. Worth getting her contact info and returning for a real conversation.
