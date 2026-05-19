@@ -5,6 +5,24 @@ Each entry: standout signal, top mistakes, commitment outcome.
 
 ---
 
+## 6 | Rob Martin — Outdoor Sports Insurance, Hub International
+**Date:** May 19, 2026 | **Interviewer:** Lucas (+ one other unnamed) | **Industry:** Insurance / enterprise financial services
+**Person:** Rob Martin, senior insurance agent at Hub International — niche outdoor sports program (ski/snowsport and bicycle retailers). 20,000-employee enterprise, existing Claude license.
+
+**Standout Signal**
+Email routing costs 40 minutes per day: "I do that 20 times a day easily. And it takes two minutes, but you know, it's 40 minutes." — manually routing emails to one of four account managers, quantified unprompted. CRM is a failed system he actively avoids: forced from ACT → Epic → Core through company transitions, doesn't use Core, gets criticized for it. Both signals volunteered freely, not drawn out.
+
+**Top Mistakes**
+1. Session opened with a pitch — showing the app and explaining Claude Skills before asking a single question
+2. Explained Claude model tiers and token economics mid-conversation (product education, not discovery)
+3. Accepted a full wishlist of feature ideas (email prioritization, AI drafting, calendar blocking, EIN prospecting) without anchoring any to a specific past story
+4. Prior spending on phone prospectors was mentioned and never followed up — the strongest willingness-to-pay signal in the session
+5. No commitment ask — ended with Rob volunteering to prepare a spreadsheet, no next meeting defined
+
+**Commitment Outcome:** None. Rob offered vague future help ("let me know what you need," "I'll figure out a way to pay you guys something"). No specific next step, no calendar date, no ask was made.
+
+---
+
 ## 5 | Something Safari — Toy Store, Excelsior
 **Date:** May 18, 2026 | **Interviewer:** Lucas | **Industry:** Toy retail
 **Person:** Unknown staff member or possibly owner (role never established)

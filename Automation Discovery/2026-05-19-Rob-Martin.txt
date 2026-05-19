@@ -1,0 +1,836 @@
+AI consulting for insurance workflow
+====================================
+Date: May 19, 2026
+Time: 4:32 PM – 5:25 PM CDT
+Location: 6080 Sierra Cir, Shorewood, MN 55331
+
+
+TRANSCRIPT
+----------
+Unknown: Recording.
+
+Lucas: Fully showed him the app, but I haven't looked at it.
+
+Unknown: It's sweet.
+
+Unknown: It's sweet.
+
+Unknown: Marie's gonna get one.
+
+Unknown: I think I am.
+
+Unknown: How much does it cost?
+
+Lucas: Well, that's what I did research before buying it because a lot of them are more expensive and have subscriptions.
+
+Lucas: But this was $50 and no subscription.
+
+Unknown: Yeah.Cool.
+
+Lucas: I guess we'll just ask a bunch of questions about your day-to-day and try to find little things.
+
+Lucas: Yeah.He kind of understands the goal a little bit, but not.
+
+Lucas: I haven't explained much at all. No.
+
+Lucas: But he also has been asking me to sit down with him and help just with his, like, use Claude with his work.
+
+Lucas: So he's ready for it, but I think this could be a lot better than Claude.
+
+Unknown: And, like, my Claude.
+
+Unknown: Do you guys have it through work already?
+
+Unknown: We do, and I just have used the Sonnet 4. 6 Adaptive, but I can use Haiku or Opus or Sonnet.
+
+Unknown: And I don't know the differences.
+
+Unknown: And Sonnet seems to be doing just fine for my.
+
+Lucas: What do you use Cloud for right now?
+
+Unknown: Like, what do you put in there?
+
+Unknown: So this was one I looked up last year.
+
+Unknown: Helped me find owners and managers in their email addresses to prospect for my outdoor sports insurance program.
+
+Unknown: Nice.So it put all these resources and pulled together.
+
+Unknown: It said, Do you want a spreadsheet?
+
+Unknown: And I said, Yes, by state.
+
+Unknown: So it did that.
+
+Unknown: But it says, What we can't do, I don't have access to owner names and email addresses.
+
+Unknown: That data isn't in the document.
+
+Unknown: And that's as far as I got.
+
+Lucas: So it's specifically been for research?
+
+Unknown: So it is specifically, well, two things: research and then stupid stuff.
+
+Unknown: It's trying to figure out how much Grammy's pool table might be worth.
+
+Unknown: We all use it for Google and I was trying to figure out what new prop to buy for the button.
+
+Unknown: You know, all that kind of stupid stuff.
+
+Unknown: But I will put contracts in it and have it summarize and rewrite and that sort of thing.
+
+Unknown: It's brilliant for putting decks together for presentations, it's brilliant for.
+
+Lucas: Have you used a cloud for PowerPoint?
+
+Unknown: I haven't, but I've had others that work with me too.
+
+Unknown: That one's insane.
+
+Unknown: Yeah, it just makes us look so much better, but so is everybody else.
+
+Lucas: I'll give an example of like the next level of it, though, is that you can create something called a Claude skill.
+
+Lucas: So every time you're creating a presentation, you could have the skill that knows your hub, or if it was still Horizon, like color palette and style and design, so that every slide you generate would have the same, like, it would be branded to hub.
+
+Lucas: Exactly.All that kind of stuff.
+
+Lucas: Like, that's just one little thing, but I'm more curious.
+
+Lucas: Like, I think let's focus on how you use it for work, not personal searches, is what we're going to be asking questions about.
+
+Unknown: Yeah, so there's one side of the coin: how can it help me grow sales, lead generation, prospect management, and a follow-up timeline, right?
+
+Unknown: So I've got my list, I send out an initial email, and then it automatically is going to say, hey, you got a response, so now it's time for a phone caller, it goes to this bucket.
+
+Unknown: You didn't get a response.
+
+Unknown: What's the cadence that you want to keep hitting these people up with?
+
+Unknown: Different, more clever, more pinpointed.
+
+Lucas: So, that sort of campaign to grow my prospect database.
+
+Unknown: So, myself or people that work for me can call and see if we can try and make us, you know, put the personal touch on it, the unique touch to us, which I'm sure Claude can do too.
+
+Lucas: How does that happen right now?
+
+Lucas: Yeah, what are you using right now?
+
+Lucas: Like, is it a spreadsheet?
+
+Unknown: Is it all in your head?
+
+Unknown: It's a lot in my head.
+
+Unknown: We used to use ACT.
+
+Unknown: It's probably before your guys' time.
+
+Unknown: It was one of their original CRMs.
+
+Unknown: Now, all of my prospects are in Epic, which is our agency management software, and we use this thing called Core that can send me reminders, and it's our sales tool through work.
+
+Unknown: I hate it, I think it's stupid.
+
+Unknown: And I don't use it, and they give me a hard time for it.
+
+Lucas: But so, where do your contacts live today inside of and some still in Epic from before we were at Corps?
+
+Unknown: Oh, because this is the before, after.
+
+Lucas: Yeah, we dumped ACT into Epic, we dumped Epic into Core as best we could, and it's not super clean.
+
+Unknown: What Core allows uh it allows them to forecast.
+
+Unknown: Okay, so that's what the chief sales officer wants: is forecasting.
+
+Lucas: What it also does three things, really it does based on where everything's in the pipeline, forecasting like how many actual closes we can potentially have in the next value of it, what's the potential of it, and when will it close, and they're forecasting super good information from his level to or their level.
+
+Unknown: Yeah, but let's say I met you playing golf yesterday, and you've got a company that's a target.
+
+Unknown: I will also put it in core because we have 17, 000 employees, not all salespeople, but if somebody is already working on it in a different office, I need to know that.
+
+Unknown: And then I can approach that person and say, Your name's on this lead.
+
+Unknown: I don't see that you've done anything with it for three years.
+
+Unknown: I have a real good opportunity here, and our unwritten rule is that I would then get that.
+
+Unknown: Just whoever.
+
+Unknown: Yeah, or if it's somebody in my program, I might say, hey, if you know, they haven't responded to me, but I have a product that you can now go sell.
+
+Unknown: Let's team up on this and we'll share revenue.
+
+Unknown: So you get to see everybody that is an existing prospect or is it a new prospect, and we all need to know that as salespeople.
+
+Unknown: Sorry, how big are big is Hub?
+
+Unknown: Across that's North America, including Canada.
+
+Unknown: I think we're 440 offices and close to twenty thousand employees.
+
+Unknown: Wow.Yeah. Yeah, miley.
+
+Unknown: Okay, so you've gone from 40 to 20, 000.
+
+Unknown: Yeah.Yeah.
+
+Unknown: So, like, I also want to show Lucas for Ramp, like, our Oracle expense tracking stuff is RK compared to what I think Ramp can do.
+
+Lucas: It'll also be a converted list for me to get my credible.
+
+Unknown: Yeah, intern win, GitHub, and there'd be that'd be fantastic.
+
+Unknown: Or for what you guys are working on.
+
+Unknown: But so that's that's sort of the sales side of things, right?
+
+Unknown: I have, I operate in a unique space, but it's changing all the time.
+
+Unknown: People are going out of business, new ones are coming in.
+
+Unknown: So I need to prospect, I need to be able to reach decision makers, and I need to scrub it against our existing database to make sure they're not already a client or a prospect that I've got a clear.
+
+Unknown: Core's not helping you buy new leads.
+
+Unknown: No.Okay. Nobody's just CRM.
+
+Unknown: Nobody is.
+
+Unknown: Although, you know, there are people that I could say, I just haven't had time based on what my work has looked like for the last 18 months, but I want to get back to it and I want some younger sales guys to go after it.
+
+Unknown: I'm losing interest in the small sales side of it.
+
+Unknown: I just don't have the desire or time anymore and don't need to.
+
+Lucas: But I still need to grow this program overall.
+
+Unknown: Outdoor.Yep. Yep.
+
+Unknown: But that's retailers, manufacturers, outfitters who guides special events, resorts to some degree.
+
+Lucas: You say you don't have enough time.
+
+Lucas: Like, where do you spend the most time right now?
+
+Unknown: I am a whore to my email.
+
+Unknown: Okay.And I want to change that.
+
+Unknown: And I would love to train Claude or have an agent that knows how to take everything that hits my inbox and prioritizes it and says, you know, at first it's probably, I can respond to this, help me, and then it's running on its own, or it knows your past responses.
+
+Unknown: This is, you need to respond to this, and you know, this is urgent, this needs your touch, but not urgent to put, recategorize my inbox not by date it came in, but by importance.
+
+Unknown: Yep.And then eventually say, can it actually respond for me?
+
+Unknown: And I probably have to clear some security to do that.
+
+Unknown: I don't think we're maybe allowed to do that yet.
+
+Unknown: But that's the other side.
+
+Unknown: So task management, day to day task management, and then sales tool.
+
+Unknown: What else besides your email?
+
+Unknown: My calendar prioritizing probably a little better, although we're all on a shared calendar now, so I can use uh scheduling assistant for find open slots for the team and all that.
+
+Unknown: So that's pretty good.
+
+Unknown: I think it's really just managing the email box and then coming up with sales efficiencies.
+
+Lucas: How do you do you right now go chronologically?
+
+Lucas: Are you searching for the importance and having to prioritize them?
+
+Unknown: It's a shit show.
+
+Unknown: I have 3, 080 emails in my inbox right now.
+
+Unknown: I'd love to get it to where it's zero at the end of each day.
+
+Unknown: I put things in a to-do, to save, you know, important.
+
+Unknown: Most of half of my emails that require a task, I am sending to somebody else to do.
+
+Unknown: So it's just triaging almost.
+
+Unknown: It is.
+
+Unknown: A lot of that.
+
+Unknown: And then I'm looking at them in order of my perceived importance.
+
+Unknown: Right?Ignore it, gotta respond to it in the next 10 minutes.
+
+Lucas: I can do it tomorrow, but I'm terrible at being organized in that.
+
+Unknown: That's where I could be a lot better.
+
+Unknown: To take my inbox and again prioritize it and then set it up, you know, it'd be awesome if it said, hey, here are the holes in your calendar tomorrow.
+
+Unknown: Here are the five things you should do in that hour and a half.
+
+Unknown: That sort of thing.
+
+Unknown: Aligning with the calendar.
+
+Lucas: Do you think you would actually follow a lined up calendar of tasks throughout a day, though?
+
+Lucas: Like if it said at 1: 30 you will do this task?
+
+Unknown: I would need to change.
+
+Unknown: Yeah.But I would like to change in that way because it would make my world so much easier.
+
+Lucas: And like you'd rather operate that with time association rather than just a s like organized to-do list based on importance?
+
+Unknown: I would love it to plug it into my calendar.
+
+Unknown: I'm thinking I'm probably a very difficult customer for that AI to be surprised.
+
+Unknown: To be in compliance with, so to speak.
+
+Unknown: So I might do, I don't know, I'd like to test it both ways. Yeah.
+
+Unknown: Right?Here's your to-do list in order of importance, whether it's colors or whatever, but also to say, and maybe I could say, look, I feel like this is the hour of the day that I have the best chance at prospecting on the telephone because people are answering their phone, whether that's right after lunch or first thing in the morning, I don't know.
+
+Unknown: I'm sure there's research towards that.
+
+Unknown: But then to say it's task hour, it's non-urgent email hour, it's prospecting hour, and have that, I would need to be able to override that
+
+Unknown: I'd love to have the time blocked on my calendar, but I need to be able to, again, schedule a meeting there.
+
+Unknown: But it'd be nice to not have other people, you know, some people are so dialed in their calendar, you can schedule a meeting with them, and if they're free, they're free.
+
+Unknown: And they're like, Oh, yeah, I just have that two-hour block.
+
+Unknown: Right.Defense, right?
+
+Unknown: Which, you know, we all need. Yeah.
+
+Unknown: So I think it needs to learn about me, and I need to learn about myself where I will respond the best and get the most benefit out of it.
+
+Unknown: Whether it's that, you know, might be fine to just go straight to-do list based on importance.
+
+Unknown: And then it's how do you train it in regards to importance, right?
+
+Unknown: Because what's important to me is not as important to somebody else.
+
+Unknown: But I would have to believe it's pretty smart at picking up the cues that are especially if you, I mean, if you spend 10 minutes at the start, you know, telling you what's important in terms of clients or how, what, you know, what engagements are.
+
+Unknown: Well, and they keep peppering us with Cloud AI learning opportunities, which I have not taken advantage of, but we could look through those.
+
+Lucas: What do those look like?
+
+Lucas: Like, is it a YouTube video?
+
+Lucas: Is it a Zoom like educational session?
+
+Unknown: Is it um I think they're really more like educational uh summaries.
+
+Unknown: This is just uh we put together a short survey, it's better to understand where you're at in Cloud, what's working, what's not, where we can help.
+
+Unknown: Have you looked at any other calendar?
+
+Unknown: And I like it when I want to schedule a meeting with somebody.
+
+Unknown: Yeah.I am.
+
+Unknown: How do I say it?
+
+Unknown: I don't want to open up my day for anybody else to I don't want to be that guy where you book a meeting with me and I'm there.
+
+Unknown: Like I wanna know that I'm get a benefit out of this meeting before I say you get my time.
+
+Unknown: So let's see what this is.
+
+Unknown: So what team are you a part of?
+
+Unknown: How often are you using Quad?
+
+Unknown: What comments?
+
+Unknown: What type of support would.
+
+Unknown: So there are reference guides, short live demos and training sessions, and step-by-step, example-specific stuff.
+
+Unknown: That's what they're putting in front of us.
+
+Unknown: Everybody's trying to do this right now.
+
+Unknown: But with what you guys are doing already, I think it would be: take a survey so we can figure out how to best help you.
+
+Unknown: And then here's how you implement your AI tool, whether it's Cloud or it's Gemini or whatever your business is telling you to use.
+
+Unknown: But it's a huge deal right now.
+
+Unknown: Like on the macro level, our company is probably going to go public in the next 12 months.
+
+Lucas: Well, we are watching our public competitors, and their stocks are beat up right now, and they're not moving because the market wants to see is AI a disruptor, and is the independent broker the dodo bird, or is the independent broker going to be powered to grow dramatically?
+
+Unknown: Is how are their stocks going to do based on this AI revolution?
+
+Unknown: Yeah.Yeah, that shouldn't be enough to right now.
+
+Lucas: We've talked about this a ton, like how it is going to elevate the top 20% and just start to leave other people behind.
+
+Lucas: Yeah, if you embrace it, it's going to help.
+
+Unknown: I love this.
+
+Unknown: Yeah, it's like your the your your amount of fear you have or no your amount your dreams and like ability to embrace AI is inversely proportional to your fear in it and that the more or proportional in that or no inversely proportional the more you're able to the larger you're able to dream about what it could do for you the less fear you're going to have about it yeah i like the uh i don't i can't remember who said it but it was um ai is not going to take your job the guy who embraces yeah is going to take your job that was andrew karvathy okay um so that's you know if you guys could come up with a way to i think you gotta really look like what are you trying to do what are you trying to ignore hub as a whole right now like like look at yourself like we've been asking questions to understand what your annoyances are in your day yeah and where a tool could help save you a lot of time and like i perked up when i heard like you talked about the ability to go out and prospect and having other sales guys do it or even you not caring about smaller accounts because you're so busy with all these emails and everything else but what would your day look like if thirty percent of that work was freed up and you can now attribute like spend that time doing something your passion.
+
+Unknown: We call it like important sales.
+
+Unknown: And the more we can clear that up, that's more.
+
+Unknown: Well, and so much of it is: I get an email that came in, it needs to go to one of four account managers.
+
+Unknown: Yeah.And Epic could tell Claude what account manager that is.
+
+Unknown: And if that email, if I never have to be involved in that, then that will be a huge time saver.
+
+Unknown: For sure.
+
+Unknown: Right?But if, but if Claude could quarterback the team, that would save, you know, I do that 20 times a day easily.
+
+Unknown: And it takes two minutes, but you know, it's 40 minutes.
+
+Unknown: Yeah.So half the time that prompts you, hey, just give us a nudge still.
+
+Unknown: But yeah, I would say half the time a short sentence is involved, half the time I know that they know exactly this is their job and they know what to do.
+
+Unknown: And it just came to my email instead of theirs because that's how the clients know this.
+
+Lucas: Interesting.Like our North Star for everything we're to do right now is that if we can have that back office effect and free up thirty percent of your time, you can spend it on what you're passionate about.
+
+Lucas: Because you didn't get in this industry to respond to emails, you did it to build a relationship in the out, yeah, right?
+
+Unknown: Like, yeah, I mean, I'm kidding, but not really.
+
+Unknown: But yes, if you, you know, if it could help prioritize, but it could also back office that stuff, and it could also streamline the prospecting job, it would be a huge difference maker.
+
+Unknown: And I think that they're putting out lots of good one-size-fits-all tutorial type stuff, but they are not.
+
+Unknown: I haven't seen a let us interview you and then show you how to set this up or set it up for you.
+
+Lucas: You could go find something that organizes your email based on importance.
+
+Lucas: You could add a little bit of customization, but it doesn't understand any of the specifics that you just said about having to pass it along to one of four account managers or like the way you want it organized.
+
+Unknown: But it should be able to learn what's important and what's not.
+
+Lucas: Right?It can write like you based on your past emails.
+
+Unknown: Right.And it should be able to say, I would think I could prompt it somehow to say, you know, this is the exact type of thing that needs to go to this person or needs this response.
+
+Lucas: And then it learns that over time.
+
+Lucas: That's it's a great example is RAMP.
+
+Lucas: Like on their bill pay and like accounts payable system, anytime you correct it to put something in a different category, it takes note of it and applies that to any future process.
+
+Unknown: Yeah.Like it totally learns from itself.
+
+Lucas: So how do you like how do you get started just to say, let's start a task list based on the incoming emails and prioritize that?
+
+Unknown: Yeah, I mean, I think like setting back, like thinking about the hub, right, or hub, there's definitely the security concerns right away, but it's easy to pull from Outlook API, which pulls all the information, and it's able to start organizing.
+
+Unknown: And then like you, you know, basically out of like a Kanban board of things and different task lists, you click on it and it pulls up that email.
+
+Unknown: So I think we may not be there yet where I saw the it's coming out look.
+
+Unknown: What did you call it?
+
+Lucas: API.Outlook already has an API.
+
+Unknown: And this is what I was going to say.
+
+Lucas: It's like, the hub, our hub wants a general purpose AI solution.
+
+Lucas: Have they can do you know if they've considered any specific kind of softwares that are out there already for like specifically what is it called?
+
+Lucas: Independent insurance brokerage brokerages?
+
+Unknown: Okay.Yeah. Um yeah and I see it as a arms race right now.
+
+Unknown: You know it's us and a company called Marsh and a company called Aon, a company called Gallagher.
+
+Unknown: So there's nowhere for us to go any longer with private equity investment.
+
+Unknown: It's IPO or not.
+
+Unknown: And so, but you very much want to time your IPOs based on market sentiment, and that is a big TBD right now. Sure.
+
+Unknown: So, you know, I might just for it to happen, but I want it to happen at the right time. Yeah. Too I can be patient.
+
+Unknown: Like some super simple stuff.
+
+Unknown: Yeah.Two projects, right?
+
+Unknown: Prospecting, sales.
+
+Unknown: Yeah, yeah, we're daily calendar and inbox effect.
+
+Unknown: The prospecting one, I think, could be really powerful.
+
+Unknown: Like, that's what I did when I was out in San Francisco if we were doing web scraping.
+
+Unknown: Even before they open, they apply for an EIN.
+
+Lucas: They can use an ANAI CS code or good health too.
+
+Lucas: You are not speaking my language, but oh, and their industry code, right?
+
+Unknown: Yeah, yeah, yeah.
+
+Unknown: SICK code, yeah.
+
+Unknown: SICK code. Yeah. Totally.
+
+Unknown: And that would be, you know, I have to believe that a lot of people are going to get there, but it could be a little bit of a race to get who gets there first.
+
+Unknown: So that would be super cool to try and figure out how to do it.
+
+Unknown: And I would keep it to independent ski and/ snowsport and bicycle retailers.
+
+Unknown: Like we could do it for the brands, we could do it for some other stuff, but the retailer is really where the pain is in the industry right now and really where my best tools and uniqueness live.
+
+Unknown: What else do you usually do with someone on your team?
+
+Unknown: I've had good results with interns going to the brand's databases, right?
+
+Unknown: We can just scrape that down. Yeah. Yeah, like doing it that way.
+
+Unknown: I just pulled outdoor retailers coming to Minneapolis and August.
+
+Unknown: I don't I'm gonna exhibit, although I I probably could, but they their exhibitor list is there's no A-list companies coming.
+
+Unknown: It's turned into this watered down, you know, you can go buy lots of granola and jerky and stupid stuff, but you're not gonna see Patagonia there type thing.
+
+Unknown: But they put out an exhibitor list, and I don't, it's like anybody maybe who's ever gone to OR in the past, because I know there's a lot of people on that list that there's no way they're going to the show.
+
+Unknown: Let me see if I can.
+
+Unknown: I'm surprised for such a large company, you guys don't have like dedicated prospecting or it's inside of core. Yeah. Um yeah, it's kind of our job though.
+
+Unknown: Yeah, it's right like I have a niche like nobody else has.
+
+Unknown: But you know, there's a guy in my office that chases used auto dealers, and there's a guy in my office that chases small contractors, and there's a guy that only does senior living, and a guy that does habitational condo associations, and so it's a hard let's see, I may not be able to find this right now, but you would think that, but it's also like if we had there's guys in my office that hire outside prospectors that are just dialing to book appointments.
+
+Unknown: That's all they do, and they get paid per appointment they book for you, and then you're on your own.
+
+Unknown: And my company will match that to a certain degree, but they don't want people just being reliant on that, or they want people who do it themselves to not be punished by the guy who's using the resources.
+
+Unknown: It's just too unique in what everybody does to say, here's your prospector.
+
+Unknown: But you're kind of on your own to do your prospecting.
+
+Unknown: What do you mean?
+
+Unknown: Sorry, what do you mean?
+
+Unknown: Just that I'm chasing one class of business with a unique product, usually with one insurance carrier.
+
+Unknown: Oh, okay.
+
+Unknown: Versus your print shop, I'm an independent agent, I gather the information, I go to ten different insurance companies to see who's got the best price for it.
+
+Unknown: Yeah, but we need to keep that reputation because we lost our carrier, and everybody's.
+
+Unknown: I've had to move a thousand clients this year, and all of them have experienced it probably on average 50% increase in cost.
+
+Unknown: So I haven't been super popular.
+
+Unknown: But my goal was: my retention has always been 97-98% because we were so good.
+
+Unknown: And from November through April, we were at 83%.
+
+Lucas: Yep.Because it just got more expensive for everybody.
+
+Lucas: They dropped profitability.
+
+Unknown: Because of the liability landscape in this country and the cost to settle or defend these injury claims.
+
+Unknown: Yeah, we had four claims in the last four years that we settled for over $10 million.
+
+Unknown: And one was, this one drives me crazy.
+
+Unknown: Oregon's so hard to, so liberal in siding with the plaintiffs.
+
+Unknown: Yeah.Got drowned in a kayak.
+
+Unknown: Wasn't our boat.
+
+Unknown: No way.
+
+Lucas: It rained the night before, so a class two turned into a class three river, and some local outfitters that teach said we're not going to go because the water is too high.
+
+Unknown: But we couldn't go back and say, we being this region, we couldn't go back and say, hey, we probably could have put a warning that people might have seen, but people showed up and went kayaking, and a guy got pinned and drowned.
+
+Unknown: So CNA said the writing's on the wall, we just can't be profitable anymore.
+
+Unknown: And they were not the company and didn't have the tools to raise.
+
+Unknown: We did a lot of actuarial studies that said for us to be profitable and sustainable, we need an 80% across-the-board rate increase.
+
+Unknown: And most people have been really understanding.
+
+Unknown: Like, a lot of people are like, can't believe you lasted as long as you did with these prices.
+
+Unknown: A lot of people, with your intentions, they are seriously.
+
+Unknown: But most people are understanding, but they don't have the money and they don't like it. Yeah.
+
+Unknown: That's their biggest thing.
+
+Lucas: Yeah.Mount Hood in Oregon is a big one.
+
+Unknown: Well, that's based on precedence of two lawsuits.
+
+Unknown: There was, it wasn't at Mount Hood, it was at a smaller resort, but it was a mountain biker who hit a, he's summertime on the resort, hits a trail sign post, it's like a telephone pole.
+
+Unknown: Catastrophic injuries, quadriplegic, and the resort didn't do it anymore, and the guy just lost control.
+
+Unknown: He hit the poll, and he got paid 11 million bucks because of Oregon's statutes around signing away liability and waivers.
+
+Unknown: They don't allow it, really.
+
+Unknown: Yeah.And they just had a pretty good court win that's going to help.
+
+Unknown: But it's really outdoor recreation in Oregon is like super dicey right now. Yeah. Interesting.
+
+Lucas: And I mean, you don't have any control over their pricing incidents that happen.
+
+Unknown: And insurance companies.
+
+Unknown: And now you go from Denver to Vail or LA to Mammoth.
+
+Unknown: Every other billboard you see on the highway is got hurt, call 1-800 lawyer.
+
+Unknown: Because the plaintiff's attorneys, private equity is putting money faster into plaintiff's attorney firms than anywhere else because that is where they and all they're doing is going after insurance limits.
+
+Unknown: And it's fucking brutal.
+
+Unknown: It's I mean it's I am very skewed, but I'm very right in my opinion.
+
+Unknown: It's a good way to put it.
+
+Unknown: Um so anyways, it's interesting space to be.
+
+Lucas: But yeah, I would love to help and to help you know be a test dummy for you guys to figure it out.
+
+Lucas: I think it'll be a debrief on our end. Yeah. Debrief and say give us for sure.
+
+Lucas: Give us these d data points or however it comes up.
+
+Unknown: I mean yeah, if you give us like a blurb of at least like what you're looking for in a prospect, I can just go like build some stuff and see and then like send them an email and like you can give feedback on like hey this is great but here's where I want more info or here's because there's like there's kind of two things it's like the filters like what do you want to filter down to and then what do you want to like enrich on like what information do you always want yeah and on that prospect piece as far as clearing it so like it's happened the problem is we'll have I think I've got 25 Alpine sports across the country but it's Rob Martin LLC DBA Alpine Sports and it's Lucas you know so the DBAs and the parent company name we have to kind of scrub against both okay and when you go to the internet you're not seeing the Rob Martin LLC very often so we have to be a little careful with that but I would think it could say we're gonna scrub it against this you know I could get a spreadsheet together of all of our clients at EPIC and I would think it could scrub name first address second you know it could be pretty good and say this is a prospect or a current club yeah but that's an important step because I never want to look at you don't want to look at you prospect to your customers they think you look really disorganized when they're rough like if I just yeah it should be but you know there's always going to be our corporate address is not always our location address our mailing address is not always our location address so I would think it would need more than that one data point to go off of address plus name plus phone phone number maybe yeah yeah it would get us close and then the comparison will be super easy yeah but that's good to know because and I would want to probably until I trusted it put my eyes on it for sure to in my team's eyes to quickly say hey anybody jump out as a current client that's on this prospect list and maybe it's uh you know we try and do it and we bite off something that we can actually chew versus the whole country of all state bites and we say we're really good in Colorado I might say California is so damn hard with wildfire exposures and other things let's hold off on California or let's start with Colorado, Utah, Wyoming or let's pick Front Range of the Rockies and then New England.
+
+Lucas: What's your exposure of saturation like in I guess two questions?
+
+Lucas: Number one is not on clients, but people you have prospected to and understand maybe who they're using right now or they're not ready for a new program right now.
+
+Lucas: Are those also in Epic?
+
+Lucas: So that we can understand if we're actually finding you new prospects.
+
+Unknown: I would be able to provide a client list, a prospect list.
+
+Unknown: But our prospecting through all the transition over the last three or four years and it really being me and not having the time, like I've spent my time, it's been a better use of my time to go to the trade shows and the buying groups and the associations and show my face there and then work on the leads that come out of there versus a mass campaign.
+
+Unknown: But so what I'm saying is whether they're on or off a prospect list, as long as they're not a client, they're kind of the same. Okay.
+
+Unknown: I don't have a ton of warm leads.
+
+Unknown: Or those are the people that know exactly who I am, and they're going to pick up the phone and call me when they have a problem.
+
+Unknown: Yep.So good to know. Okay. Yeah, and I guess I'm thinking about is it would you want us to start with like a system that is scraping for new leads that are coming in or like or not new leads but new businesses that are forming or new entities that we see because those could be like a higher chance of success?
+
+Unknown: Yeah.Or do you want to just look at like mapping out a specific area?
+
+Lucas: I would say the new businesses because if I can catch them before they've made a decision, like they have a name and that's on their to-do list, but boom, hey, this looks like exactly what we need.
+
+Unknown: I'm gonna call these people.
+
+Lucas: I think that would be more manageable and something I haven't done in the past would be a better place to maybe start.
+
+Unknown: Yeah.If it works, that we can like user file but not open.
+
+Unknown: Yeah, that'd be hard.
+
+Unknown: We wouldn't have to be perfect with that.
+
+Unknown: And then I could write the, you know, we would probably have several different samples.
+
+Unknown: This is bike, this is ski, this is skiing bike, this is one shop, this is, you know, I do that all day long.
+
+Unknown: That's easy content to come up with.
+
+Unknown: Got it. Cool. Cool. Awesome.
+
+Unknown: Thank you for your time.
+
+Unknown: Yeah, of course.
+
+Unknown: Thanks for telling me more about the industry, too.
+
+Unknown: Yeah, absolutely.
+
+Unknown: Yeah.Yeah, help, you know, let's help each other.
+
+Unknown: That's the goal. Yeah.
+
+Unknown: And if we can, like, get some traction with this, I'm sure I can figure out a way to pay you guys something, too. Yeah. Yeah.
+
+Unknown: You're never going to say me.
+
+Unknown: But more importantly, like, if I could be the, these guys can do this.
+
+Unknown: Oh, yeah. Yeah.
+
+Lucas: Because I mean, I get all this in my inbox to go do generic cloud shit and I'm not going to go do it. Yeah.
+
+Unknown: You have paid for a phone prospector in the past.
+
+Unknown: There can be huge traction in so many different things.
+
+Lucas: I feel like we're a little undertouched in terms of especially with AI.
+
+Lucas: And like, I don't know, I certainly believe that Claude's great for everyday stuff, but finding a vertical and like what we're trying to do, which is find specific problems and solving those problems for industries, like for an enterprise software deal, right?
+
+Unknown: Like they're sticky.
+
+Unknown: They're really, really sticky.
+
+Unknown: And the more you get pinpoint laser focused right now, we're getting resources to help insurance agents.
+
+Unknown: But I'm not like any other insurance agent out there.
+
+Unknown: And so, if I have this is the help I need, I'm quite certain there's nobody else that needs the exact same help I need.
+
+Unknown: It's all very similar, but if you're not saying we're going to go help the auto dealer industry, we're going to help auto dealer sales guys get better at their job based on what they need.
+
+Unknown: Then you're getting that hyper-focused and you're going to get much better results.
+
+Unknown: Because this shit passes through my inbox that I'm sure I could learn something, pull one thing from out of an hour, and I don't have time to do that.
+
+Lucas: And nobody else really knows what I need unless we sit down and go through a talk a lot about too, which is the fact that a lot of companies, right, like someone at the top signs an enterprise deal. Yeah.
+
+Lucas: They have to know that there's a problem, but whoever is, you know, whether it's boots on the ground or executives like you, it's it, they don't know what's going on sometimes for sure.
+
+Unknown: What their people really need.
+
+Unknown: And even if they do, it's not all the same. Yeah.
+
+Unknown: Like that individualized AI consulting, I would think there would be some traction because it's everybody's trying to capture broad scope.
+
+Unknown: For sure.
+
+Unknown: But what companies really need is for their employees to engage personally, but they're not getting what they need to know how to engage personally.
+
+Unknown: Right?I'm sure I could have this conversation with somebody else at Hub, and I will once we learn, and it would help you guys, you know.
+
+Unknown: I'm sure.
+
+Unknown: Like, it's.
+
+Unknown: Yeah.Which I think is the right choice.
+
+Lucas: And I don't even know what my three levels of Claude are: Sonic, Opal, and whatever the tokens they're going to spend, how much they're going to try to output.
+
+Lucas: Like, if you're giving it something that needs to think deeper and reason with itself more before giving you an answer, it'll spend more tokens, which costs more money, so you want to use that only when you need to. Okay.
+
+Unknown: So you can probably tell me, I want a 14. 5 by 19 prop, tell me where to buy it, and do I want steel or aluminum?
+
+Unknown: I shouldn't be spending that.
+
+Unknown: You use what you've been using.
+
+Lucas: That's the quickest and efficient, and it's still great.
+
+Lucas: You can probably use the other one too, because you probably have a lot of bandwidth.
+
+Lucas: I'm sure we do.
+
+Unknown: But that's interesting.
+
+Unknown: I'm sure we do.
+
+Lucas: Like, will it, at some point, will they say stop using our bandwidth for non-work related mainlands?
+
+Lucas: They're making it, like, putting it on a TV to basically shame you if you're not using it enough.
+
+Unknown: Right, and that's where we are now: use it, use it, use it, use it.
+
+Unknown: So, no, my company isn't even there.
+
+Unknown: Like, they haven't even bought a subscription yet.
+
+Unknown: Yeah, but, like, where you guys really should focus is okay, you've committed.
+
+Unknown: And you know, get signed up and start using it.
+
+Unknown: And maybe it's uh, and you have a mandatory one-hour session with the consultants that we contracted with, which is yeah, that's actually.
+
+Lucas: Like, the four deployed engineering was going to be with a cloud contract.
+
+Unknown: It's not a bad idea.
+
+Unknown: To be an independent geek squad, yeah, just to start a bad example.
+
+Lucas: That's it's close, basically, it's close, yeah, similar, and yeah, and like you said, what works for you won't could work for two other people or a hundred and right, but you don't want to be driving across town to go sit down with Mrs. Sabamp, who wants you to show her how to use Gemini.
+
+Unknown: You want a corporate contract that says we are committed to 100 hours a week, however many consultants you have, or can bandwidth, but for this price, we will do this many sessions, and it will be super focused on how to help the individual, yeah, not the meat AI, right?
+
+Lucas: Because I think the other opportunity here, and just like thinking about how Pub's probably thinking about this, is they bought the subscriptions, but the subscriptions is just like basically a stack of bandwidth.
+
+Unknown: Do you want to show him your book?
+
+Unknown: It's my car.
+
+Lucas: Yeah, I can show him on my phone.
+
+Lucas: Like, he has all of these different things that he wanted to automate with AI for Squeaky Clean, and he just basically built this personal, like, it's his own little website platform that has all the different tabs for all the different tools.
+
+Unknown: The iteration speed is really, really quick.
+
+Unknown: I feel like you guys are on to something.
+
+Unknown: Like, we're a big company, we committed a lot of money to this, we did our research, and now we're in this, we're three months, if not six months, into go use it, go try it, go play with it.
+
+Unknown: Maybe it can help others.
+
+Unknown: And I'm not sure companies, it's hard, you know, like we have young guys, we've got old dogs, and old dogs don't want to learn new things.
+
+Unknown: And it's like, you know, cyber liability insurance came along, and half the industry just said, no fucking way, I don't want to learn, I don't want to know anything about it.
+
+Unknown: And the people that really learned it to sell it did really well with it.
+
+Unknown: When I was signing up for my general liability insurance, there's an option for cyber.
+
+Unknown: Yeah.Well, and we see so many extortion claims in just phishing and electronic fund transfer fraud.
+
+Unknown: Oh, yeah.
+
+Unknown: And I've had a lot of people buy coverage after somebody got into an email thread that said change the wire instructions, and they've lost, you know, $300, 000.
+
+Unknown: And they got to go tell their board: oops, I didn't have a redundancy to call and check the wiring instructions.
+
+Unknown: Wow.Anyways, you guys let me know what you want me to put together, and I will do that. Yeah.
+
+Lucas: We'll debrief and might be what we need access to.
+
+Unknown: And what you need access to.
+
+Unknown: But yeah. Cool.
+
+Unknown: We'll work it all out.
+
+Unknown: Awesome.Sweet.
+
+Unknown: Thank you

@@ -1,0 +1,64 @@
+TRANSCRIPT SUMMARY
+Date: May 19, 2026 | 4:32–5:25 PM CDT
+Location: 6080 Sierra Cir, Shorewood, MN 55331
+Person: Rob Martin — senior insurance agent, Hub International (20,000 employees, 440 offices in North America)
+Decision-maker: Partially. Rob controls his own workflow and prospecting budget. Enterprise tool adoption requires Hub approval above his level.
+======================================================================
+
+WHO WE TALKED TO
+Rob Martin, a senior insurance agent at Hub International specializing in outdoor sports insurance — ski/snowsport and bicycle retailers, manufacturers, outfitters, and guides across North America. He runs a niche program within a large brokerage and operates independently within it. He already has access to Claude through Hub's enterprise license (Sonnet 4.6) but uses it primarily for research and personal tasks. He's been through a major carrier transition this year (CNA exit) that forced him to move ~1,000 clients with an average 50% rate increase.
+
+WHAT WE LEARNED (real data)
+
+Confirmed: Email inbox is a real, quantified operational problem
+"I am a whore to my email." / "It's a shit show. I have 3,080 emails in my inbox right now." (lines 220, 252)
+Rob volunteered this unprompted, with specific numbers and visible frustration. Not drawn out — offered freely when asked where he spends most of his time. This is the strongest signal in the conversation.
+
+Email routing costs ~40 minutes per day
+"I do that 20 times a day easily. And it takes two minutes, but you know, it's 40 minutes." (lines 400–401)
+Rob manually routes roughly 20 emails per day to one of four account managers. He calculated the cost himself, unprompted. Real data: specific behavior, specific time estimate, volunteered.
+
+CRM is a failed system he actively avoids
+"I hate it, I think it's stupid. And I don't use it, and they give me a hard time for it." (lines 138–139)
+Rob was forced from ACT → Epic → Core through company transitions. The data migration is "not super clean." He doesn't use the mandated CRM and gets criticized by management for it. This is a behavioral pattern, not an opinion — he described what he actually does.
+
+He has paid for outside phone prospectors in the past
+(line 699) "You have paid for a phone prospector in the past." (confirmed by context)
+Prior spending on the exact problem being discussed. Amount and ROI were not explored. This is one of the strongest willingness-to-pay signals in the conversation and it was not followed up.
+
+Prospecting relies on trade shows and warm networks, not systems
+"I've spent my time...it's been a better use of my time to go to the trade shows and the buying groups and the associations and show my face there and then work on the leads that come out of there versus a mass campaign." (lines 644–645)
+This is current behavior. He's optimizing for relationship-based lead flow because he doesn't have the time or tools for systematic prospecting. The constraint is time and tooling, not willingness.
+
+Database deduplication is a known operational friction
+"Rob Martin LLC DBA Alpine Sports" — parent company vs. DBA name mismatch makes scrubbing prospects against existing clients unreliable. Rob named this problem specifically and unprompted, including the risk of contacting a current client as a prospect.
+
+Hub is in early "go use it" AI adoption phase; IPO expected in ~12 months
+Hub has committed to Claude enterprise licensing and is 3–6 months into an unstructured rollout. No dedicated AI onboarding beyond generic tutorials. Company context: IPO is being timed to market sentiment on AI — the stakes for getting AI adoption right are high at the corporate level.
+
+BAD DATA
+
+Almost everything described as a desired solution is hypothetical future behavior:
+- "I would love to train Claude or have an agent that knows how to take everything that hits my inbox and prioritizes it." (lines 224–226) — aspirational
+- "I'd love to have the time blocked on my calendar, but I need to be able to override that." (lines 306–307) — feature idea
+- "If Claude could quarterback the team, that would save..." (line 400) — hypothetical calculation
+- "If I can catch them before they've made a decision..." (lines 657–659) — aspiration, not confirmed behavior
+
+Compliments and enthusiasm are not signal:
+- "I feel like you guys are onto something." (line 802)
+- "I'm sure I could figure out a way to pay you guys something." (line 688) — vague, future-tense, cost-free to say
+
+COMMITMENT OUTCOME
+None that counts. Rob agreed to provide a client and prospect spreadsheet (no deadline set, no follow-up structure established). He expressed enthusiasm and willingness to help. He said he might "figure out a way to pay you guys something" — this is a compliment, not a commitment. No specific next meeting, no agenda, no time on the calendar.
+
+THE VERDICT
+Two confirmed pains with real emotional signal: (1) the email inbox / manual routing problem, which Rob quantified himself at ~40 minutes per day of avoidable admin work, and (2) CRM failure — he's been forced into systems he doesn't use and manages mostly from his head. The prospecting and new-business detection interests are promising but remain entirely hypothetical — no have-they-searched test was run, no past spending on prospecting tools was quantified.
+
+Rob is a willing, unusually self-aware interviewee who has real problems. The signal here is legitimate. But the session needs to be followed up with a proper interview — specific past stories, have-they-searched questions, and a concrete commitment.
+
+OPEN THREADS
+- Run the have-they-searched test on email: has he tried Superhuman, SaneBox, or anything else? What failed?
+- Quantify the phone prospector spend: how much, did it work, why did it stop?
+- Map the Hub decision-making path: who would actually approve and pay for a custom AI workflow tool?
+- Explore the carrier transition as a potential problem thread: 1,000 clients, 50% rate increase, retention at 83% — what did managing that operationally look like?
+- Use Q-AW-01 through Q-AW-05 from the question bank for the follow-up conversation.

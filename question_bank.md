@@ -92,6 +92,29 @@
 "Walk me through the last time a shoplifting incident was really frustrating — what exactly happened, start to finish?"
 *Why: Past-specific. Forces a full narrative instead of general frustration. Reveals the real operational workflow and pain.*
 
+### AI Consulting & Enterprise Workflow Discovery
+*(approved May 19, 2026)*
+
+**Q-AW-01** | `[problem-validation] [workflow] [have-they-searched] [ai-consulting]`
+"Have you ever tried any email management tools — Superhuman, SaneBox, something like that — to fix the inbox problem? What happened?"
+*Why: The have-they-searched test. Described 3,080 emails and real distress, but no prior search = pain may be tolerated, not urgent enough to buy.*
+
+**Q-AW-02** | `[problem-validation] [spending] [past-specific] [ai-consulting]`
+"You mentioned you've paid outside phone prospectors before — how much did that run you, and did it work?"
+*Why: Actual past spending on the exact problem being discussed. Whether it worked or failed tells you willingness to pay and what's already been tried.*
+
+**Q-AW-03** | `[problem-validation] [past-specific] [severity] [ai-consulting]`
+"Walk me through the last time you lost a warm lead because things fell through the cracks — what actually happened, start to finish?"
+*Why: Forces a specific story about the downstream cost of bad task management. Separates real operational pain from hypothetical aspiration.*
+
+**Q-AW-04** | `[problem-validation] [decision-making] [enterprise] [ai-consulting]`
+"If you wanted to run a new AI tool for your workflow — something outside what your company's already licensed — who would need to approve that?"
+*Why: At a large enterprise, the buyer may not be the user. Knowing the decision-making path is required before building anything for this space.*
+
+**Q-AW-05** | `[problem-validation] [severity] [costs] [ai-consulting]`
+"Has anyone at your company ever tried to measure what percentage of your selling time gets eaten by admin — is there a number?"
+*Why: Anchors the time-savings aspiration to actual financial stakes. If no one has tried to quantify it, urgency is probably aspirational rather than structural.*
+
 ---
 
 ## Commitment-Closing Questions
@@ -116,4 +139,4 @@
 
 ---
 
-*Question count: 21 | Last updated: 2026-05-18*
+*Question count: 26 | Last updated: 2026-05-19*
