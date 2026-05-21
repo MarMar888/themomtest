@@ -70,6 +70,9 @@ CROSS-CONVERSATION PATTERNS TO STOP
 - When someone volunteers that their current solution is inadequate ("our cameras aren't very good"), don't move on — that's the exact moment to ask "Have you ever looked at fixing that? What stopped you?" Missing this skips the have-they-searched test entirely.
 - When a problem has clear emotional signal but no financial weight attached, ask "Has anyone ever tried to put a number on what this costs you?" — frustration without magnitude is hard to build on.
 - When you learn of a specific, documented, recurring instance of a problem (e.g., a professional shoplifter who's been hitting multiple stores for a long time), go deeper on it: "What has the company actually tried to do about that?" Don't treat it as background detail.
+- When someone mentions they have paid for a solution to a problem in the past, that is the highest-priority thread in the room — it is the only hard willingness-to-pay data available. Follow it immediately: "How much did you spend? Did it work? Why did it stop?" Letting it pass is the worst miss you can make.
+- Never open with a product demo, feature explanation, or model walkthrough. Walk in with questions only. Everything the customer hears before you ask your first question contaminates the responses that follow.
+- A wishlist of AI feature ideas ("I'd love it if it could prioritize my inbox, draft emails, block my calendar...") is the AI-era version of asking "would you use this?" — it is not data. Do not accept it and move on. Anchor every item to a specific past behavior: "Have you ever tried something like that before? What happened?"
 
 
 CONVERSATION 3: Something Safari / Excelsior (toy store)
@@ -86,3 +89,27 @@ CONVERSATION 3: Something Safari / Excelsior (toy store)
 3. CONTRADICTORY IDENTITY IN THE SAME CONVERSATION
    In 9 minutes: college student → entrepreneurship major → done with school → going to New York to work for Ramp.
    Problem: When the person can't figure out who you are or what you want, they stop being honest. "I'm not going to give you my secret" is the result. Decide who you are for this conversation before you walk in and do not deviate.
+
+
+CONVERSATION 4: Rob Martin — Hub International (insurance / AI consulting)
+---------------------------------------------------------------------------
+
+1. OPENED WITH A PRODUCT DEMO
+   Lucas opened by showing Rob the physical recording device and immediately shifted into explaining Claude Skills ("you could have the skill that knows your hub, color palette and style").
+   Problem: The customer heard product features before being asked a single question. Everything Rob said after that was filtered through "how do I be helpful to these guys" rather than "what actually frustrates me." This is the same mistake as Conversation 2, scaled up.
+
+2. EXPLAINED MODEL TIERS AND TOKEN ECONOMICS MID-SESSION
+   Lucas: "I don't even know what my three levels of Claude are: Sonic, Opal, and whatever the tokens they're going to spend...if you're giving it something that needs to think deeper and reason with itself more before giving you an answer, it'll spend more tokens, which costs more money."
+   Problem: Product education during a discovery conversation. It signals you are there to sell, not to learn. Rob had no use for this information and it wasted 10 minutes of the session.
+
+3. ACCEPTED THE WISHLIST WITHOUT ANCHORING ANY OF IT
+   Rob described five things he'd love AI to do: prioritize his inbox, draft email responses, block calendar time, run prospect outreach campaigns, and de-duplicate EIN records. Lucas took notes and moved on.
+   Problem: None of these were anchored to a specific past story. "I'd love it if..." is aspiration, not evidence. The right response to each item is: "Have you ever tried to solve that before? What happened?"
+
+4. LET THE PHONE PROSPECTOR SIGNAL PASS
+   At the end of the conversation, someone said: "You have paid for a phone prospector in the past." The conversation moved on without a single follow-up question.
+   Problem: Prior spending is the strongest willingness-to-pay signal that exists in a discovery conversation. Rob has literally paid for a solution to the prospecting problem before. Not following up — how much, did it work, why did it stop — is the biggest missed opportunity in the session.
+
+5. NO COMMITMENT ASK
+   Session ended with Rob offering to send a spreadsheet of clients and prospects (no deadline set) and saying "I'm sure I can figure out a way to pay you guys something."
+   Problem: Vague future help and encouraging words are not commitments. No calendar invite, no agenda, no agreed next step. A real commitment ask would have been: "Can we schedule 30 minutes next week to go through your inbox together and build the first version of that triage workflow?"
