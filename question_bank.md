@@ -115,6 +115,25 @@
 "Has anyone at your company ever tried to measure what percentage of your selling time gets eaten by admin — is there a number?"
 *Why: Anchors the time-savings aspiration to actual financial stakes. If no one has tried to quantify it, urgency is probably aspirational rather than structural.*
 
+### B2B Distribution & ERP Evaluation
+*(approved May 22, 2026)*
+
+**Q-DI-01** | `[problem-validation] [distribution] [workflow] [past-specific] [b2b]`
+"Walk me through what actually happens when a new distributor needs to understand your full product catalog — what do you have to do, step by step?"
+*Why: Forces a specific process description. Reveals whether distributor onboarding is recurring pain or occasional friction. Works for any B2B company going through a distribution model.*
+
+**Q-DI-02** | `[problem-validation] [distribution] [past-specific] [severity] [b2b]`
+"Has the distributor communication friction ever cost you something concrete — a sale, a relationship, a delay that actually mattered? Give me the last specific example."
+*Why: Anchors the vague "it's inefficient" complaint to a real downstream cost. Losing a deal is a different magnitude than annoyance.*
+
+**Q-ERP-01** | `[problem-validation] [spending] [erp] [past-specific] [b2b]`
+"When you were evaluating that ERP, what was the specific problem it was supposed to fix? Walk me through what that looked like at the time."
+*Why: The ERP evaluation story is the richest signal in this conversation — the problem that drove a $40k consideration is more trustworthy data than anything described today.*
+
+**Q-ERP-02** | `[problem-validation] [spending] [erp] [willingness-to-pay] [b2b]`
+"What would the right solution have needed to do — or cost — to actually be worth it to you?"
+*Why: Reveals the true willingness-to-pay threshold. He stopped at $40k going to six figures. Knowing where the line is and why is more valuable than the price point itself.*
+
 ### Multi-Location Operations & Car Wash
 *(approved May 22, 2026)*
 
@@ -158,4 +177,4 @@
 
 ---
 
-*Question count: 30 | Last updated: 2026-05-22*
+*Question count: 34 | Last updated: 2026-05-22*

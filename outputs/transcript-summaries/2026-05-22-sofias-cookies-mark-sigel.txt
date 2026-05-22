@@ -1,0 +1,39 @@
+TRANSCRIPT SUMMARY
+Date: May 22, 2026
+Person: Mark Sigel — likely owner or senior decision-maker at Sofia's Cookies
+Decision-maker: Appears yes — evaluated and killed a $40k ERP investment on behalf of the company
+Note: Summary based on rough interview notes only. No direct quotes or dialogue were recorded.
+======================================================================
+
+WHO WE TALKED TO
+Mark Sigel at Sofia's Cookies, a national promotional products company that packages small branded cookies for corporate promotional campaigns. Their core model: a business buys Sofia's cookies to give out as a branded promotional item — the competition is every other promotional product category (pens, notebooks, branded merchandise). Driving category awareness is the primary marketing challenge — getting buyers to consider cookies as a promo product at all. Top-line leads and sourcing come through distributors, not direct sales. Direct marketing and customer nurturing is where Sofia's invests and sees results.
+
+Mark has decision-making authority: he personally evaluated a $40k ERP investment, watched the price tag escalate toward six figures, and made the call to stay with their current stack — Method + QuickBooks + SosInventory.
+
+WHAT WE LEARNED (real data)
+
+ERP evaluation — real spending behavior, stopped at cost
+Mark evaluated a $40k ERP investment. The price tag was escalating to six figures when they decided it wasn't worth continuing. Outcome: stay with current stack (Method + QuickBooks + SosInventory). This is the most credible signal in the conversation — a documented evaluation of a significant operational solution, stopped not because the problem wasn't real but because the cost became prohibitive. The problem being solved was not explicitly captured.
+
+Distributor fragmentation is an acknowledged operational problem
+There is no unified way to interact with distributors. Every distributor uses a different ERP or software system, forcing ad-hoc back-and-forth to communicate products, services, and pricing structure. "Ad-hoc understanding is the status quo." This is a real, named pain — but whether Mark experiences it as urgent or simply accepted is unknown. No specific story was captured.
+
+Business model is distribution-first
+Top-line leads come through the distributor network, not through Sofia's own direct sales motion. Marketing and nurturing to end buyers is the investment area — awareness that cookies can be a promo product. The distributor relationship is therefore both a sourcing dependency and a channel dependency.
+
+BAD DATA
+
+None visible from the notes. No compliments, fluff, or feature wishlists were recorded.
+
+COMMITMENT OUTCOME
+None. No next step, no intro request, no follow-up plan recorded.
+
+THE VERDICT
+The ERP evaluation is the only hard signal here: Mark considered buying something expensive and decided the price wasn't worth it. That tells us the problem exists and was real enough to evaluate seriously — but the cost-ceiling was somewhere between $40k and six figures. What's missing is the most important thing: what specific problem was the ERP supposed to solve? If distributor fragmentation was one of the drivers, that's a meaningful signal. If the ERP was purely for something else (inventory, billing, financial reporting), the distributor friction may be accepted rather than urgent. "Ad-hoc understanding is the status quo" reads like someone who has optimized around a problem, not someone actively seeking a solution.
+
+OPEN THREADS
+- What was the $40k ERP supposed to fix? Was distributor integration one of the drivers, or was this purely a back-office / financial system?
+- Has the distributor communication problem ever cost Mark something concrete — a lost sale, a failed onboarding, a delay that mattered?
+- Is he still looking for a solution to whatever drove the ERP evaluation, or has he closed that chapter?
+- Who else in promotional products runs on the same distributor model? Is Mark a useful intro point to the segment?
+- What would the right solution have needed to do — or cost — to actually be worth it?

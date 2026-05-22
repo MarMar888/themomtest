@@ -5,6 +5,24 @@ Each entry: standout signal, top mistakes, commitment outcome.
 
 ---
 
+## 8 | Mark Sigel — Sofia's Cookies, Promotional Products
+**Date:** May 22, 2026 | **Interviewer:** Marley | **Industry:** B2B promotional products / specialty food manufacturing
+**Person:** Mark Sigel — likely owner or senior decision-maker (evaluated and killed a $40k ERP investment on behalf of the company)
+*Note: Based on rough notes only — no direct quotes or dialogue recorded.*
+
+**Standout Signal**
+Mark evaluated a $40k ERP that was escalating to six figures and stopped — stayed with Method + QuickBooks + SosInventory. Real spending behavior: the problem was real enough to evaluate seriously, but the cost ceiling was somewhere between $40k and six figures. What problem drove the evaluation was not captured. Distributor fragmentation was separately identified as a known pain: no unified ERP/software across the distributor network, ad-hoc back-and-forth is the status quo. Whether these two threads are related is the key open question.
+
+**Top Mistakes**
+1. No quotes or dialogue recorded — cannot evaluate question quality, whether the idea was pitched, talk/listen ratio, or conversation flow
+2. The ERP evaluation thread appears to have been left at the surface — no record of asking what the ERP was supposed to solve
+3. "Ad-hoc understanding is the status quo" was accepted without anchoring to a specific story or asking whether Mark is still looking for a solution
+4. No commitment ask; no next step recorded
+
+**Commitment Outcome:** None. No follow-up plan.
+
+---
+
 ## 7 | Jacob Simms — Superwash / WashMe Chain, Golden Valley
 **Date:** May 21, 2026 | **Interviewer:** Lucas | **Industry:** Multi-location car wash operations
 **Person:** Jacob Simms — owner, ~70 corporate Superwash locations + 4 WashMe locations across the Midwest. Also runs a family hedge fund. 16 years running the car wash operation. COO is Connor.
