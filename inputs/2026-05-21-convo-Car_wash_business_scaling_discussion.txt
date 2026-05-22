@@ -1,0 +1,682 @@
+Car wash business scaling discussion
+====================================
+Date: May 21, 2026
+Time: 2:14 PM – 2:50 PM CDT
+Location: 701 Xenia Ave S, Golden Valley, MN 55416
+
+
+TRANSCRIPT
+----------
+Lucas: So I just built out a full kind of like operating system online so that I don't have to touch anything anymore.
+
+Unknown: General manager can come clean my boat for a new client, let's go.
+
+Unknown: Great.I gotta use it first.
+
+Unknown: What do you have?
+
+Unknown: NAT.Oh, nice.
+
+Unknown: Which is, oh my god, now it's a 2020.
+
+Unknown: Wow.It used to be proud of how new it was.
+
+Unknown: It's not new at all.
+
+Unknown: Although there's not a lot of hours on it, Axis A20.
+
+Unknown: Yeah, Axis, nice.
+
+Unknown: Do you surf quite a bit?
+
+Unknown: I mean, I did when I had time. Yeah.
+
+Unknown: So now good during COVID.
+
+Unknown: Yeah, it was good for a couple.
+
+Unknown: I still love it.
+
+Unknown: I just don't have a whole lot of time for it.
+
+Unknown: But I met the boat, is that being screened by Marina?
+
+Unknown: Oh nice.
+
+Unknown: Yeah, right at the Celsius.
+
+Unknown: Yeah, it is.
+
+Lucas: Okay, so you built out a whole out for this boat cleaning.
+
+Lucas: Yeah.This doesn't really scale.
+
+Unknown: No, no, not at all.
+
+Lucas: It's it was just kind of a trial for like what we've kind of realized is for deployed engineering, you know, being an engineer right next up to a problem or a product or a business is incredibly powerful, and the fact that I built it out in six days and it basically runs itself.
+
+Lucas: That's impressive.
+
+Lucas: Which the loop, the feedback loop, used to be three months, now it's yeah, that's an incredible proof of concept for sure.
+
+Lucas: So to me, the next steps would be either like looking at other businesses to also do that in, just to see if there's small solutions, and then seeing if that if there's like a problem that someone has in an industry, that then you could scale up.
+
+Unknown: This is what we're talking about the problem.
+
+Unknown: We hired, so my mentee this year is Jacob Gendro.
+
+Unknown: Do you know him?
+
+Unknown: Big fellow.
+
+Unknown: He's all skinny now.
+
+Lucas: I saw him the other.
+
+Unknown: Yeah, he was skinny.
+
+Lucas: He's who Lowlich mentioned when we.
+
+Lucas: Yeah, I remember.
+
+Unknown: He's brilliant.
+
+Unknown: Great guy.
+
+Unknown: Full on Brilliant.
+
+Unknown: And we've had my car with my car wash operation here.
+
+Unknown: And I'll tell you the problem and maybe even solve it and make a billion dollars.
+
+Unknown: But we're we have a credit card processor, which is not a surprise, but we are in the universe.
+
+Unknown: I forget what they call it, but it's non-something NP.
+
+Unknown: The customer or the business is not present.
+
+Unknown: So it's when you swipe a credit card, person, card not present, I don't remember whatever the fuck it is.
+
+Unknown: Um it's not e-commerce, of course, and it's not liquid to target.
+
+Unknown: So this is a case where there is oftentimes nobody there, and you're using you're physically using a credit card, just like right for a lot of different problems.
+
+Unknown: And there are, I think, only, it is I I believe an oligopoly between cardmate and World Pay.
+
+Lucas: And WorldPay, who we use at sixty seven of the seventy car washes, is the larger of the two.
+
+Unknown: They were owned by iServe, and they just got sold for, I wanna say, twenty billion maybe.
+
+Unknown: Some big fucking numbers.
+
+Unknown: Yeah.Huge.
+
+Lucas: And they in it in just all merchant transactions.
+
+Unknown: Because square isn't.
+
+Unknown: Like if you go to the if you go to the farmer's market and you buy a banana, this, you know, they're right there, they'll swipe it.
+
+Unknown: So that space is ripe for disruption.
+
+Lucas: So I mentioned a lot of it, we rely on Roll Pay for our intraday credit card reporting, which they don't have, like, they don't have a proper API.
+
+Unknown: It's a whole disaster.
+
+Unknown: Like, we need to access their API, and they'ren't cooperative, and the whole thing is terrible.
+
+Unknown: So I reached out to Jacob.
+
+Lucas: I'm like, he's in all the highest classes.
+
+Unknown: I'm like, who is the most talented computer scientist in that high school?
+
+Unknown: He's like, I got him.
+
+Unknown: I know his sister.
+
+Unknown: Okay.Is she Laura?
+
+Unknown: Yeah.Is she wacky?
+
+Unknown: Ah, no.
+
+Unknown: Not just normal?
+
+Unknown: Not super normal, but I sailed with her. Okay.
+
+Unknown: Well, this kid posts his ACT and SCT Squadron's LinkedIn page.
+
+Unknown: That's quite impressive, I will say.
+
+Unknown: I'm I'm sure it was.
+
+Unknown: It was like thirty-six and fifteen eighty.
+
+Unknown: This is a smart kid.
+
+Unknown: If you go to Carnegie Mellon and Carnegie Mellon, we just call Boy Genius around here.
+
+Unknown: So he's most awkward human being you've ever been in your life.
+
+Lucas: And I know you just worked at Tesla with a lot of very weird.
+
+Lucas: I was less, I was very less awkward than that.
+
+Lucas: He's like pretty far down the weird ones that can interact with people.
+
+Unknown: Yeah, yeah, yeah.
+
+Unknown: But he came in at a suit and tie changed his car.
+
+Unknown: He's a sweet kid.
+
+Unknown: He's clearly pretty far down the spectrum.
+
+Lucas: So he's going to build us an app that will aggregate, we'll give him a couple thousand dollars of cash.
+
+Unknown: I would say it's beer money, but I don't know if he's a particular beer money right now.
+
+Lucas: Something money bill.
+
+Unknown: That's something to look at.
+
+Unknown: It is like begging that oligopoly is beging for disruption, and it is not complicated.
+
+Unknown: There's just no one out there that is efficiently in a customer friendly, in a customer-forward way, processing transactions where the term is.
+
+Unknown: Merchant, not present, basically.
+
+Unknown: Yeah, there's an acronym I should know, and I don't know what it is, but that's basically what it is.
+
+Unknown: So I digress, but as you brainstorm, you should look at that 'cause it is a huge opportunity.
+
+Lucas: Because it's not plugging in online, right, manually, card, and it's not square.
+
+Unknown: It's the niche you'd have to.
+
+Unknown: I don't know.
+
+Unknown: There's car washing, we're not vending, is another one, right?
+
+Unknown: Yeah.So the biggest applications are probably car washes and vending, which is in itself a huge market.
+
+Unknown: And the customer service is well it's just indescribably bad.
+
+Unknown: He got nowhere.
+
+Unknown: I ultimately found the company that bought World Pay, like a big public health company, and I was able to get the chief client officer on the phone.
+
+Unknown: She intervened.
+
+Unknown: So she got you API access?
+
+Lucas: She got us to the chief client officer of the company that bought CryptoPay from these guys, and they got us in touch with like a very high ranking executive who says they're going to get us a development team that we'll be
+
+Lucas: But this experience should, I mean, no, it's not.
+
+Lucas: Yeah, like use my use my clout to get like a public company executive to take my call for a chain of car washes.
+
+Lucas: No.So I digress.
+
+Unknown: What I would tell both of you guys, because you're both entrepreneurs, obviously, and you guys are going to go down that route permanently, I'm pretty sure of it.
+
+Unknown: Like, I think he created Facebook to look at pictures of girls.
+
+Unknown: I'm like, okay, and so, like, that's where it started, but here we are, truly not a business.
+
+Unknown: So, so much of, so many of the problems that hardcore entrepreneurs like you solve are just things that they face in their day-to-day, and they're like, you know, what's your personal experience?
+
+Unknown: I'm going to solve it.
+
+Lucas: I think about all the things that my wife has noticed operationally, like going through life, like this business or this customer experience or this product, whereas she's like, someone needs to fix this, like, this is just broken.
+
+Unknown: And these are things that, if you just approach life with your eyes open, with enhanced curiosity, like everything is an opportunity, and you readjust the way that you walk through life, then the opportunities just come.
+
+Unknown: Like, when I walk through the mall with the kids, I'm not like, oh, get me the fuck out of here.
+
+Lucas: I'm trying to see what are people doing, like, where are people spending their time and their money?
+
+Unknown: Yeah.Right?
+
+Unknown: So, if I get pitched a deal for so-and-so, I'm like, yeah, this is real because I'm like, I'm a middle-aged guy.
+
+Unknown: So, it's curious to see where the patterns are.
+
+Lucas: There's an old story.
+
+Unknown: Michael, he served, Michael Milliken, right, who invented the high-yield market.
+
+Unknown: They call him the Junkb King.
+
+Lucas: He did a few years in jail for inside trading way back when, but he's still a self-made billionaire and he's still a very well-respected guy.
+
+Lucas: And when he was at the height of his junk bond fame, he lived in Beverly Hills, super wealthy, would take his daughter and all the girls to the mall with stacks of hundreds, right?
+
+Unknown: Just to see.
+
+Unknown: Yeah, just to see.
+
+Unknown: Like, it's a great ROI.
+
+Lucas: And you guys, it's life-changing.
+
+Unknown: Because you got it, like, you got to learn, right?
+
+Unknown: And just the $11 I just spent on the way here on this shitty car wash, I've got three or four things to talk to my operations guy, he sits right there, Connor, about right, most of the things not to do, which is helpful too.
+
+Unknown: If you get ended in from this meeting, it is really changing your perspective and how you look at everything.
+
+Unknown: Right?Yeah.
+
+Unknown: And I think that will change everything.
+
+Unknown: Right?Because it's guys like you that will solve that stuff.
+
+Unknown: And you can triage it like, okay, well, you know, can we really do this?
+
+Unknown: Right?And a couple weeks of that and listening to your friends complain, listening to mom and dad complain, and you just get ideas.
+
+Unknown: Right?Like, don't fuck with that.
+
+Unknown: I honestly don't know enough.
+
+Unknown: But there are plenty of issues and pain points and things that are just irritating, that don't work right or don't exist, that aren't riddled in bureaucracy or insurmountable bureaucracy in the case of medical records, that are just out there for the taking.
+
+Unknown: Especially right now.
+
+Unknown: There's ton.
+
+Lucas: And with your operations guy and how that's evolved.
+
+Unknown: Yeah, I appreciate that.
+
+Unknown: So he's the ops guy, he's the one that's like fighting the battles.
+
+Unknown: Um so a handful of years ago, one of my good buddies and now business partners, his name is Brent.
+
+Unknown: I blocked all of them so I don't get them.
+
+Unknown: Sun-Tide, there's a bunch.
+
+Unknown: And so Brent, he runs his family business, which is large.
+
+Unknown: Okay.It's a huge business.
+
+Unknown: It's not the highest margin business, but he's doing just fine with how some talk and they're doing all right.
+
+Unknown: And he got this email about his Washme.
+
+Unknown: So that's just four locations here in Minneapolis, one across from the Blake School in Hopkins, and the rest are in the city.
+
+Unknown: And the owner was passivated a day-to-day guy who had his health go against him, and he needed to sell it immediately.
+
+Lucas: So we bought those four as to test out a theater, as a beta test, effectively, right?
+
+Unknown: We're going to buy these four, cost us maybe $3. 5 million.
+
+Unknown: I can't remember what it was, maybe $3. 5 million.
+
+Unknown: And so we bought those, and having no experience in the car washing business whatsoever, left most of the team in place.
+
+Unknown: When I say team, these are just people with, I don't think any of them graduate, one of them graduated college, the rest of them did finish middle school, high school.
+
+Lucas: Most of them have served time, some of them hard time.
+
+Unknown: It's not like a real sophisticated.
+
+Unknown: There's one manager for each one of them.
+
+Unknown: No, one manager for all four of them.
+
+Unknown: And then attendants.
+
+Lucas: So we figured it out.
+
+Unknown: And by about four months in, I determined and Brent agreed that it was time to scale.
+
+Unknown: That was pretty early, like four months in. Yeah, you know.
+
+Unknown: You just have to feel if you can survive winter and make money, you know, you kinda 'cause that's when everything business is good in the winter, but that's when everything freezes, it breaks, and it's just chaotic, right?
+
+Unknown: Because the weather is so extreme.
+
+Unknown: So, with that, I just started getting the word out, talking to brokers and just networking and letting them be known that we were looking to scale.
+
+Unknown: You know, it's like if you're looking for a house and you call 10 real estate brokers, you get plenty of phone calls, right?
+
+Unknown: So I put the word out and then it happened.
+
+Unknown: It was, I don't know, maybe we bought 59 of them.
+
+Lucas: So we have 70 locations throughout the Midwest, you can kind of see the expand there.
+
+Unknown: That's Nebraska, that's Kentucky.
+
+Unknown: So that's where we are.
+
+Unknown: And we're slowly and steadily buying back franchisees.
+
+Unknown: It'll take a while.
+
+Unknown: My kids are like, Dad, how long do you buy them all back?
+
+Unknown: I'm like, oh, there's 82.
+
+Lucas: Are they under Superwatch?
+
+Unknown: Yeah, they're Superwatch branded.
+
+Unknown: If you drove by, it's not like you would know.
+
+Unknown: Got it.
+
+Unknown: So we have those, but that is our growth strategy.
+
+Unknown: It's very much so anchored to buying back Superwash franchise.
+
+Lucas: Is it people joining Superwash and they were an independent one, or is it them?
+
+Unknown: No, those are all original franchisees and guys just retiring.
+
+Unknown: Wow.Yeah, pretty much.
+
+Unknown: There's some other oddballs, but that's some other non-streams.
+
+Unknown: Very operationally intensive.
+
+Unknown: Yeah, you're not actively looking for independence to acquire and bring under the brand.
+
+Unknown: Yeah, we do.
+
+Unknown: As long as they fit.
+
+Unknown: So, like, there's one I'm trying to pick up right now.
+
+Unknown: It's in a town called Oregon, Illinois, which is surprisingly affluent and rural, which usually don't go hand in hand.
+
+Lucas: Well, I worked in lower middle market.
+
+Unknown: Yeah, yeah, yeah.
+
+Unknown: So here's what I would tell you: when you have money to spend, people find you.
+
+Lucas: Like in anything.
+
+Unknown: So, are you putting any efforts?
+
+Unknown: If you're walking around Nordstrom and you look at you have money to spend, they're going to come find you.
+
+Lucas: Are you doing any efforts yourself looking for new locations?
+
+Unknown: You're just letting the brokers go?
+
+Unknown: Yeah, no, for sure.
+
+Unknown: There's a few things.
+
+Unknown: So I use Crexy, which is a subscription database for small to mid-sized commercial real estate and commercial businesses.
+
+Unknown: Got it.
+
+Lucas: Small.You wouldn't Brookfield wouldn't be like, Let's buy a hundred million dollar office tower.
+
+Unknown: It's more like, let's buy a car wash, or you know, a strip mall or a parking garage.
+
+Unknown: I like it.
+
+Unknown: I mean, it's yeah, it's actually pretty good.
+
+Lucas: Does it have all the info you want on the deals it finds?
+
+Lucas: Yeah, I mean, it's got because what Crexy does, which is cool, is it pulls from because it's all public record, so you can see the exact parcel, you can see the PIN number on the property, you can see the taxes, you can see who owns it, even if it's an LLC, you can see all the sales history, because it's real estate and it's all public record.
+
+Unknown: So it's pretty good.
+
+Lucas: So that drives a lot of your smooth as a Gazillo.
+
+Unknown: Gazillo's got a bajillion users.
+
+Unknown: Crexy is smaller, but it's pretty good.
+
+Lucas: So, what diligence do you have to do on top of it then to determine if it's a good gotta see the financials and gotta have someone inspect the site?
+
+Unknown: Yeah.So I'll I'll scan Crexy on occasion, not often, usually if I'm bored I'll do it.
+
+Unknown: Or if I just like need a brain break.
+
+Unknown: You know, like the same reason that like your wife would the same reason that my wife would like, you know, scroll for a car.
+
+Unknown: That's one.
+
+Unknown: Two is brokers call me.
+
+Unknown: I have one broker I work closely with.
+
+Unknown: His name is Iman.
+
+Unknown: And he sold a super wash, so I'm close with him.
+
+Unknown: It's a bit of a love-hate because brokers are horrible people.
+
+Unknown: But he's a good kid.
+
+Lucas: The business broker space seems like it has a very tough rep. Yeah, it's brutal.
+
+Unknown: We bond over soccer.
+
+Unknown: He was almost pro, kind of one of those kids, just not quite good enough.
+
+Unknown: So he was very competitive.
+
+Unknown: He's a good kid.
+
+Unknown: I like him.
+
+Unknown: So he'll bring me a ton of shit.
+
+Unknown: And then my employees find things.
+
+Unknown: So this one in Oregon, Illinois, one of our employees' sons is like a mechanic, and he was driving through, and it said for sale.
+
+Unknown: You know, and so he just took a picture of it, sent it to his dad.
+
+Unknown: I didn't even know, but they were like, hey, we just finished the inspection.
+
+Lucas: I was like, nice. Fine.
+
+Lucas: And that original manager of the four moved on is now.
+
+Lucas: Are you talking about Superwash or Washman?
+
+Lucas: Because you have someone overseeing operations, Connor.
+
+Unknown: No, no, I have a young kid.
+
+Unknown: He's two years out of, two years graduate from the University of Minnesota, and he runs the day-to-day for the four superwashes.
+
+Unknown: Damn it, for the four wash movies in town. Okay.
+
+Unknown: And he could probably handle seven, but we only have four.
+
+Unknown: Got it.
+
+Unknown: And then Connor is the chief operating officer for all of the superwashes.
+
+Unknown: That includes not just the 70 locations, that includes the franchise network.
+
+Lucas: We also have actually a really solid parts and services group.
+
+Unknown: We're fully vertically integrated.
+
+Unknown: We have a contract manufacturer.
+
+Unknown: We formulate all of our own services and chemicals.
+
+Unknown: Yeah, yeah, actually, the chemical provider.
+
+Unknown: One of them is actually called Synergy.
+
+Unknown: So, yeah, we generate a good amount of revenue and a good amount of profit from parts, services, soaps, and chemicals.
+
+Unknown: Every day. Yeah.
+
+Unknown: And franchise service mobile.
+
+Unknown: It's huge.
+
+Unknown: On the corporate side, we save incredible margin, right?
+
+Lucas: So instead of calling someone at $100 an hour, one of our technicians just goes out there or gets on a Zoom call with one of the attendants.
+
+Unknown: So massive margin.
+
+Lucas: I would never think about the service side of that, but huge. Wow. Ship breaks every not big stuff, yeah.
+
+Unknown: But it's like nozzles or I mean, it's almost it's almost like being the head of I almost think of like Minetaka High School, like whoever is like the head of, you know, keeping shit from falling apart.
+
+Unknown: Ask him what he does every day, like ask him what happens every day.
+
+Unknown: Like something fucking breaks every day, right?
+
+Unknown: Yeah.Something that just has to be broken every day.
+
+Unknown: I'm not replacing a roof, although right now we are doing that in Wisconsin, but something goes wrong.
+
+Unknown: That's just the way that it is.
+
+Lucas: Is there like a wide range of your locations?
+
+Lucas: Like, are some performing way better than others?
+
+Unknown: There is a range, and it's impacted by competition, obviously.
+
+Unknown: So, some we run better, and yeah, quality business, which is a function of the offerings.
+
+Unknown: Others we have not updated, right?
+
+Unknown: Some have a great demographic, some don't have a great demographic.
+
+Unknown: You know, it's like owning 70 McDonald's.
+
+Unknown: That's really what we got.
+
+Unknown: Yeah, if you have 70 McDonald's in 70 different cities, then different demographics, some are nice and new and electronic, others are less so, others have a Burger King next door, others are the only hamburger place in town.
+
+Unknown: What else is a lot of your day go-to?
+
+Unknown: Yeah, so then I mean, you can see on the Bloomberg screen.
+
+Unknown: We've been at that for a long time.
+
+Unknown: We're on year 16 that I've been running it.
+
+Lucas: And so, really, the guys that you walk by.
+
+Unknown: Yeah, well, thank you.
+
+Unknown: Well, 16 years, I don't know.
+
+Unknown: Yeah, so it's a long time.
+
+Unknown: So we've got it, not on autopilot, but we've got it lined up pretty good.
+
+Unknown: So that takes a couple hours a day.
+
+Unknown: You know, I haven't done a trade all week.
+
+Unknown: I was at Morrison.
+
+Unknown: Morrison is where Sue Bosch is based.
+
+Unknown: It's a no it's a nothing town, six and a half hours from here, on the border with Iowa.
+
+Lucas: Really?Yeah. Oh. Wow, how many people are there?
+
+Unknown: Uh, it's a good question.
+
+Unknown: Okay.And then
+
+Unknown: We have all new systems.
+
+Unknown: A new billing system, a new inventory system called Fishbowl.
+
+Unknown: So all new systems.
+
+Unknown: Yeah, no, it's too long.
+
+Unknown: Yeah, which is really economically, on the surface, very economically efficient.
+
+Unknown: Yeah.Because you don't have to pay QuickBooks $40, 000 a year, you don't have to pay pay loss in $20, 000 a year.
+
+Unknown: But then you've got staff you don't need and overtime and hours and mistakes and theft and just shit.
+
+Unknown: Are you good on time here?
+
+Lucas: I'm about to run out, but you're welcome to stay a little longer.
+
+Unknown: Yeah, whatever.
+
+Unknown: Please work.
+
+Unknown: Where do you see things heading?
+
+Unknown: For for it's a great question.
+
+Unknown: If I can close up one location every sixty days, so sixty year.
+
+Unknown: We're we're past that now 'cause we kind of came out, you know, guns blazing 'cause we bought this thing I bought this thing in August of twenty five.
+
+Unknown: So it has still pretty.
+
+Unknown: Yeah, it's pretty new still.
+
+Unknown: But we'll try to buy one location every other month.
+
+Unknown: And then we need to increase our focus on upgrading our corporate locations.
+
+Unknown: So there's different types of car washing equipment that's proven to increase revenues, time spent to wash, the money charge, all of that.
+
+Unknown: And just provide a better experience.
+
+Unknown: And so we need to start really expanding that CapEx.
+
+Unknown: CapEx, yeah.
+
+Unknown: Yeah, so I'm embarking on we have started to do it.
+
+Unknown: We're doing wall, like big bright white wall packs everywhere.
+
+Unknown: Better parking lot lighting, better signage.
+
+Unknown: Just painting to clean it up on the outside and then get him music through it, just so it's kind of like nice.
+
+Unknown: And so that is all underway, but we have to do, and that does not necessarily come cheap, but then we've got actually.
+
+Unknown: It's like, oh, it's two grand, like, two grand is not bad, but they're like, no, you got to do it 70 times.
+
+Unknown: That's all.
+
+Unknown: And each job takes a couple of days.
+
+Unknown: So that's a year.
+
+Lucas: Right?Like, every project.
+
+Unknown: You're a big.
+
+Unknown: You're a big.
+
+Lucas: It takes a long time to do anything.
+
+Unknown: Like, okay, that's a three-day job.
+
+Unknown: Well, all right.
+
+Unknown: So time is 70, that's 210 days.
+
+Unknown: So it's going to take a year.
+
+Unknown: How do you think about like investing in, like, right?
+
+Lucas: Because you have a capex spend roughly that you want to

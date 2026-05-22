@@ -5,6 +5,24 @@ Each entry: standout signal, top mistakes, commitment outcome.
 
 ---
 
+## 7 | Jacob Simms — Superwash / WashMe Chain, Golden Valley
+**Date:** May 21, 2026 | **Interviewer:** Lucas | **Industry:** Multi-location car wash operations
+**Person:** Jacob Simms — owner, ~70 corporate Superwash locations + 4 WashMe locations across the Midwest. Also runs a family hedge fund. 16 years running the car wash operation. COO is Connor.
+
+**Standout Signal**
+WorldPay API access was so bad he had to trace the acquisition chain of a public company just to find a C-suite executive who could intervene and assign a development team: "We need to access their API, and they're not cooperative, and the whole thing is terrible." He's also paying a teenager a few thousand dollars to build an intraday credit card aggregation app — real prior spending on the exact problem. Card-not-present payment processing (car washes, vending) is a two-player oligopoly with "indescribably bad" customer service.
+
+**Top Mistakes**
+1. No Big 3 goals before walking in — conversation was wherever the operator took it
+2. Opened by talking about himself (the boat cleaning OS) rather than asking about the operator's life
+3. Dropped the WorldPay API pain without a single follow-up question — the most severe signal in the conversation
+4. Never asked about Jacob's app: success criteria, timeline, what happens if it fails
+5. No commitment ask — conversation ended mid-sentence, no intro to Connor secured
+
+**Commitment Outcome:** None. No ask was made and no next step was defined.
+
+---
+
 ## 6 | Rob Martin — Outdoor Sports Insurance, Hub International
 **Date:** May 19, 2026 | **Interviewer:** Lucas (+ one other unnamed) | **Industry:** Insurance / enterprise financial services
 **Person:** Rob Martin, senior insurance agent at Hub International — niche outdoor sports program (ski/snowsport and bicycle retailers). 20,000-employee enterprise, existing Claude license.

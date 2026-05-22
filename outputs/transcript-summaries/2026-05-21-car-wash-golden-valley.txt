@@ -1,0 +1,63 @@
+TRANSCRIPT SUMMARY
+Date: May 21, 2026 | 2:14–2:50 PM CDT
+Location: 701 Xenia Ave S, Golden Valley, MN 55416
+Person: Jacob Simms — owner, multi-location car wash chain (~70 corporate Superwash locations + 4 WashMe locations in Minneapolis). Also runs a family hedge fund. 16 years running the car wash operation.
+Decision-maker: Yes — full owner/executive authority over acquisitions, CapEx, vendor relationships, and staffing. Connor is COO reporting to him.
+======================================================================
+
+WHO WE TALKED TO
+Jacob Simms, a Minneapolis-area entrepreneur and family hedge fund operator running one of the larger regional car wash chains in the Midwest. He acquired 4 WashMe locations as a beta test (~$3.5M), determined in 4 months that it was time to scale, and has since grown to ~70 Superwash-branded corporate locations across the Midwest (Nebraska, Kentucky, and more). The growth strategy is buying back original Superwash franchisees whose owners are retiring — targeting one acquisition every ~60 days. He's been in the business 16 years, is fully vertically integrated (contract manufacturing, proprietary chemicals/soaps, in-house parts and service), and has recently implemented new back-office systems (a new billing system and Fishbowl for inventory). He also runs a personal trading operation (Bloomberg screen) and manages the WashMe locations through a separate young hire, with Connor as COO of the full Superwash network.
+
+WHAT WE LEARNED (real data)
+
+Payment processing is a documented, severe operational pain
+"We rely on Roll Pay for our intraday credit card reporting, which they don't have, like, they don't have a proper API. It's a whole disaster... we need to access their API, and they're not cooperative, and the whole thing is terrible." (lines 122–127)
+The operator's car wash network operates in the card-not-present (CNP) payment space — a niche where Square doesn't apply and e-commerce rules don't fit. He described it as an oligopoly between CardMate and WorldPay. 67 of his 70 corporate locations run on WorldPay. The API situation was so bad he escalated through the acquisition chain of the company that bought WorldPay's competitor (CryptoPay) until he found a chief client officer who intervened and connected him with a "very high ranking executive" who assigned a development team. That escalation path — from normal vendor request to C-suite intervention at a public company — is a documented signal of severe pain.
+
+Active solution-seeking: hiring a teenager to build an aggregation app
+"He's going to build us an app that will aggregate, we'll give him a couple thousand dollars of cash." (lines 176–177)
+Jacob Gendro (ACT score 36 / SAT 1580, Carnegie Mellon-bound) was hired through a mentorship connection to build an intraday credit card reporting aggregation tool. This is real prior spending on the exact problem — though small (a few thousand dollars), it is a documented attempt to solve a vendor gap with custom software.
+
+The card-not-present market is an acknowledged oligopoly with poor service
+"It is like an oligopoly between cardmate and World Pay... that space is ripe for disruption... there's no one out there that is efficiently in a customer friendly, in a customer-forward way, processing transactions where the term is merchant, not present, basically." (lines 104–191)
+The operator named the two dominant players, described the structural gap (not e-commerce, not Square, physically present card where the merchant is often absent), and identified the primary markets as car washes and vending. He described the customer service as "indescribably bad."
+
+Acquisition sourcing runs on three channels
+1. Crexy — a subscription real estate/business database, used ad hoc when bored or looking for a brain break. Provides parcel data, PIN, taxes, ownership (even LLC piercing), full sales history.
+2. Iman — a broker relationship, love-hate, bonded over soccer. Brings a volume of deals.
+3. Employee tips — the Oregon, Illinois deal came from an employee's son who photographed a "for sale" sign while driving through.
+Current active deal: a car wash in Oregon, Illinois (described as surprisingly affluent and rural), located through the employee network and currently past inspection.
+
+CapEx rollout across 70 locations is a multi-year coordination problem
+Upgrade examples: wall packs (bright white lighting), parking lot lighting, signage, painting, music systems. Each job roughly 2–3 days. At 70 locations, a uniform rollout takes ~210 days — approximately a year. Cost per job can be ~$2,000, multiplied by 70. He described this as actively underway.
+
+Vertical integration is a real margin driver
+The operator formulates his own chemicals and soaps through a contract manufacturer (one vendor named Synergy). Parts, services, and chemical sales generate "a good amount of revenue and a good amount of profit." The corporate network saves margin because in-house technicians handle service calls rather than paying outside contractors $100/hour. Something breaks at at least one location every single day.
+
+Performance varies across locations in predictable ways
+"Some we run better... some have a great demographic, some don't have a great demographic... it's like owning 70 McDonald's in 70 different cities." Competition, demographic quality, equipment age, and upgrade status all drive variance. He has not updated all locations.
+
+New systems recently implemented
+"We have all new systems. A new billing system, a new inventory system called Fishbowl." Context suggests this transition is relatively recent and came with complexity (he noted that doing it all in-house is "economically efficient on the surface" but comes with staff, overtime, hours, mistakes, and theft costs).
+
+BAD DATA
+
+The market opportunity framing was commentary, not customer pain
+"That space is ripe for disruption" — this is the operator observing a market gap from the outside, not describing his own unsolved problem. The pain is real (see above), but the opportunity framing is his analysis, not a signal of buying intent.
+
+Entrepreneurial advice is not signal
+The second half of the conversation drifted into the operator giving mentorship-style advice: observe where people spend their time and money, approach life with curiosity, look for problems that aren't riddled in bureaucracy. Valuable wisdom, not customer discovery data.
+
+COMMITMENT OUTCOME
+None. The conversation ended mid-sentence. No ask was made, no next step was defined, no intro to Connor or any other key contact was secured.
+
+THE VERDICT
+This operator has a documented, specific, severe payment processing problem — WorldPay's lack of a proper API forced him to escalate to a public company C-suite just to get API access, and he's paying a teenager a few thousand dollars to build a workaround. That's real pain and real prior spending, both confirmed. The card-not-present oligopoly is real and his characterization of it (two players, bad service, no customer-forward option for car washes and vending) is credible from someone running 70 locations for 16 years. The CapEx coordination problem and systems transition are worth following up on with Connor. This conversation needs a follow-up with a commitment ask.
+
+OPEN THREADS
+- Follow up on the WorldPay API situation: Is Jacob's app actually working? What specifically does it aggregate? What happens if it doesn't work?
+- Quantify the payment processing pain: how many hours per week does the current workaround consume? What has the escalation process cost in management time?
+- Ask Connor (COO) about the systems and CapEx coordination layer — he's the operator actually fighting the daily battles
+- Run Q-CW-03 on the Fishbowl / billing system transition: what drove it, what was the worst part
+- Run Q-CW-02 on the upgrade rollout: is there a formal sequencing/tracking system or is it ad hoc?
+- Follow up with Jacob Simms directly — he also runs a family hedge fund, so he thinks about capital allocation and ROI systematically

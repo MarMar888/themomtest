@@ -115,6 +115,25 @@
 "Has anyone at your company ever tried to measure what percentage of your selling time gets eaten by admin — is there a number?"
 *Why: Anchors the time-savings aspiration to actual financial stakes. If no one has tried to quantify it, urgency is probably aspirational rather than structural.*
 
+### Multi-Location Operations & Car Wash
+*(approved May 22, 2026)*
+
+**Q-CW-01** | `[problem-validation] [ops] [payment-processing] [past-specific] [multi-location]`
+"Walk me through what happened the last time you needed something from a payment processor and they didn't cooperate — how did you actually get it resolved?"
+*Why: Multi-location car wash operator described an extraordinary escalation chain just to get WorldPay API access. Card-not-present payment processing is a real oligopoly pain — worth probing systematically with other multi-location operators.*
+
+**Q-CW-02** | `[problem-validation] [ops] [multi-location] [capex] [workflow]`
+"When you roll out an equipment or facility upgrade across multiple locations — say new lighting or signage — how do you actually schedule and track that across the whole chain?"
+*Why: 70 × 3-day jobs = ~210 days of coordinated work. Whether there's a system for that or it's ad hoc reveals a real operational gap at scale.*
+
+**Q-CW-03** | `[problem-validation] [ops] [systems] [past-specific]`
+"When you switched from your old back-office software to a new billing or inventory system — what was the worst part of that migration?"
+*Why: New billing system + Fishbowl were mentioned as recently implemented. System migrations at multi-location operators are notoriously painful — the transition story reveals what the old system cost them and why they finally pulled the trigger.*
+
+**Q-CW-04** | `[problem-validation] [decision-making] [multi-location] [m-and-a] [past-specific]`
+"When an acquisition opportunity comes to you — from a broker, from Crexy, from your network — what's the first thing you look at to decide whether it's worth pursuing? Walk me through a deal you passed on."
+*Why: Operator described a three-channel sourcing funnel (database, broker, employee tips). Understanding the filtering logic — and where deals fall through — reveals whether there's a real ops problem in the acquisition pipeline.*
+
 ---
 
 ## Commitment-Closing Questions
@@ -139,4 +158,4 @@
 
 ---
 
-*Question count: 26 | Last updated: 2026-05-19*
+*Question count: 30 | Last updated: 2026-05-22*
