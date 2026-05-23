@@ -11,7 +11,7 @@ Each entry: standout signal, top mistakes, commitment outcome.
 *Note: Based on rough notes only — no direct quotes or dialogue recorded.*
 
 **Standout Signal**
-Mark evaluated a $40k ERP that was escalating to six figures and stopped — stayed with Method + QuickBooks + SosInventory. Real spending behavior: the problem was real enough to evaluate seriously, but the cost ceiling was somewhere between $40k and six figures. What problem drove the evaluation was not captured. Distributor fragmentation was separately identified as a known pain: no unified ERP/software across the distributor network, ad-hoc back-and-forth is the status quo. Whether these two threads are related is the key open question.
+Mark evaluated a $40k ERP to consolidate three disconnected systems — Method (CRM), QuickBooks (accounting), and SosInventory — saw the price escalate to six figures, and walked away. The pain is confirmed real; his cost ceiling is somewhere below six figures. He didn't solve it, just decided the price wasn't worth it. Distributor fragmentation is a separate confirmed pain: no unified ERP across distributors, ad-hoc back-and-forth is the status quo.
 
 **Top Mistakes**
 1. No quotes or dialogue recorded — cannot evaluate question quality, whether the idea was pitched, talk/listen ratio, or conversation flow

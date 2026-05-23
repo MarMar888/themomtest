@@ -13,7 +13,9 @@ Mark has decision-making authority: he personally evaluated a $40k ERP investmen
 WHAT WE LEARNED (real data)
 
 ERP evaluation — real spending behavior, stopped at cost
-Mark evaluated a $40k ERP investment. The price tag was escalating to six figures when they decided it wasn't worth continuing. Outcome: stay with current stack (Method + QuickBooks + SosInventory). This is the most credible signal in the conversation — a documented evaluation of a significant operational solution, stopped not because the problem wasn't real but because the cost became prohibitive. The problem being solved was not explicitly captured.
+Mark evaluated a $40k ERP investment. The price tag was escalating to six figures when they decided it wasn't worth continuing. Outcome: stay with current stack (Method + QuickBooks + SosInventory). This is the most credible signal in the conversation — a documented evaluation of a significant operational solution, stopped not because the problem wasn't real but because the cost became prohibitive.
+
+The problem being solved: the disconnect between his three current systems — Method (CRM), QuickBooks (accounting), and SosInventory — which don't talk to each other. The ERP was intended to consolidate them into a unified platform. He evaluated it, saw the six-figure price tag, and decided the integration pain wasn't worth that cost. The pain is confirmed real; his ceiling for solving it is somewhere below six figures.
 
 Distributor fragmentation is an acknowledged operational problem
 There is no unified way to interact with distributors. Every distributor uses a different ERP or software system, forcing ad-hoc back-and-forth to communicate products, services, and pricing structure. "Ad-hoc understanding is the status quo." This is a real, named pain — but whether Mark experiences it as urgent or simply accepted is unknown. No specific story was captured.
@@ -29,11 +31,11 @@ COMMITMENT OUTCOME
 None. No next step, no intro request, no follow-up plan recorded.
 
 THE VERDICT
-The ERP evaluation is the only hard signal here: Mark considered buying something expensive and decided the price wasn't worth it. That tells us the problem exists and was real enough to evaluate seriously — but the cost-ceiling was somewhere between $40k and six figures. What's missing is the most important thing: what specific problem was the ERP supposed to solve? If distributor fragmentation was one of the drivers, that's a meaningful signal. If the ERP was purely for something else (inventory, billing, financial reporting), the distributor friction may be accepted rather than urgent. "Ad-hoc understanding is the status quo" reads like someone who has optimized around a problem, not someone actively seeking a solution.
+Two confirmed pains, one confirmed price ceiling. The internal system fragmentation (Method + QuickBooks + SosInventory not integrated) was real enough to drive a serious ERP evaluation — and the distributor fragmentation problem sits on top of that. Mark didn't walk away because the problem went away; he walked away because the solution was too expensive. That's a different and more useful signal than acceptance. The question is whether a lighter, cheaper integration wedge would clear his cost threshold. The distributor fragmentation pain is a separate thread — whether it's urgent or just accepted is still unknown.
 
 OPEN THREADS
-- What was the $40k ERP supposed to fix? Was distributor integration one of the drivers, or was this purely a back-office / financial system?
+- Is he still looking for a solution to the three-system disconnect, or has he closed that chapter?
+- What would "good enough" integration between Method, QuickBooks, and SosInventory actually look like for him — what's the specific daily friction?
 - Has the distributor communication problem ever cost Mark something concrete — a lost sale, a failed onboarding, a delay that mattered?
-- Is he still looking for a solution to whatever drove the ERP evaluation, or has he closed that chapter?
 - Who else in promotional products runs on the same distributor model? Is Mark a useful intro point to the segment?
-- What would the right solution have needed to do — or cost — to actually be worth it?
+- What would the right solution have needed to cost to actually be worth it — is there a number below six figures that would have made him pull the trigger?
