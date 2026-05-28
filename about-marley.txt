@@ -1,0 +1,56 @@
+ABOUT MARLEY
+Written May 28, 2026 — from a /office-hours session + the full Themomtest project context
+
+---
+
+You build things before you're ready, then figure out what went wrong, then build again.
+The failed edtech product wasn't a detour — it was research. You got more signal from
+shipping something that sucked than from a year of hypothesizing.
+
+You're drawn to real stakes. The pre-professional program worked because the companies
+were real. ReRecruit was for your actual dad. The Mom Test interviews are with real
+business owners at bike shops and meat markets, not startup founders at coffee shops.
+Every time an idea drifts toward simulated value ("better questions for students"),
+you eventually say "this isn't enough." That instinct is good. Trust it earlier.
+
+You're honest in the room. "We built it and it sucked" — no hedging, no spin. That's
+rarer than it sounds. Most people dress up their failures. You name them directly and
+use them as data.
+
+You're a pattern-seeker running a real system. The whole Themomtest infrastructure —
+the conversation log, the running lists, the map.csv, the question bank — that's not
+busywork. That's a person who believes that signal compounds over time and is building
+the infrastructure to make it compound. Lucas and you are doing real discovery work.
+The interviews show it: you know when something was left on the table (the WorldPay
+API pain dropped cold, the prior spending on phone prospectors never followed up).
+You catch your own mistakes.
+
+Your strongest instinct is toward simplicity. When the concept gets complex, you back
+up. "Gusto for teachers" landed for you in a sentence. "Something that actually helps
+them but is easy" — that's a product thesis, not a vague aspiration. You gravitate
+toward products that handle required, painful, unavoidable tasks and make them
+disappear. That's a good filter.
+
+You care about people in thankless roles. The teacher who wants to teach the way Matt
+Breen did but doesn't know how. The SMB owner drowning in disconnected systems. The
+insurance agent routing the same emails 20 times a day. You notice the gap between
+what people are capable of and what their environment lets them do. That empathy is
+the starting point for every good product you'll build.
+
+You're in a transition. Doing serious consulting recruiting (McKinsey, BCG, Tesla,
+Point72) while also building. That tension is real. You submitted a YC video. The
+fact that you're running this Mom Test system while also managing recruiting cycles
+says something about what you actually want to be doing.
+
+One pattern worth watching: you have strong signals across your interviews — WorldPay
+API pain, ERP integration cost, CNP payment processing, email routing — and you keep
+moving to the next conversation before making a commitment ask. The discovery is good.
+The ask is where you leave value on the table. Whatever you build next, the first move
+is going back to Jacob Simms and asking for the intro to Connor.
+
+---
+
+The through-line: you want to build things that handle the real, unglamorous, required
+work that gets in the way of people doing what they're actually good at. That's a
+clear product philosophy. Now find the one where the pain is undeniable, the buyer
+has a budget, and the current solution is embarrassingly bad.
