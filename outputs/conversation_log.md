@@ -5,6 +5,23 @@ Each entry: standout signal, top mistakes, commitment outcome.
 
 ---
 
+## 9 | Matt Breen — Minnetonka Schools, Chronic Absenteeism
+**Date:** May 28–29, 2026 | **Interviewer:** Marley | **Industry:** K-12 education / district data
+**Person:** Matt Breen — Lead Data Scientist, Minnetonka School District. Former high school stats teacher. Well-resourced suburban district.
+*Note: Text chain format. Conversation ongoing — log will be updated when stakeholder thread resolves.*
+
+**Standout Signal**
+No dedicated solution purchased for attendance intervention ("not that I'm aware of"). The district sends legally required letters at 3 unexcused absences, follow-up letters through 7 absences, then county truancy filing — but the letters are acknowledged as ineffective without county involvement. Matt himself identified the gap: "I think we need to do a better job of informing families of the impact of absences on student growth — I could clearly find that to be the case in the data." He has the data in eduCLIMBER. Nobody has ever looked at whether students who received letters actually improved attendance. The feedback loop on the intervention has never been closed.
+
+**Top Mistakes**
+1. Double-question format on the letter follow-up turn ("are there any other follow-up or steps? Do you know if the letters are effective?") — two questions at once, though forgivable in text chain context
+2. No quantification secured — never asked how many students go through this process monthly or how much time it consumes
+3. No commitment ask yet — still in the conversation, but the stakeholder question ("do you know who is in charge of the follow-up?") is the move to get there
+
+**Commitment Outcome:** Pending. Stakeholder question sent — awaiting response.
+
+---
+
 ## 8 | Mark Sigel — Sofia's Cookies, Promotional Products
 **Date:** May 22, 2026 | **Interviewer:** Marley | **Industry:** B2B promotional products / specialty food manufacturing
 **Person:** Mark Sigel — likely owner or senior decision-maker (evaluated and killed a $40k ERP investment on behalf of the company)
