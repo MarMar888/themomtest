@@ -155,6 +155,56 @@
 
 ---
 
+## K-12 Education & Attendance Intervention
+*(approved 2026-06-05)*
+
+**Q-ED-01** | `[problem-validation] [past-specific] [education] [attendance] [severity]`
+"Walk me through the last student who slipped through the cracks — when did your team realize there was a problem, and how long had it been building?"
+*Why: Anelise's 29-day student is the most emotionally loaded moment in the Peterson transcript. The intervention failure story was never fully extracted. This forces it in future conversations.*
+
+**Q-ED-02** | `[problem-validation] [workflow] [education] [attendance] [ops]`
+"When a letter needs to go out — walk me through exactly what has to happen from the moment the threshold is triggered to the moment the family receives it. Who does what?"
+*Why: Anelise described the 3-click problem and the paraprofessional privacy issue but the full human workflow cost was never mapped. Critical before building anything.*
+
+**Q-ED-03** | `[problem-validation] [spending] [have-they-searched] [education] [attendance]`
+"Has the district ever seriously evaluated or purchased a tool specifically designed for attendance intervention — not general data platforms, but something purpose-built for this problem?"
+*Why: Matt Breen said "not that I'm aware of." Cross-confirming and understanding whether any evaluation has ever happened tells you how buyer-ready this space is.*
+
+**Q-ED-04** | `[problem-validation] [past-specific] [severity] [education] [attendance] [data-quality]`
+"You mentioned the elementary half-day data isn't accurate — give me the last time that actually caused a problem. What decision got made wrong because of bad data?"
+*Why: Anelise flagged the data integrity issue but it was let go. Whether this has caused concrete downstream harm or is just acknowledged inaccuracy is critical for sizing the problem.*
+
+**Q-ED-05** | `[destroy-your-business] [education] [attendance] [decision-making]`
+"Is the plan to eventually buy a dedicated attendance solution — or is the long-term play to keep configuring EduClimber until it's good enough?"
+*Why: EduClimber is launching a new attendance module July 1. If the district's real plan is to stretch their existing platform, there may be no external market here. Must be asked.*
+
+---
+
+### K-12 Education & Attendance Intervention
+*(approved 2026-06-05)*
+
+**Q-ED-01** | `[problem-validation] [past-specific] [education] [attendance] [severity]`
+"Walk me through the last student who slipped through the cracks — when did your team realize there was a problem, and how long had it been building?"
+*Why: Anelise's 29-day student is the most emotionally loaded moment in the Peterson transcript. The intervention failure story was never fully extracted. This forces it in future conversations.*
+
+**Q-ED-02** | `[problem-validation] [workflow] [education] [attendance] [ops]`
+"When a letter needs to go out — walk me through exactly what has to happen from the moment the threshold is triggered to the moment the family receives it. Who does what?"
+*Why: Anelise described the 3-click problem and the paraprofessional privacy issue, but the full human workflow cost was never mapped. Critical before building anything in this space.*
+
+**Q-ED-03** | `[problem-validation] [spending] [have-they-searched] [education] [attendance]`
+"Has the district ever seriously evaluated or purchased a tool specifically designed for attendance intervention — not general data platforms, but something purpose-built for this problem?"
+*Why: Matt Breen said "not that I'm aware of." Cross-confirming and understanding whether any evaluation has ever happened tells you how buyer-ready this space is.*
+
+**Q-ED-04** | `[problem-validation] [past-specific] [severity] [education] [attendance] [data-quality]`
+"You mentioned the elementary half-day data isn't accurate — give me the last time that actually caused a problem. What decision got made wrong because of bad data?"
+*Why: Anelise flagged the data integrity issue but it was let pass. Whether it has caused concrete downstream harm or is just acknowledged inaccuracy is critical for sizing the problem.*
+
+**Q-ED-05** | `[destroy-your-business] [education] [attendance] [decision-making]`
+"Is the plan to eventually buy a dedicated attendance solution — or is the long-term play to keep configuring EduClimber until it's good enough?"
+*Why: EduClimber is launching a new attendance module July 1. If the district's real plan is to stretch their existing platform, there may be no external market here. Must be asked.*
+
+---
+
 ## Commitment-Closing Questions
 *(from money_questions.txt — approved May 12, 2026)*
 
@@ -177,4 +227,4 @@
 
 ---
 
-*Question count: 34 | Last updated: 2026-05-22*
+*Question count: 39 | Last updated: 2026-06-05*
