@@ -11,12 +11,11 @@
 - Introduced EDIA mid-call before asking enough questions — contaminated the second half with aspirational brainstorming
 - Led the witness on the two-problem framing ("so the plan right now is to try to layer onto EduClimber...") — father confirmed Marley's framing rather than volunteering it
 - Said "I started going to my product mode" out loud, signaling pitch territory instead of discovery
-- Never asked the destroy-your-business question: has Christine ever looked at vendors, or is EduClimber the unchallenged default?
 - No commitment ask beyond the vague post-June 17 follow-up
 
 **Commitment Outcome:** Weak — verbal agreement for a follow-up call after June 17th. No calendar invite. More meaningful signal is Christine's oversight shift July 1, which creates a new access path.
 
-**Standout Signal:** Guardian emails are NOT in EduClimber — the district would have to build that infrastructure before any family communication layer could work. Personnel shift confirmed: pen-and-paper attendance lead displaced by Christine Breen (more systems-oriented) July 1. "With or without EduClimber" is the district's stated posture — process is the priority, platform is secondary.
+**Standout Signal:** No purpose-built attendance tool has ever been evaluated — confirmed again (previously "not that I'm aware of" in text chain, reinforced in this call). Guardian emails are NOT in EduClimber — prerequisite infrastructure missing for any family communication layer. Personnel shift confirmed: pen-and-paper attendance lead displaced by Christine Breen (more systems-oriented) July 1. "With or without EduClimber" is the district's stated posture — process is the priority, platform is secondary.
 
 ---
 
