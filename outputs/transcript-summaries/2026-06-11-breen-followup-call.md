@@ -47,17 +47,18 @@ Families are more likely to respond to text than email or letters. Some communic
 
 ---
 
-## Bad Data
+## Soft Data (to firm up later)
 
-- Father's interest in EDIA followed Marley introducing it — his reaction is contaminated by the introduction
-- "I know we will be sitting in our backyard troubleshooting around this conversation" — warm engagement, not a commitment
-- Marley said "I started going to my product mode" out loud mid-call; the second half of the conversation shifted from discovery to aspirational brainstorming
+This was a Stage 2 solution-validation debrief with a warm insider, not a Stage 1 discovery interview — the problem was already validated across two prior conversations. Showing EDIA and pressure-testing the two-problem model were appropriate moves. The notes below are about data quality, not interviewer mistakes:
+
+- His interest in EDIA is opinion, and opinion is soft even from an honest source. The real signal is behavior — does he share EDIA with Christine unprompted, or raise it next time without being asked? The in-person meeting should be built to surface that.
+- "I know we will be sitting in our backyard troubleshooting around this conversation" — warm engagement, encouraging but not yet a commitment.
 
 ---
 
 ## Commitment Outcome
 
-Weak. A follow-up call was agreed to after June 17th (post-graduation). The father offered it and Marley confirmed. No calendar invite — a verbal agreement only. The more meaningful signal is the Christine oversight shift on July 1, which creates a new access path through an insider with influence over whatever gets adopted.
+Soft but advancing. A follow-up call was agreed to after June 17th, plus a planned in-person meeting and an explicit intent to fan out into adjacent district problems (SIS for capstone/research programs, AI for district teams). No calendar hold yet — convert the verbal agreement to a dated invite with a defined goal. The strongest structural signal is the Christine oversight shift on July 1, which creates a decision-maker access path through an insider with influence over whatever gets adopted. This is a genuine advancement plan, not a zombie close.
 
 ---
 

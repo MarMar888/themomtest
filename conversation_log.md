@@ -7,13 +7,13 @@
 **Date:** 2026-06-11 | **Interviewer:** Marley | **Industry:** K-12 public schools
 **Full summary:** `outputs/transcript-summaries/2026-06-11-breen-followup-call.md`
 
-**Top Mistakes:**
-- Introduced EDIA mid-call before asking enough questions — contaminated the second half with aspirational brainstorming
-- Led the witness on the two-problem framing ("so the plan right now is to try to layer onto EduClimber...") — father confirmed Marley's framing rather than volunteering it
-- Said "I started going to my product mode" out loud, signaling pitch territory instead of discovery
-- No commitment ask beyond the vague post-June 17 follow-up
+**Stage note:** This was a Stage 2 (solution-validation) debrief with a warm insider, not a Stage 1 cold discovery interview. The problem was already validated across two prior conversations (Breen text chain + Anelise Peterson). Standard Stage 1 critiques — "don't mention your idea," "don't lead" — do not apply here. Showing EDIA to gauge reaction and pressure-testing the two-problem model against an insider were appropriate, deliberate moves.
 
-**Commitment Outcome:** Weak — verbal agreement for a follow-up call after June 17th. No calendar invite. More meaningful signal is Christine's oversight shift July 1, which creates a new access path.
+**Sharpening notes (not mistakes):**
+- His EDIA reaction is opinion, and opinion is soft data even from an honest source. The real signal is behavior: does he share EDIA with Christine unprompted, or raise it next time without prompting? Design the in-person meeting to surface that, not just collect more reaction.
+- Convert the post-June 17 follow-up from a verbal "let's talk" into a calendar hold with a defined goal before walking in.
+
+**Commitment Outcome:** Soft-but-advancing — verbal agreement for a follow-up call after June 17th, plus a planned in-person meeting and an explicit intent to fan out into adjacent district problems (SIS for capstone/research programs, AI for district teams). The strongest structural signal is Christine's oversight shift July 1, which creates a decision-maker access path. This is a real advancement plan, not a zombie close.
 
 **Standout Signal:** No purpose-built attendance tool has ever been evaluated — confirmed again (previously "not that I'm aware of" in text chain, reinforced in this call). Guardian emails are NOT in EduClimber — prerequisite infrastructure missing for any family communication layer. Personnel shift confirmed: pen-and-paper attendance lead displaced by Christine Breen (more systems-oriented) July 1. "With or without EduClimber" is the district's stated posture — process is the priority, platform is secondary.
 
