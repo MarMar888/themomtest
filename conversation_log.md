@@ -3,6 +3,38 @@
 
 ---
 
+## Entry #12 — Matt Breen (Father), Minnetonka District — Follow-up Call
+**Date:** 2026-06-11 | **Interviewer:** Marley | **Industry:** K-12 public schools
+**Full summary:** `outputs/transcript-summaries/2026-06-11-breen-followup-call.md`
+
+**Top Mistakes:**
+- Introduced EDIA mid-call before asking enough questions — contaminated the second half with aspirational brainstorming
+- Led the witness on the two-problem framing ("so the plan right now is to try to layer onto EduClimber...") — father confirmed Marley's framing rather than volunteering it
+- Said "I started going to my product mode" out loud, signaling pitch territory instead of discovery
+- Never asked the destroy-your-business question: has Christine ever looked at vendors, or is EduClimber the unchallenged default?
+- No commitment ask beyond the vague post-June 17 follow-up
+
+**Commitment Outcome:** Weak — verbal agreement for a follow-up call after June 17th. No calendar invite. More meaningful signal is Christine's oversight shift July 1, which creates a new access path.
+
+**Standout Signal:** Guardian emails are NOT in EduClimber — the district would have to build that infrastructure before any family communication layer could work. Personnel shift confirmed: pen-and-paper attendance lead displaced by Christine Breen (more systems-oriented) July 1. "With or without EduClimber" is the district's stated posture — process is the priority, platform is secondary.
+
+---
+
+## Entry #11 — Car Wash Forum, Wash4Life (forum reply, anonymous)
+**Date:** 2026-06-09 | **Interviewer:** Marley (anonymous forum post) | **Industry:** Car washes (multi-location)
+**Full summary:** `outputs/transcript-summaries/2026-06-09-car-wash-forum-wash4life.md`
+
+**Top Mistakes:**
+- Forum format makes follow-up impossible — WorldPay frustration was named but could not be deepened
+- "The rest we have to log into" is the heart of the reporting pain but no follow-up question was available to quantify time cost or search behavior
+- No commitment ask possible in forum format (structural, not a choice)
+
+**Commitment Outcome:** None — format doesn't allow it.
+
+**Standout Signal:** WorldPay customer service confirmed as painful by a second independent source. Jacob Simms (entry #7) called it "indescribably bad" and had to escalate to a C-suite executive for API access. Wash4Life calls it "incompetent" with "astronomical wait times." Two operators, different scales, same specific complaint. Multi-processor fragmentation is structural: operators stitch together CryptoPay+WorldPay, Washify, EverWash, and others depending on equipment — no unified reporting layer across them.
+
+---
+
 ## Entry #10 — Anelise Peterson, Minnetonka Public Schools
 **Date:** 2026-06-11 | **Interviewer:** Marley | **Industry:** K-12 public schools  
 **Full summary:** `outputs/transcript-summaries/2026-06-11-anelise-peterson-minnetonka.md`
