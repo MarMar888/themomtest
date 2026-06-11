@@ -153,6 +153,14 @@
 "When an acquisition opportunity comes to you — from a broker, from Crexy, from your network — what's the first thing you look at to decide whether it's worth pursuing? Walk me through a deal you passed on."
 *Why: Operator described a three-channel sourcing funnel (database, broker, employee tips). Understanding the filtering logic — and where deals fall through — reveals whether there's a real ops problem in the acquisition pipeline.*
 
+**Q-CW-05** | `[problem-validation] [ops] [multi-location] [reporting] [workflow] [car-wash]`
+"When you need to see how each location performed for the day — what do you actually do right now? Walk me through it step by step."
+*Why: Wash4Life's forum reply (2026-06-09) revealed manual per-system logins as the status quo across CryptoPay, Washify, and EverWash. This forces operators to describe what that costs in time and whether they've ever searched for a unified solution.*
+
+**Q-CW-06** | `[problem-validation] [ops] [payment-processing] [switching-cost] [car-wash]`
+"Have you ever seriously considered switching your payment processor — and decided to stay? What made you stick?"
+*Why: WorldPay frustration is confirmed from two independent operators (Simms, Wash4Life), but neither surfaced whether operators feel locked in. Switching cost is the real market question for anything built in this space.*
+
 ---
 
 ## K-12 Education & Attendance Intervention
@@ -203,6 +211,14 @@
 "Is the plan to eventually buy a dedicated attendance solution — or is the long-term play to keep configuring EduClimber until it's good enough?"
 *Why: EduClimber is launching a new attendance module July 1. If the district's real plan is to stretch their existing platform, there may be no external market here. Must be asked.*
 
+**Q-ED-06** | `[problem-validation] [education] [attendance] [decision-maker] [severity]`
+"What is Christine [or the equivalent decision-maker] most frustrated about with the attendance system right now — what's the thing she talks about most?"
+*Why: The decision-maker's specific frustrations, not the system's structural gaps, are the real buy signal. Reaches it through a warm insider (Breen follow-up call, 2026-06-11).*
+
+**Q-ED-07** | `[destroy-your-business] [education] [attendance] [edtech] [decision-making]`
+"When EduClimber launches those new features — will your team adopt them automatically, or does someone have to evaluate and decide? Who makes that call?"
+*Why: If the July 1 EduClimber module closes the key gaps, there may be no external market. Whether evaluation is required, and who decides, reveals both the adoption path and the decision-making structure.*
+
 ---
 
 ## Commitment-Closing Questions
@@ -227,4 +243,4 @@
 
 ---
 
-*Question count: 39 | Last updated: 2026-06-05*
+*Question count: 43 | Last updated: 2026-06-11*
