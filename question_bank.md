@@ -218,4 +218,29 @@
 
 ---
 
-*Question count: 43 | Last updated: 2026-06-11*
+## Retail Brokerage (CPG)
+*(approved 2026-06-12)*
+
+**Q-BR-01** | `[problem-validation] [broker] [ops] [workflow] [past-specific]`
+"Walk me through a typical week managing 20+ accounts -- what does your system actually look like, and where does it break down?"
+*Why: Chuck's 25-account workload surfaced unprompted as his biggest struggle. Forces a specific workflow description instead of lifestyle advice. Confirmed signal that was never extracted.*
+
+**Q-BR-02** | `[problem-validation] [broker] [sourcing] [workflow] [have-they-searched]`
+"When you're trying to find new brands to rep -- what does your actual sourcing process look like? What does a bad week in that process feel like?"
+*Why: Sourcing/lead qualification was confirmed unaddressed by both the Chuck transcript and Marley's post-meeting reflection. Opens the bucket without leading to a solution.*
+
+**Q-BR-03** | `[problem-validation] [broker] [reporting] [workflow] [past-specific]`
+"Before you had Wingman -- before the AI bot -- what did pulling the data a client was asking for actually look like? Walk me through what that took."
+*Why: The before-state of Bluebird's AI adoption is the most useful signal in the Chuck conversation. "20 minutes to 90 seconds" only becomes evidence of painful history if Marley understands what those 20 minutes looked like in practice.*
+
+**Q-BR-04** | `[problem-validation] [broker] [onboarding] [past-specific]`
+"Walk me through what happens when you first sign a new brand -- what do you have to do in the first 30 days, and where does it usually get messy?"
+*Why: Marley's three-bucket framework (post-meeting voice memo, 2026-06-12) identified onboarding/early pitching as Bucket 2, never explored with Chuck. Past-specific anchor into an untouched area.*
+
+**Q-BR-05** | `[destroy-your-business] [broker] [tech-adoption]`
+"If Bluebird had to rely entirely on off-the-shelf tools tomorrow -- no Wingman, no proprietary systems -- what would actually break down first?"
+*Why: Tests whether the tech advantage Bluebird built solves a problem that exists outside Bluebird, or just delivers internal efficiency. If nothing would break, the external market for broker-tech may be thinner than the thesis suggests.*
+
+---
+
+*Question count: 48 | Last updated: 2026-06-12*

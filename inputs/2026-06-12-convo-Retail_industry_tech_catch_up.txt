@@ -1,0 +1,776 @@
+Retail industry tech catch-up
+=============================
+Date: June 12, 2026
+Time: 8:10 AM – 8:55 AM CDT
+Location: 3930 Market St, Edina, MN 55424
+
+
+OVERVIEW
+--------
+Marley met with a contact from Bluebird (a retail/CPG brokerage) for coffee near a lake in the Minneapolis area. The conversation covered industry trends in retail brokerage, Marley's career plans, and personal catch-up. The Bluebird contact shared insights about technology-enabled retail services, AI adoption in their business, and gave Marley career advice about joining smaller companies and maintaining work-life balance.
+
+
+ATMOSPHERE
+----------
+Casual, warm, and mutually beneficial — a mentor-mentee dynamic with genuine interest in each other's success. The tone was relaxed but substantive, mixing professional advice with personal rapport.
+
+
+KEY TAKEAWAYS
+-------------
+  - Retail industry direction: Bluebird sees the future in tech-enabled brokerages, with AI tools like their proprietary "Wingman" bot reducing data retrieval time from 20 minutes to 90 seconds; old-school relationship-only brokerages are becoming obsolete
+  - Marley's career trajectory: Plans to finish senior year at UW-Madison, then likely move to San Francisco for software engineering; will start job searching in early fall; wants to eventually start his own company
+  - Relationship considerations: Girlfriend is from Milwaukee area, likely heading to Chicago or New York for real estate — Marley wants to end up in same city, making NYC or Chicago possible alternatives to SF
+  - Side projects: Marley built a scraper product using LLMs for someone in ~2 weeks, similar to competitive intelligence work he'd done previously; exploring AI applications across industries including manufacturing (though finds it "clunky" and enterprise-heavy)
+  - Bluebird's business model: Hub-and-spoke approach covering Target, Walmart, Costco with specialized teams; recently acquired a current/fixture program; works with brands like Chomps, Mud/Rise mushroom coffee, and others on retail placement and data-driven category management
+  - Small company philosophy: Both agreed on value of joining smaller, growing companies with good people — but emphasized the "airplane test" (would you want to be stuck on a flight with these people?) and the challenge of finding strong leadership/people culture
+  - Work-life balance insight: Contact shared he's running ~25 accounts and learning to delegate, protect personal time, and avoid the "always on" laptop habit — suggested starting days with coffee/outside time rather than immediately checking Teams
+
+
+ACTION ITEMS
+------------
+  → Marley to follow up with contact for another coffee this summer if both are in Minneapolis area
+  → Marley to begin software engineering job search in early fall (September/October timeline)
+  → Consider reaching out to Lunar (retailer inventory financing startup in downtown Minneapolis) as another small-company option to explore
+
+
+TRANSCRIPT
+----------
+Note: Speaker attribution was not available; all speakers are listed as Unknown.
+
+Unknown: I mean they're ready to just get out of the nice yeah and a new one will take their place so still and they are they a minority stakeholder previously yes this new group is technically majority so there's a little bit of like consternation around that yeah how big are they I really don't know I um I don't know how much different capital that I'll stand for in okay I was gonna ask if they're Minneapolis yeah last guys were Minneapolis weren't uh they were from New York oh they were oh yeah um so anyways yeah I don't I don't have a ton of a cookie background but anyways point is bluebert's the lunar thing yeah um business is great like turn a corner they're they're doing some of these for me yeah 'cause they've internally done a lot of changes.
+
+Unknown: A lot of changes internally.
+
+Unknown: I've been tracking them just in Minneapolis.
+
+Unknown: Definitely a bumpy two years.
+
+Unknown: So they're certainly not out of the woods and it and they're still not perfect.
+
+Unknown: But the but the behavior that we're seeing from buyers and just the way that they're investing in a merchant is going to be good for us. Yeah.
+
+Unknown: There's just a lot that we can do. Yeah.
+
+Unknown: Because a lot of your driver is those buyers wanting to consider just bringing, trying, and so they their playbook right now says we want to be basically where it makes sense first to market with a with easier brands, right?
+
+Unknown: Which is huge for you guys.
+
+Unknown: Right, because if you're you know Marley's cookies and mango cookies and Margaret comes along and says, Hey, we're we're gonna write you a $4 million PO you need people like Bloomberg to help you navigate on them, which is good for us that we can pick up in ton of ads.
+
+Unknown: So, anyway, Bluebird's good, I'm doing well, but yeah, yeah, I guess like the main reason I want to sit down with you is I I obviously want to kind of revisit the industry and see like where you think it's headed and where you see kind of like what are you doing most focusing on most of your time.
+
+Unknown: Yeah, yeah, great question.
+
+Unknown: I'm gonna grab a 3D one.
+
+Unknown: Yeah, oh yeah, that'd be great.
+
+Unknown: Thanks.
+
+Unknown: Thank you.
+
+Unknown: Oh really?
+
+Unknown: He just finished action.
+
+Unknown: And do you like it?
+
+Unknown: Love it. Okay.
+
+Unknown: Like, it's a. Yeah.
+
+Unknown: Oh, really?
+
+Unknown: I'm Wisconsin.
+
+Unknown: Yeah.I've got one year left.
+
+Unknown: Right.Oh, you go.
+
+Unknown: Oh, thank you.
+
+Unknown: I didn't know where do they put it.
+
+Unknown: They like call you it's kind of like around the corner, but I just heard them say my name.
+
+Unknown: New Vikings?
+
+Unknown: Um, I only know Chad Greenway.
+
+Unknown: Okay.He was my sister's baseball coach.
+
+Unknown: Okay.And what's like Minnesota's basketball women's basketball top, top yeah.
+
+Unknown: Yeah, that's wild. Wow. Yeah, so that's great about Miami.
+
+Unknown: I guess I didn't know that you had so much family there.
+
+Unknown: I well, it kind of all happened like as you were, as we were finishing as like mentoring Deion Bantage.
+
+Unknown: Yeah.It's like they started, everyone started going there.
+
+Unknown: I think we have my brother and five of my cousins.
+
+Unknown: And then, I mean, so they're all hanging out together and they get to have some family together at school.
+
+Unknown: Which one is it?
+
+Unknown: Hike.Okay. Oh, they really like it.
+
+Unknown: Yeah, man, it's a blast.
+
+Unknown: It's pretty cool.
+
+Unknown: It's kinda hard to like almost put into words, but there's like a level of like, it kind of requires you to be active social.
+
+Unknown: Yeah.Like obviously Greek life is social, but there's like a certain I think it appeals to a certain person.
+
+Unknown: Work hard play art.
+
+Unknown: Yeah, for sure.
+
+Unknown: Um anyways, yeah, and the industry is your question.
+
+Unknown: I mean, retail itself I think is like in a it's in a good spot, it's healthy, I think it'll continue to thrive.
+
+Unknown: Consumerism is not going anywhere.
+
+Unknown: Target's what I know best.
+
+Unknown: And it's lucky for Bluebird, sort of our secret sauce, but they are leading in on these digital first brands.
+
+Unknown: Yeah.They spent our whole thesis in today's day and age.
+
+Unknown: Everyone's on their phone and they're on a computer all day long.
+
+Unknown: Those shopping journeys begin.
+
+Unknown: Like even this is a bad example, but like even just now it was like, I'm going to research the nearby coffee shop that I want to know. Yeah.
+
+Unknown: In and out of my home.
+
+Unknown: Consideration of yeah, that's where it starts.
+
+Unknown: It's like, hey, tonight we're having people over and I want to go buy like the best rosette.
+
+Unknown: Yeah, that's you're gonna go do your research.
+
+Unknown: Anyways, it leads to um oftentimes it leads to conversion at a retailer like Target, but in the world we live in it mostly most shopping, at least begins.
+
+Unknown: The broker industry itself, and I don't think I don't know if it's helpful or not, but I was talking to our our COVID last week.
+
+Unknown: It's like amongst our competitors for us to stay like to be here, we like enabling ourselves with technology is like where this industry is going.
+
+Unknown: Kind of what I was thinking.
+
+Unknown: And small brands don't have that focus.
+
+Unknown: Target doesn't have that focus for emerging brands that they're buying it for.
+
+Unknown: Target's just gonna be small ones.
+
+Unknown: For a company of our size, we're actually in a pretty good spot where we can be pretty nimble and pretty fast with tech enablement and like I'll just touch in the chase.
+
+Unknown: We are big believers in AI and we are going to enable our systems and processes and routines with AI.
+
+Unknown: It's actually we just we just develop our own proprietary bot of our own and developing man.
+
+Unknown: And internally at Bluebird, like let's say you started at Bluebird and you're trying to get your feet underneath you and you got a client asking you for certain things.
+
+Unknown: Hey, I need to know why we're out of stock in region 400.
+
+Unknown: What were the sales trends for the last month?
+
+Unknown: Used to be that might take me every 20 minutes to dig out.
+
+Unknown: Wing it's like it takes about 90 seconds.
+
+Unknown: Retrievals, everything's connected.
+
+Unknown: And then for our clients, that's interesting for them because we just call it like speed insight.
+
+Unknown: That's our clients are relying on Blu-ray they're like wow you're a partner that's going to be able to get to the insight a hundred times faster than we used to.
+
+Unknown: All this is very new to us so I'm still my like acumen if you will around Wingman and AI in general is certainly still pretty novice.
+
+Unknown: But if you're asking me the question like save the industry where do you see it down, that's kind of our leadership team believes over the longer record.
+
+Unknown: That's really good.
+
+Unknown: That's fun to hear because then it's a more interesting conversation than it's an industry for like a lot of industries but yeah they're there's a there's still players in the game that are stuck in that more old-fashioned world where it's like we're gonna be the finger guns and I'll take you to sneak dinner and you know I'll send you a spreadsheet every other week and we'll talk and we're like no that's just not the hours.
+
+Unknown: Wow.So whether it's Wingman or AI or it's there's other things working on.
+
+Unknown: I think you guys have an internal technology that develops a lot.
+
+Unknown: Yeah, so like another example is like we have our own proprietary recording cache all essentially it just takes, it really is just data visualization.
+
+Unknown: And it's also integrated other data sets like some of the dissented marketplace data.
+
+Unknown: The point is it's just really like the univer user interface is super friendly and again it's we use it internally but we actually give our clients a login so they can get in the scope.
+
+Unknown: They can just if you're someone who wants to out in there, like here's your login going.
+
+Unknown: A lot of clients are like, no, that's Wick Mario Hu and we're like, that's fine, like we get now.
+
+Unknown: But if you're someone who wants to go in and do it on your own, the point is it's another example of our stuff we were building, reaching for things that we need. Yeah.
+
+Unknown: And you guys are on the edge and you have the funding to be on the edge. Yeah. Good point, yeah.
+
+Unknown: So like then we bring in partners like HIV and Virtual and it enables us to do certain things.
+
+Unknown: Build this tech. Put people in regional offices for Costco.
+
+Unknown: We want to dial in our Walmart teams.
+
+Unknown: I mean there's certain things that are expensive that we want to go do.
+
+Unknown: Yeah, yep.
+
+Unknown: So the Fentonville team is Walmart and Santa.
+
+Unknown: Okay.And then we this is I guess I think the year and throughout the year, we purchased a we acquired a current six program affected.
+
+Unknown: So at this point we've almost, I call it like a hub and spoke type model where it's like if you're brand you can hire Uber to cover time if you can.
+
+Unknown: So for them that comes with equipment seeds and consolidating and like chops, for example, we rep them for both marketing and do you really?
+
+Unknown: Yeah.They're huge, huge.
+
+Unknown: I just watched, I just, I think they added how I built this or something and I was watching really good.
+
+Unknown: Yeah, so that's that's probably one of our I mean one of our biggest, but proudest, I would say, like a case study into what we want to do with some of our data.
+
+Unknown: That's yeah.
+
+Unknown: That probably changed their Uber made the difference is we actually brought that down to Target.
+
+Unknown: We were like you guys gotta lean out of your feet.
+
+Unknown: Because showing what you can replace on the stores I've heard is that's a big deal for them.
+
+Unknown: It's helpful for if you're targeting you want to know what we need to lean out of. Yeah.
+
+Unknown: We need to get out of something that you're helping.
+
+Unknown: Yeah.You're helping us.
+
+Unknown: So then the question is like where it is like who or what gives that space and in this case it was sticks and stuff like that.
+
+Unknown: Challenge the brand and lead that and kind of lead that trend.
+
+Unknown: I'll tell you another one recently.
+
+Unknown: Are you familiar food coffee?
+
+Unknown: Yeah.I remember I got a lot of like mud water ads.
+
+Unknown: So that was like the leggest that was like the I thought it was the first or one of the first.
+
+Unknown: Yeah, one of the first.
+
+Unknown: And they just added scales as thickly as yeah.
+
+Unknown: They were DTC primarily.
+
+Unknown: Yeah, so yeah you're certainly reading it the right way.
+
+Unknown: Yeah, Rise.
+
+Unknown: I've seen Rise.
+
+Unknown: Super impressive with their digital marketing.
+
+Unknown: So we wrapped that and we watched that at Target back in January.
+
+Unknown: And I mean they're on a path right now to do that.
+
+Unknown: Just target.
+
+Unknown: I mean that tells you though what it means to like at least from what I see the rise of like you might explore on digital but being in store next to an in-store product you just put it off the shelf.
+
+Unknown: If you look at targets in your business they would say like they call it digital penetration because the amount of volume that originated digitally is maybe 20 to 30%, which is a lot.
+
+Unknown: But the point is it's still 70% of these controls to your point.
+
+Unknown: Like, you know, I'm going through my day-to-day life and I see these guys at once or whatever.
+
+Unknown: And what it helps with is brand a larynx so people get to a target store and they're like, oh, I've seen that brand super I'm like, he's an older.
+
+Unknown: Anyways, that was another one where just the mushroom coffee category diagnostic of any brand.
+
+Unknown: We had a lot of data that come to your target.
+
+Unknown: Yeah.Usual brands that can help you do that one little camera that it's got like Mother Water didn't want to go retail.
+
+Unknown: Like I feel like they could have gone retail two years ago.
+
+Unknown: Yeah, I forget, in a general sense, yes, you're right.
+
+Unknown: They're still a little bit like, like I said, they're not as scaling as much as you're as fast as they're.
+
+Unknown: Oh, you wrapped them too.
+
+Unknown: Yeah, we yeah.
+
+Unknown: So we've been at Target for probably how much.
+
+Unknown: So they've been in the retail mode for a little while now.
+
+Unknown: But for a long time it was like, it's just two skews.
+
+Unknown: That's that was fine.
+
+Unknown: But like Reverend Atix, we have 10 SKUs.
+
+Unknown: And Ryan's just been at like a much faster scale.
+
+Unknown: So anyway, much shorter answer to your question is yeah, we see the industry as the players that can enable themselves.
+
+Unknown: Yeah, it's that the um what else are you working on?
+
+Unknown: I'm done.
+
+Unknown: I wanted to come back this summer.
+
+Unknown: I've got a class to do and let me know when you have to go.
+
+Unknown: I'll have to leave around like 8: 45.
+
+Unknown: Okay, perfect.
+
+Unknown: Got a class this summer.
+
+Unknown: I just built that product for you.
+
+Unknown: That took like two weeks max.
+
+Unknown: And now I'm building other products.
+
+Unknown: Just like trial products for people to, you know, see if I'm building one for an insurance broker, one for a real estate developer, totally different spaces, but just to but starting with problems that they have, right?
+
+Unknown: The insurance broker couldn't find new businesses that were just coming out that he could go sell outdoor sports insurance to.
+
+Unknown: Build a scraper, have LLMs like going in and scraping on the websites.
+
+Unknown: Stuff that I did at SLA.
+
+Unknown: Which I was at one point we were doing competitive intelligence.
+
+Unknown: It's just like, for them it's the same, you know, I have a bunch of these resources.
+
+Unknown: And before, last time I worked at a startup, that was also doing.
+
+Unknown: So that's kind of the space I'm leading into is not necessarily competitive intelligence, but um.
+
+Unknown: Did you know that you wanted to go down this path or things for the proliferation of AI?
+
+Unknown: Yeah, software engineering for sure.
+
+Unknown: I 'cause I knew I I went into Madison as a computer engineer.
+
+Unknown: Did I think it would change this much?
+
+Unknown: No.And I'm I I it's super exciting to know because every business should be able to be covering more of the ground.
+
+Unknown: Good for you, man.
+
+Unknown: You are like, I'm the first trade man.
+
+Unknown: I need to just stick my teeth at AI.
+
+Unknown: I mean I can do very simple things.
+
+Unknown: Yeah.But I I think we'd all agree that like if you call that thing with AI, like yeah I'm gonna get that us.
+
+Unknown: Yeah, no.
+
+Unknown: But I that's I mean that's why the Andrew Carbat died from says it's not AI replacing you, it's the people who are using it.
+
+Unknown: That's it.
+
+Unknown: We are so far from this doomsday.
+
+Unknown: Espe like when I sit there, I'm like, like even at Tesla, this huge company that's so tech-bored our manufacturing, know it.
+
+Unknown: If we were the first team to deploy stuff, it would be wild.
+
+Unknown: Things are still and knowing that manufacturing, I know every other manufacturing cannot be fun.
+
+Unknown: Except in China.
+
+Unknown: They're doing better, but yeah, bad.
+
+Unknown: Do you think manufacturing as an industry is a huge opportunity?
+
+Unknown: But it's it's really really enterprisey, so it's really clunky software and getting them over to smaller, better software is and especially I mean I'm twenty one years old.
+
+Unknown: Alright so you're here for the summer.
+
+Unknown: We won't be at like your parents' place.
+
+Unknown: Yeah, but going back for your senior year.
+
+Unknown: Finish up and then I think I wanna move to San Francisco.
+
+Unknown: Work out there.
+
+Unknown: Are you starting to line up opportunities or not really?
+
+Unknown: It it's kinda weird.
+
+Unknown: Like software engineering, unless it's like a capital firm that you'd be going to work on the operations team, nothing's really this early.
+
+Unknown: Like it'll start fall.
+
+Unknown: But not not necessarily sure.
+
+Unknown: I've started looking around though.
+
+Unknown: I'll probably go to a pretty small that's just grow with them.
+
+Unknown: And then I want to start my own thing.
+
+Unknown: Yeah, I mean, in my experience, my ex and there's no like answer, but then excuse me, I did what, seven years target.
+
+Unknown: Yeah.And now I've done four and a half years with Bluebeard, and I would tell you I am a firmly believer in the small company.
+
+Unknown: Yeah.Yeah, I mean, it feels like you've grown with a ton.
+
+Unknown: Yeah, I agree.
+
+Unknown: Smaller company.
+
+Unknown: Yeah.If you do it right, a lot of luck involves unlucky as driving.
+
+Unknown: But yeah, that the small company buying your certainly my preference, but at that rate you've gotta you have to have the trust and faith in the people.
+
+Unknown: You just gotta find the right comes in one.
+
+Unknown: That's very hard, but I mean if you get in with good value people, that they're ready to try. Yeah.
+
+Unknown: Like Jackie and my definitely in the startup type mode.
+
+Unknown: It's called a company called it's called Lunar.
+
+Unknown: LUN.Their office is downtown Minneapolis.
+
+Unknown: It was started by a couple, like, I think they were Ed McCaffrey guys.
+
+Unknown: Oh, yeah.
+
+Unknown: I forgot who it is.
+
+Unknown: Finance guys. Yeah.
+
+Unknown: But it's like Finance beats retail.
+
+Unknown: And so for a lot of the converging brands that are ready to get into mass retail, Target comes along and says, we're ready to buy any of your products.
+
+Unknown: It's like, that's great.
+
+Unknown: We'd like to produce that product and finance the machinery involved.
+
+Unknown: Basically just all the expenses that go into actually producing that very, very credit.
+
+Unknown: But I think you can do it in like their tech enable, kind of small.
+
+Unknown: Yeah.But anyways, that's yeah, so there are many brands that need what you would call like retailer inventory financing.
+
+Unknown: It's like part of the ecosystem that people are trying to forget about.
+
+Unknown: Yeah, like we share a couple times actually.
+
+Unknown: Anyways small company and the leaders, the guys who work hyper like super smart and like they're going to take company into the right the right places.
+
+Unknown: However there are certain people I've heard for company that's friction.
+
+Unknown: Yeah, I mean at some point that's ethical a ten person firm.
+
+Unknown: I mean you're with easy it's like the airplane tests.
+
+Unknown: Yeah.Do you want to go on a flight with this person?
+
+Unknown: Right.So just to your point around trying to work somewhere small, I share the same photo view, but it's a good ideal world are lucky enough to do great people in that.
+
+Unknown: That's a good insight because I think and taking the time to go through it.
+
+Unknown: Like exactly, like you're going to be your picket, so take the time to go through that. Yeah.
+
+Unknown: Which is like at some point there's not a law like you don't always know what you're getting into.
+
+Unknown: Well yeah the the startup I worked for last summer it was the four founders and me.
+
+Unknown: Right.Exactly.
+
+Unknown: And one of the guys is a little crazy.
+
+Unknown: Fucking founder me too.
+
+Unknown: And asked for my advice.
+
+Unknown: It's like, when are you coming back?
+
+Unknown: Yeah.Yeah.
+
+Unknown: And I've gotten to, he's gotten way better, and I think he respects me a lot, and I respect him a lot more for his able ability to like sell software.
+
+Unknown: Incredible.Is he like a people leader?
+
+Unknown: No.No.
+
+Unknown: But who else?
+
+Unknown: I mean, I don't.
+
+Unknown: They don't have a people leader in their org right now, which is fine because they're four people, but.
+
+Unknown: And that's what happens.
+
+Unknown: It's like a couple guys that are really good at a certain skill set.
+
+Unknown: Exactly.They're probably doing great, but like 5'8 meters and colours.
+
+Unknown: And then you don't have a CEO figure at uh like Brian Brian Chesky from Airbnb talks about that all the time. Yeah.
+
+Unknown: Like he always wanted to get to that point where he could be a people leader.
+
+Unknown: A lot of founders said he just wanted to.
+
+Unknown: I mean, they just want to build.
+
+Unknown: That's fair enough.
+
+Unknown: And that's, I think, pretty recurred in elections.
+
+Unknown: That is, in my globalize my own personal opinion on it.
+
+Unknown: And I will admit, like.
+
+Unknown: I've learned that I love like I live in my little burn and I got to run my portfolio and a couple account managers that kind of work for them.
+
+Unknown: You don't play for politics, so you don't have to.
+
+Unknown: Like I originally at Target, I was like, oh, I think I'll be good at this politics, but I think I'd be like, I just don't want to put my energy in.
+
+Unknown: No, let me put my energy into league.
+
+Unknown: Not navigating.
+
+Unknown: Some people have their turn way too far.
+
+Unknown: Just because I'm getting like technically that like I don't need people is not and I don't know how you feel about it.
+
+Unknown: Yeah, I did it a little bit test at the ounce.
+
+Unknown: It's my boss lounge so I had to take a look.
+
+Unknown: And it was fine, but I didn't, I mean, obviously no one reported.
+
+Unknown: But I just had to like, we were launching new products, so I had to be the one to say like what we're what we're gonna do and I liked that.
+
+Unknown: But it was always the focus was never like, oh my gosh, like you're complaining about how you have to come into work too early.
+
+Unknown: Like it was like, we all are headed the same direction on launching this product.
+
+Unknown: How can we all help each other?
+
+Unknown: As long as it's like leadership around a program or something, that feels fine. Yeah.
+
+Unknown: I mean, I think people who are just smart and capable and they're aware like the inevitable next step is that Peter Kool is okay.
+
+Unknown: That's a thing.
+
+Unknown: That's so weird how much people are an incredible individual contributor.
+
+Unknown: That's not one thing I will say Tesla does a great job of.
+
+Unknown: If you want to be an individual contributor, you can keep climbing like a staff engineer, like senior staff engineer.
+
+Unknown: Like the most paid people at that company are senior staff engineers.
+
+Unknown: More than any manager.
+
+Unknown: Like they reward individuals.
+
+Unknown: Well, and like just Uber it's pretty similar, where like the individual contributors are the sales.
+
+Unknown: Our guys that are big people are picked for something like Blueberry that it's kind of by design where it's like your difference maker as an individual like organized doing your thing.
+
+Unknown: Yeah.And like let them do their thing as opposed to making them feel like they need to be a team.
+
+Unknown: Or, you know, somewhat.
+
+Unknown: Right?Yeah, they're like, they're more like. Yes.
+
+Unknown: I'm not in a spot where I have to like it.
+
+Unknown: Yeah, mom or yeah.
+
+Unknown: And I'm a little bit lucky, like, in our business, it's strong.
+
+Unknown: No, but it's so one more year and then later on in the fall you'll start to pretty early fall I'll start to look around if this brand or New York, my girlfriend also would know about it.
+
+Unknown: Like if we I wanna like try to be in the same city as her, so our best chances are probably big cities where we love.
+
+Unknown: She's originally from outside like Milwaukee area.
+
+Unknown: And so she's probably going to Chicago or but she's real estate.
+
+Unknown: So good city should have worked.
+
+Unknown: Yeah man, I mean yeah, I New York in particular, you can find a way to use the computer.
+
+Unknown: Yeah, that's pretty cool.
+
+Unknown: I'm and I didn't do it.
+
+Unknown: If I didn't I would have left.
+
+Unknown: But there is a little bit of that like ideally you can kind of go do the two or three years or four years.
+
+Unknown: That's okay.
+
+Unknown: I don't want to do it for forever.
+
+Unknown: I love it. Yeah.
+
+Unknown: And I think it's great like that because it's a little bit hard because usually at that age you don't have a few days you're living in an expensive city and you probably feel like you're not broke.
+
+Unknown: But just the experience of living in in a freaking New York City, I wish I did um it's a cool place.
+
+Unknown: And then yeah, after you've done your three to four years, you know, people are pretty exhausted.
+
+Unknown: So they're like, let me go I'll go settle down a little bit so I'll see what's going on.
+
+Unknown: Um I was gonna ask you, what do you see it like?
+
+Unknown: What do you what's like the most struggling struggle in your job idea?
+
+Unknown: I mean it's one of those things where it's gonna be a lot of it's a good problem.
+
+Unknown: I think that I wrestle in this type of experience.
+
+Unknown: It's of just like a personal finger out and less of a like you might like especially in a world where you're paying attention and you're a huge business you're you know and like generally more than I'm like timing myself.
+
+Unknown: Yeah, it's tough.
+
+Unknown: Do you like it?
+
+Unknown: And if there are that many days for a few years, he'll be or like where I want to be.
+
+Unknown: Like, if I can lean out of it a little bit, it would free up more time to travel.
+
+Unknown: Yeah.Like I think I'm just trying to figure out that out a little bit. Yeah.
+
+Unknown: A good problem to have.
+
+Unknown: Because I like when you eat what you kill, and that's a software engineer.
+
+Unknown: That's why I've explored other things, and I eventually want to be a founder, because that's the ultimate eat what you kill to start, at least.
+
+Unknown: But it does, at some point.
+
+Unknown: There's never like a button block out for me.
+
+Unknown: 'Cause I see I like the type of first time in my life that I've had really like I don't I don't think I can put a hair aside to I just need to put a little bit more out and in my time, in my day, in my week.
+
+Unknown: So if you just like a little bit ignorant to it, like I don't want to be on my computer every time I'm working.
+
+Unknown: Which that's what happens for me.
+
+Unknown: Right.Because it felt like, oh, you've got to feel like you're working hard and proud of the fact that you're riding.
+
+Unknown: And so okay, but for some people they just have a lot of reality that I'm gonna always want to be but like I've seen my great friends I go through this too.
+
+Unknown: Tara best that like a recently activated and I think it has sort of broken her up to like uh more like um after a longer way to say like I think I'm just trying to learn how to manage my time and it it's only to require like just being more efficient.
+
+Unknown: Yeah.Or delegated what feels like something that's like a big waste right now that like is realistically out of author.
+
+Unknown: I mean like I'm running maybe 25 I say a lot just relevant to like what most carry like more more people are probably more like that maybe 10 or 15 right um the point is like if you were to just look at the book and almost rank the lines by volume or however you want to rank them, like there's certainly some optimizing it in that regard and it's either like focusing on your MVPs basically.
+
+Unknown: Yeah, for sure.
+
+Unknown: And I and I do a decent job of that speaking with, but I think there are certain certain lines we wrap where I would probably delegate those more to like a more genier and or I could make the case to hire someone.
+
+Unknown: They would be like a person so there are there are ways of thinking about it like that, but I think that the first advice for you would be like especially if you're going to develop these well in principle it's like more but like it's not always over is just too much because you gotta like protect your like that's small.
+
+Unknown: That's the first time in my career when I had to be like, let's not totally kill ourselves here. Okay.
+
+Unknown: That's good.
+
+Unknown: That's probably not what you were expecting, but I think it is good advice.
+
+Unknown: No, I think that's, I mean, my dad is kind of similar.
+
+Unknown: I mean, he's developed.
+
+Unknown: Right.And I'm a boy.
+
+Unknown: And there's, I think what happens is like someone like your dad is probably like, hey, I'm not.
+
+Unknown: I was maybe a certain game. Yeah.
+
+Unknown: Like around, like, I think I think there's a little bit of a generational difference between like her parents.
+
+Unknown: Yeah.I think there's just a little bit more willingness to like, you know, people like to take a step back really press pause and assess the situation.
+
+Unknown: I feel like their generation was very heads down.
+
+Unknown: And I think that's cool though.
+
+Unknown: Maybe it's like little things.
+
+Unknown: Like I was in a lot of time in the house.
+
+Unknown: Like I I pull out of bag and the first thing I do. Yeah.
+
+Unknown: And it's like over time it's like that's like not the way to start.
+
+Unknown: No.Yeah.
+
+Unknown: Go sit outside for 20 minutes, have a coffee, read the book anything but a computer with teams and whatever.
+
+Unknown: It's like little habits that can end up making a big difference.
+
+Unknown: But I forgot it.
+
+Unknown: Interesting.All right, man.
+
+Unknown: Catching up. Yeah.
+
+Unknown: Great to catch up.
+
+Unknown: I'd love to do it again this summer if you're around and available.
+
+Unknown: Yeah, I mean I I'm always happy to go out here on the lake.
+
+Unknown: I love being up there.
+
+Unknown: You can do that too.
+
+Unknown: Maynard's or something.
+
+Unknown: Do you see your girlfriend a lot this summer?
+
+Unknown: Yeah, I'll be.
+
+Unknown: That's why I'm kind of well the the hope it's in because when I'm in Madison I can actually class is kind of hard so I can study when I'm there and then I'm working on side projects when I'm here. Nice.
+
+Unknown: It's a good setup.
+
+Unknown: And then you get to be down near the lake too.
+
+Unknown: Perfect day for that. Yeah. Probably.
+
+Unknown: Alright man.
+
+Unknown: Thank you catching up.
+
+Unknown: Thank you for the pathway.
+
+Unknown: Okay.I'm parked here.
+
+Unknown: Okay, cool.
+
+Unknown: Thank you. Yeah.

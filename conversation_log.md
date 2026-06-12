@@ -1,9 +1,27 @@
 # Conversation Log
-*Running record of every conversation — most recent first. Full summaries in `outputs/transcript-summaries/`.*
+*Running record of every conversation -- most recent first. Full summaries in `outputs/transcript-summaries/`.*
 
 ---
 
-## Entry #12 — Matt Breen (Father), Minnetonka District — Follow-up Call
+## Entry #13 -- Chuck, Bluebird (key account manager, retail/CPG brokerage)
+**Date:** 2026-06-12 | **Interviewer:** Marley | **Industry:** Retail brokerage (CPG)
+**Full summary:** `outputs/transcript-summaries/2026-06-12-chuck-bluebird-retail-catchup.md`
+**Sources:** Retail catch-up transcript (8:10-8:55 AM) + post-meeting voice memo (9:09-9:20 AM)
+
+**Top Mistakes:**
+- Roughly a third of the conversation spent on Marley's own life (career plans, girlfriend situation, job search timeline)
+- When Chuck named account overload as his biggest struggle, Marley let it drift into life-advice rather than extracting a past-specific story
+- No past-specific questions at any point -- every signal came from Chuck volunteering, not from Marley probing
+- No Big 3 Goals defined beforehand
+- Zombie close: "coffee again this summer" with no date, no agenda, no commitment ask
+
+**Commitment Outcome:** None. Loose plan for a follow-up lunch at Maynard's in early July -- no calendar invite confirmed, no agenda set.
+
+**Standout Signal:** Account overload (25+ accounts, above-average load) surfaced unprompted as Chuck's biggest current struggle -- a genuine emotional signal, not a response to a direct question. Bluebird's internal AI investment (Wingman: 20 min to 90 sec for data retrieval) confirms a real pre-solution problem, but the before-state was never explored. Sourcing/lead qualification bucket confirmed unaddressed -- highest priority for the July follow-up.
+
+---
+
+## Entry #12 -- Matt Breen (Father), Minnetonka District -- Follow-up Call
 **Date:** 2026-06-11 | **Interviewer:** Marley | **Industry:** K-12 public schools
 **Full summary:** `outputs/transcript-summaries/2026-06-11-breen-followup-call.md`
 

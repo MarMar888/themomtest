@@ -1,0 +1,133 @@
+Reflecting on broker tech opportunity
+=====================================
+Date: June 12, 2026
+Time: 9:09 AM – 9:20 AM CDT
+Location: 20220–21200 MN-7 W, Greenwood, MN 55331
+
+
+OVERVIEW
+--------
+Marley recorded a voice memo reflecting on a business meeting with Chuck, a key account manager at Bluebird (a retail brokerage). Marley sees significant startup opportunity in building technology for retail brokers, who act as "data moats" between small brands and retailers by providing data-driven pitching that individual companies can't do themselves. He believes this broker-tech thesis could extend to insurance and other brokerage verticals. However, he acknowledges he failed to extract specific problems from Chuck during their conversation and plans to be more disciplined in future meetings.
+
+
+ATMOSPHERE
+----------
+Self-critical but optimistic — Marley is energized by the business opportunity but frustrated with his own conversational discipline, treating this as a learning moment and committing to structured improvement.
+
+
+KEY TAKEAWAYS
+-------------
+  - Broker-tech thesis: Retail brokers are evolving from relationship-based store placement to technology-enabled data storytellers; startups that support this transition have a major opportunity
+  - Bluebird's value: Chuck's firm provides brands like Chomps with retail data and pitching expertise they lack internally
+  - Missed opportunity: Marley didn't get specific, actionable problems from Chuck — just one briefly mentioned issue without deep exploration
+  - Planned follow-up: Lunch with Chuck in early July at Maynard's to dig deeper into pain points
+  - New interview framework: Marley wants to bucket Chuck's role into three areas — (1) sourcing/lead qualification, (2) onboarding and early pitching, (3) execution and continuous growth — and probe each systematically rather than asking generic "what's your headache?" questions
+  - Specific ideas to explore: Time tracking per customer, sourcing tools (inbound vs. outbound mix), and digital gaps where technology could help
+  - Potential product angle: Early brand detection/scraping to help Chuck identify young emerging brands before competitors
+  - Personal development: Marley plans to get coaching on interview technique when he returns home
+
+
+ACTION ITEMS
+------------
+  → Schedule follow-up lunch with Chuck at Maynard's for early July
+  → Prepare structured discussion using three-bucket framework: sourcing/lead qualification, onboarding/pitching, execution/growth
+  → Develop specific questions for each bucket, including:
+  → Time tracking methods and challenges per customer
+  → Sourcing tool stack and inbound/outbound balance
+  → Biggest non-digital pain points and technology gaps
+  → Arrange coaching session on customer discovery interviewing when back home
+
+
+TRANSCRIPT
+----------
+Note: Speaker attribution was not available; all speakers are listed as Unknown.
+
+Unknown: Okay, a little reflection on the discussion I just had.
+
+Unknown: It was good to catch up with him.
+
+Unknown: Definitely a huge opportunity in the retail industry.
+
+Unknown: I think continually brokers.
+
+Unknown: Brokers will be technologists, they have to evangelize technology and adapt to it.
+
+Unknown: And I think it's a huge opportunity for startups to come in and support brokers, especially when a retailer might be they're focused on their brand.
+
+Unknown: A small individual company is focused on their independent growth.
+
+Unknown: Brokers are the they get that gap in between, and what they do right now is they get you into stores.
+
+Unknown: But what they're doing now is they're the data moat.
+
+Unknown: They have a data moat because they can basically help chomps understand chomps pitch to target through a data story that chomps may not have on their own, but because Bluebird lives in the retail space, they have that.
+
+Unknown: This is the same thing for insurance brokerage and could be a thesis across that we're seeing: is brokers having tech advantages to help support small businesses and retail, support getting insurance for small businesses.
+
+Unknown: So continually, I think focusing on different brokers could be a huge advantage, and they have the time to focus on using external technology, on using something that's stable and works for them.
+
+Unknown: I'm excited about this, but I didn't any specific problems out of Chuck today.
+
+Unknown: That was the point, though.
+
+Unknown: We've got all summer.
+
+Unknown: We're going to catch up with him hopefully in early July, see what he's up to, maybe have lunch over at Maynard's, and I'm going to ask him, okay, what more specific problems?
+
+Unknown: He talked a little bit about that one problem, but we didn't have really a lot of time to dive into it.
+
+Unknown: I do need to be more disciplined.
+
+Unknown: I like just talking to people, but I really need to be disciplined.
+
+Unknown: Like, what are your problems today?
+
+Unknown: What feels like a headache?
+
+Unknown: What do you spend a lot of your time on?
+
+Unknown: I think I could have asked them as a follow-up: you know, I think, like, for the next discussion, where we want to leave off is what, how can you track your time per week per customer?
+
+Unknown: Is there a helpful way to do that?
+
+Unknown: Is that helpful?
+
+Unknown: Is that a problem because he has such a large load?
+
+Unknown: And then, also, just in general, you know, what is a tool that he uses for sourcing?
+
+Unknown: Is it most of it inbound?
+
+Unknown: Is that a lot of it outbound?
+
+Unknown: You know, let's cover, let's cover, like, let's like consulting style bucket his business and then ask questions about those three or four areas of his business that help to probe for problems.
+
+Unknown: So that we're not just saying, okay, like, what's a headache right now?
+
+Unknown: He's not going to say we're not, we're having any pressing problems most of the time.
+
+Unknown: We need to go deep into the buckets of his business.
+
+Unknown: So, if I was to split his business up today, I'd say let's just go with three buckets.
+
+Unknown: It's sourcing, onboarding, and early pitching, and then execution on continuous growth.
+
+Unknown: Those are probably the three areas of his business since he's a key account manager.
+
+Unknown: He's working with the internal operations team on the execution side, and then for the growth and pitching side, he's directly looking at the data for markets they have and helping those small brands to feel supported and getting into those retailers and growing with them.
+
+Unknown: And then there's a sourcing and kind of qualified lead, which we did not touch on at all.
+
+Unknown: That is what I want to touch on.
+
+Unknown: If we can monitor and help him scrape for the youngest brands out there that are now coming out today and getting them on his radar early, that is value.
+
+Unknown: That could be valuable potentially.
+
+Unknown: Or if it's just something else, but I think, like, let's set the stakes high because he said digital first.
+
+Unknown: Where does it feel like you guys aren't digital the most still?
+
+Unknown: Where does it feel like there's a huge gap for technology?
+
+Unknown: I need to get better at these questions, but we'll get some coaching when we get home.

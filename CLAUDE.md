@@ -34,6 +34,10 @@ Big 3 Goals: [What you were trying to learn]
 
 The full workflow in `MT_project_instructions.md` runs from there.
 
+## Writing Style
+
+- Never use em dashes (—) in any output. Use a comma, period, or rewrite the sentence instead.
+
 ## Key Rules
 
 - Read the full transcript before generating any output — never skim.

@@ -468,3 +468,36 @@ When analyzing what customers said:
 ---
 
 *Document compiled from: Lucas's personal notes, Rob Fitzpatrick's "The Mom Test" (2013, revised 2026), and supplementary analysis from practitioner reviews and case studies.*
+
+
+⏺ Pre-Product Sales Commitments Are Now Situational
+
+  The traditional logic for pre-product commitments went like this: building is expensive, so before you build, get someone to commit. The commitment was a gate that filtered out bad bets    
+  before you sank months into them. It made sense when a prototype cost $500K and six months.
+                                                                                                                                                                                               
+  When building a prototype costs two weeks, the math breaks.                                                                                                                                  
+  
+  The old calculus:                                                                                                                                                                            
+  Getting a pre-product commitment is itself costly — you're asking someone to evaluate an abstraction, which requires trust, relationship, and multiple conversations. If that process takes
+  three weeks and building a prototype takes twelve, the commitment is clearly worth pursuing first. The cost of the commitment conversation is small relative to the cost of building wrong.  
+  
+  The new calculus:                                                                                                                                                                            
+  If the prototype takes two weeks, the commitment conversation might cost more in elapsed time than just building. Worse, an abstract description is a poor communication medium — customers
+  often can't accurately assess whether they want something they've never seen. You end up with soft commitments that evaporate on first contact with the actual product, or you over-specify  
+  up front to compensate and lose speed.
+                                                                                                                                                                                               
+  So the prototype becomes the discovery artifact. Instead of: discovery → commitment → build → show, the sequence compresses to: discovery → prototype → show → then commitment.              
+  
+  Where pre-product commitments still make sense:                                                                                                                                              
+  - The build requires irreversible choices that only the customer can specify (deep integrations, regulated data, proprietary systems)                                                      
+  - The customer's willingness to commit is itself signal about market urgency — you're testing demand, not just communicating the product                                                     
+  - Enterprise deals where trust is the bottleneck and a prototype signals unseriousness rather than competence                           
+  - Co-development arrangements where the commitment funds the build                                                                                                                           
+                                                                                                                                                                                               
+  Where jumping to prototype is now correct:                                                                                                                                                   
+  - The product is experiential and abstract descriptions produce unreliable signal ("I'd use that" means nothing until they try it)                                                           
+  - The customer segment is time-constrained and won't engage with hypotheticals                                                                                                               
+  - You're early enough that you need to discover the right problem, not validate a known one — a prototype surfaces that faster than conversation                                           
+                                                                                                                                                                                               
+  The key shift is that commitment-first was a heuristic for managing build cost, not a first-principles rule about customer learning. Now that the heuristic's underlying assumption has      
+  changed, the situations where it applies have narrowed.     

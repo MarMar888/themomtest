@@ -14,3 +14,4 @@ Specific ideas (based on problems solved):
 - 10x faster and cheaper ERP integration
 - Lead sourcing monitoring for insurance brokerages
 - Stripe for merchant not present transactions
+- Predictive math canvas — AI-native STEM notebook for iPad. Two core interactions: (1) cleans up messy handwriting into legible math notation, (2) predicts and completes partial graphs/equations as you sketch them (ghost layer, like Copilot). Concept tracking layer logs which ideas you consistently struggle with across sessions. Gap confirmed: MathNotes has the AI sidebar but no graph completion or personal pattern learning. AmIWrite (CHI 2026) has annotation-on-handwriting but isn't a consumer app. Full vision: PencilKit canvas + Claude Vision API + ghost layer completion. Validation path: try MathNotes first (30 min), then browser prototype if gap confirmed.
