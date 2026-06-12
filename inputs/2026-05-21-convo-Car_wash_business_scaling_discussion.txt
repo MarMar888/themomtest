@@ -680,3 +680,10 @@ Unknown: So it's going to take a year.
 Unknown: How do you think about like investing in, like, right?
 
 Lucas: Because you have a capex spend roughly that you want to
+
+
+FOLLOW-UP (text exchange after main conversation)
+--------------------------------------------------
+Marley: Got it, thank you both. WorldPay sounds like a pain. Is it just a pain when you need to call them, or are there other issues?
+
+Wiz: It is hit or miss with WP. Get a good rep or tech and they are great. Once setup you really should not need to call them. Frustrating thing is that you pay different fees (overall) depending on the hardware and size of the transactions. You do not have a choice in our industry for some of the more popular hardware like CryptoPay devices so don't overthink things. Go with the hardware setup that works best for you and your customers.
