@@ -287,6 +287,43 @@ This is the most important discipline. You are looking for disconfirmation, not 
 - Leverage communities, events, forums where your segment naturally gathers
 - If you can't find where your segment hangs out, your segment definition is still too broad
 
+### Cold Email Outreach for Discovery
+
+The goal of a cold email is one thing: get a reply. You are not validating your thesis in the email. You are not pitching. You are earning 20 minutes.
+
+**The four elements of a good cold discovery email:**
+1. Signal you know their world (one specific detail that proves you've done homework)
+2. State what you're curious about, framed around their experience, not your hypothesis
+3. Make a small, specific ask (20 min, not "a conversation sometime")
+4. No pitch, no idea mention, no "would you use X"
+
+**The core rule:** The email should ask about their life, not your idea. Same rule as the interview itself.
+
+**Good cold email (payment operations contact):**
+
+> Hi Tyler,
+>
+> I've been researching payment reporting across fuel and car wash operators and talked to a few smaller chains about their experience with WorldPay. Curious what the picture looks like at Kwik Trip's scale, where you're presumably consolidated on one provider.
+>
+> Would you be open to a 20-minute call? Just trying to understand how your team actually manages payment processing across that many locations from someone making those decisions day to day.
+
+Why it works: specific research reference (WorldPay, smaller chains), asks about their workflow not their opinion, neutral framing ("what does it look like" not "where is the market failing"), small ask.
+
+**Bad cold email (same contact):**
+
+> Hi Tyler,
+>
+> I'm building a payment reporting tool for multi-location operators and think there's a real gap in what processors provide at scale. Would love to get your thoughts on whether this is a problem you face and what you'd want from a solution.
+
+Why it fails: reveals the idea immediately, asks him to validate your hypothesis, "would you want" is a hypothetical, "get your thoughts" is vague. He now knows you want him to say yes, so he either says yes to be nice or says nothing.
+
+**What to avoid in the subject line:**
+- "Quick question" (generic, signals low value)
+- "Startup idea feedback" (tells him you want validation)
+- "Intro call?" (too vague to act on)
+
+Better subject lines name the specific topic: "Payment reconciliation across terminal types" or "How operators handle WorldPay at scale"
+
 ### Keeping the Idea Hidden (Early Stage)
 - "Give as little information as possible about your idea while still nudging the discussion in a useful direction."
 - You can discuss the problem space without ever mentioning your solution

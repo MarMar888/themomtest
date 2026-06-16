@@ -1,0 +1,10 @@
+To: tyler.church@kwiktrip.com
+Subject: Payment reconciliation across terminal types
+
+Hi Tyler,
+
+I've been researching payment reporting across fuel and car wash operators and talked to a few smaller chains about their experience with WorldPay. Curious what the picture looks like at Kwik Trip's scale, where you're presumably consolidated on one provider.
+
+Would you be open to a 20-minute call? Just trying to understand how your team actually manages payment processing across that many locations from someone making those decisions day to day.
+
+Marley Barrett
