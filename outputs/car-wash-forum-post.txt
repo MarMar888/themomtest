@@ -1,0 +1,13 @@
+Subject: Thinking about getting into car washes, questions on the payment/reporting side
+
+Hey all, longtime lurker, first post. I've been looking at the car wash space as a potential investment and trying to get my head around the operations side before I do anything serious.
+
+Most of what I find online covers site selection, equipment, and membership models. What I can't find much on is the back-office and payment side, specifically how operators actually track revenue across locations day-to-day.
+
+A few things I'm trying to understand:
+
+- Who are you using for payment processing? Sounds like WorldPay and CryptoPay come up a lot. Are there real alternatives for unattended/tunnel operations?
+- How do you actually pull reporting across multiple locations? Is there a dashboard that does it, or are you cobbling things together?
+- What surprised you most about the payment/back-office side when you got in?
+
+Not trying to sell anything. Genuinely just trying to understand what operators actually deal with before I decide if this is the right space for me. Any honest takes appreciated.

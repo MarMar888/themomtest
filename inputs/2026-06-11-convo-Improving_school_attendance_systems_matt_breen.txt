@@ -1,0 +1,512 @@
+Improving school attendance systems
+===================================
+Date: June 11, 2026
+Time: 10:06 AM – 10:32 AM CDT
+
+
+OVERVIEW
+--------
+Marley had a follow-up call with his father to debrief a recent conversation Marley had with Annalise, an organized and capable district employee who works under Marley's stepmother. The call covered two main topics: a sports update about upcoming games (including White Bear Lake vs. Edina semifinals that Marley's extended family plans to attend), and a deeper dive into school district attendance intervention challenges. Marley is actively exploring this space for potential startup opportunities, explicitly stating "I'm just trying to find problems to solve." He shared EDIA, a company doing automated text-based attendance communication, as something that aligns with his product vision. His father provided rich context about the district's current fragmented approach: moving toward weekly Student Attendance Review Board (SARB) meetings at elementary schools, using EduClimber as a data warehouse but not its full potential, and the tension between needing systematic processes versus agile, proactive communication. The district's plan remains somewhat ambiguous, with new attendance features from EduClimber coming July 1st and Marley's stepmother taking over oversight of attendance—creating a window for potential change.
+
+
+ATMOSPHERE
+----------
+Warm, supportive, and intellectually engaging. Father is clearly proud of Marley's curiosity and entrepreneurial mindset, repeatedly praising his persistence. The conversation blends family catch-up (sports, wedding stories, the sixth grader's activities) with genuine problem-solving collaboration. Father treats Marley as a capable peer despite acknowledging this is "so far from directly impacting your own life right now."
+
+
+KEY TAKEAWAYS
+-------------
+  - District attendance intervention is in flux: Moving from reactive to proactive model with weekly SARB meetings, but plan is still ambiguous and not yet systematic across buildings
+  - EduClimber's limitations: Acts as data warehouse/SIS integration with Skyward; has underutilized smart forms and family communication features; new attendance features launching July 1st with unclear value
+  - Two distinct problems identified: (1) systematic/process issues for managing chronic truancy cases, and (2) efficiency/agility for day-to-day attendance communication and early intervention
+  - EDIA as reference point: Text-first, automated two-way communication with parents (excuse collection, intervention alerts, document upload) that Marley sees as directionally aligned with his product thinking
+  - Key district personnel dynamics: Annalise is highly capable and organized but may lack strategic vision; current attendance lead is "pen and paper" style; Marley's stepmother taking oversight July 1st will likely increase urgency and openness to new systems
+  - Marley's insight: Custom "business logic" around attendance patterns (e.g., timing of absences relative to school year start, correlating grades with attendance) may be differentiator versus out-of-box solutions
+  - COVID as catalyst: Exposed and worsened attendance culture, creating district willingness to address long-standing gaps
+
+
+ACTION ITEMS
+------------
+  → Marley to send EDIA link to his father
+  → Schedule follow-up call after June 17th (post-graduation) when father's schedule lightens
+  → Father to explore EduClimber's July 1st attendance features over summer and assess value add
+  → Marley to continue developing his product vision around automated, intelligent attendance communication with custom business logic
+
+
+TRANSCRIPT
+----------
+Unknown: Did all the parents go?
+
+Unknown: Some parents are here, but that like our bus was just the three coaches and the team.
+
+Unknown: Okay.Yeah, yeah.
+
+Unknown: This is the getting thinking I was retiring from coaching, but not getting to it.
+
+Unknown: That's what I thought.
+
+Unknown: Yeah, yep. Yep. Okay, and just so I don't, one more question, because I don't junior legion at all.
+
+Unknown: High school league is kind of over?
+
+Unknown: Yes, there's just the state tournament for high school for varsity is starting today, actually.
+
+Unknown: Oh, got it. Yeah.
+
+Unknown: And that's where Minatonica went.
+
+Unknown: Oh, two. Ooh.
+
+Unknown: And in sections, I think it was like the eighth seed or something like that prior to one their section.
+
+Unknown: Something like that. Yeah.
+
+Unknown: Who, uh, how did what's the update on lacrosse?
+
+Unknown: They moved on.
+
+Unknown: The next game is today, and White Bear Lake against Udina.
+
+Unknown: Semifinals, then?
+
+Unknown: Semis, yep.
+
+Unknown: I am. Yeah.
+
+Marley Barrett: My whole extended family will probably be there as well. Yeah. Yeah, a big crowd that comes out. Yeah. Sounds good.
+
+Unknown: My fair lake's a little less inconvenient, but it's a.
+
+Unknown: No, it's not that bad.
+
+Unknown: It's just weird.
+
+Unknown: Oh, gosh.
+
+Unknown: I had to go to a Friday wedding once in White Bear Lake, and I remember I thought it might have been the end of my marriage going up there with one of my high school buddies.
+
+Unknown: And oh, gosh.
+
+Unknown: I just don't get it.
+
+Marley Barrett: Like, who else is driving this way?
+
+Unknown: Yeah, exactly.
+
+Unknown: Exactly.Okay.
+
+Marley Barrett: Well, it was really good talking to you, Elise, and it sounds like.
+
+Marley Barrett: Sounds good.
+
+Unknown: Thank you for doing that. Yeah.
+
+Unknown: She was very like, I didn't expect her to be so prepared.
+
+Marley Barrett: She's like, okay, I've got these notes and this document to show you and work through.
+
+Unknown: I'm like, oh, this is incredible.
+
+Unknown: I love it.
+
+Unknown: So she works under my wife, and my wife just said, I don't know what I'd do without her. Yeah.
+
+Unknown: She is very just organized.
+
+Unknown: She wants things to be better.
+
+Unknown: And so much, as you know better than I do, so much of it is just that. Yep.
+
+Unknown: Do you have the curiosity and persistence to make something better?
+
+Unknown: Yep.For sure.
+
+Unknown: Well said.
+
+Unknown: Well said.
+
+Unknown: And she's been around for a while.
+
+Unknown: Yes.Yep. Yep.
+
+Marley Barrett: So, my main takeaways are you guys are kind of in the in the midst of moving to a different process, a better process to try to intervene earlier and more often, but also manage the different cases better.
+
+Marley Barrett: Because, right, like I missed school in high school, probably wasn't huge issue most of the time, but there's like we kind of just understood there's two buckets right away.
+
+Marley Barrett: It's your, you know, it's Ohio area, people are taking vacations around breaks and taking more time off to save money on flights.
+
+Unknown: And then there is the like, I'm not showing up to school because I have anxiety.
+
+Unknown: Yes.Yep. Yep.
+
+Unknown: Yes.Yeah.
+
+Unknown: Because you do have those students, and this actually drives Mr. Erickson nuts, too.
+
+Unknown: Like, he, it would drive him nuts if a student had 30 absences over the course of a year but could still get an A in a class.
+
+Unknown: Interesting.Yeah, that alone is a sign that there's a gap somewhere else. Yes. Yeah.
+
+Unknown: That's a good point.
+
+Unknown: Yep.And so it was, you know, you know, ultimately, especially at our younger grades, we that becomes less of a factor for a couple of reasons.
+
+Unknown: One, the grades are different, so more meaningless.
+
+Unknown: And number two, it's just so foundational for the students' later years that if a second grader has 30 absences, then all those days of literacy instruction and phonics and things like that that that student is missing just compounds so much differently versus you're missing AP stats and it's a culmination of work. Yep. Yep. So. Okay.
+
+Marley Barrett: I guess what I didn't, I was trying to kind of pull out of her, but it sounds like it's just still early.
+
+Unknown: Is what is the plan to develop this right now?
+
+Unknown: In terms of like, I understand Edgy Climber is part of it, but yeah, I think there I think there is my guess is that it wasn't that she was not getting to something, it's that the plan is still that ambiguous.
+
+Unknown: Okay.Like ultimately there's, you know, I can't remember some sports thing said, well, there's a framework of a plan.
+
+Unknown: You know, like this, you know, and that's how I view this: it's like, you know, one, you know, the person who technically oversees attendance in our district is just she is a little less.
+
+Unknown: Yes, this is.
+
+Unknown: This is what Annalise described.
+
+Unknown: Very classic.
+
+Unknown: Yes, she's little more of a, like, I don't know how strategic she is, right?
+
+Unknown: And so, again, I don't, I don't know how to say that better.
+
+Unknown: But yeah, no, I mean, pen and paper have put it together for me just in terms of what what she's gonna, how she's gonna come to the table if you're gonna break something down in the meeting.
+
+Unknown: Exactly.And she actually, it's interesting because she's actually, her role is shifting so that she'll report to my wife this next year.
+
+Unknown: And my wife doesn't do real well with the the pen and paper stuff.
+
+Unknown: Like she's and so they've had an interesting dynamic.
+
+Unknown: So it'll be interesting, but I know it will get pushed harder because it's just going to be more, it's, in an orange chart, it makes more sense now where she is at for now. Yeah. Okay.
+
+Unknown: And so, so the, so I think there's, you know, there's all these ideas about it needs to be more efficient, it needs to be more proactive, it needs to be systematic.
+
+Unknown: And so, what my wife's goal is to basically have what are called SARB meetings every week or every other week at every elementary for sure.
+
+Unknown: And that's just student attendance review board basically.
+
+Unknown: And so, so, what is happening is, you know, it's still probably more touch points than a lean organization would like to see.
+
+Unknown: You know, just more, you know, things that you would maybe like to have be more automated that are going to not be more automated because of some of the hang-ups with Edge of Climber.
+
+Unknown: But what it would be is there would just, there's a more proactive, intentional meeting around attendance, and we would have, if nothing else, we would use EduClimber to make sure that we are bringing to the top of the pile the names that really need to be at the top of the pile.
+
+Unknown: Indeed, and how that's you could have a short list of interventions, basically.
+
+Marley Barrett: Yes.Either ready for that meeting or developed through it.
+
+Unknown: Exactly.And so it's very much so like the high school, because they have so many assistant principals now, their a their assistant principals meet almost weekly on attendance and then they have a plan for how they're following up with students.
+
+Unknown: Okay.And that just, you know, for elementary, it's more about how you follow up with families.
+
+Unknown: And so, you know, part of it is: one, you know, how much is their teeth behind whatever it is, you know, which is still, I think, to be determined.
+
+Unknown: Yeah.Two, the timeliness of the communication.
+
+Unknown: You know, did you student technically reach, you know, whatever it is, say, seven absences three weeks ago, and we're just meeting on it now?
+
+Unknown: Yeah.And since then, they've had, you know, four more absences.
+
+Unknown: And then, you know, like, what is the intervention that's happening?
+
+Unknown: Which is also, you know, my wife oversees counselors as well, and social workers and such.
+
+Unknown: Like, that's, you know, to make it a more team process is also part of the goal.
+
+Marley Barrett: Yeah, you have like an intervention with watchers that could be external.
+
+Unknown: Yes, and there might be relationships being built with families from a counselor or something like that, where there's more regular communication, and so that you're getting the family on board with the intervention, with the action plan, and hopefully trying to encourage better attendance moving forward.
+
+Unknown: And so, I think, just what's happening is there's probably like a lot of these things may be happening in pockets with certain buildings with certain students.
+
+Unknown: Yeah.But nothing is happening systematic.
+
+Unknown: Systematic, yeah. Yeah. Yeah.
+
+Unknown: And so, you know, I don't think we're going to get to a point where somebody would say we're really efficient, but, you know, the idea is: let's spend a little more time and at least be effective, or have a plan with an effort to have an opportunity to be effective.
+
+Marley Barrett: Okay.I'm just trying to understand because Eddie Climber is an SIS today, as it stands, kind of?
+
+Unknown: It's more of a data warehouse.
+
+Unknown: Okay.Skywards and SIS.
+
+Unknown: Correct.And what Edge of Climber does is it's, you know, on the silicon data profile for student.
+
+Unknown: You can go by student profile, you can do data walls by class, or by grade, or by program, or things like that.
+
+Unknown: What it also has are smart forms, which Ann Balise probably referred to, and smart forms are basically like we use them now for our student support team meetings, where if a teacher wants a student to be evaluated for special education, they have to fill out that form about, you know, what interventions have happened, what are you observing, and so there are districts who actually use EduClimber to generate things like the new READ Act that came out a couple years ago, you have to like report to families or students reading that great, and some districts have that like a report that runs right from Edge of Climber and sends to families.
+
+Unknown: We do not do that right now.
+
+Unknown: We don't even have Guardian emails in Edge of Climber right now because we haven't built a system that's needed that.
+
+Unknown: I actually just sent an email this morning to my boss and to a person who oversees multilingual learning because there's some districts who are starting to do some processes for that, like exit in Edge of Climber and so that there's EduClimber unfortunately cannot do everything that we want for attendance even at its best. Yeah.
+
+Unknown: But there are opportunities with EduClimber, especially with family communication, that we have not utilized.
+
+Unknown: Okay.And yeah, and it's a strong system of record.
+
+Unknown: Yes.Yep.
+
+Unknown: It's, I think, the clearest, most robust data profile that you will find in a student is through there, rather than going like into test scores or whatever in Skyward.
+
+Marley Barrett: Yeah.So I I was kind of looking at, you know, I was working through this, and there was one kind of smaller company that I found, which I don't know if you've heard of them, it's called, they're called Edia. Okay.
+
+Unknown: They, they.
+
+Unknown: How do you sell that?
+
+Unknown: Uh, let me remember.
+
+Unknown: It's weird.
+
+Unknown: Oh, E-D-I-A.
+
+Unknown: I'll send you a link to it.
+
+Unknown: I just. Okay.
+
+Marley Barrett: Because this is kind of what I envisioned, and not to go too quickly into that, what I, you know, think would work best, but it was kind of like reducing chronic absenteeism by really text alerts at the forefront because, okay, right, like immediate messaging, and I know we do the immediate calls out and stuff now, but what just from my experience, like, Ellie, right, got pulled out of school early, and my dad got a call for unexcused.
+
+Unknown: And it's like, they should be excusing it, you know, they didn't do it in time.
+
+Unknown: Like, in on this platform, you can go in and literally say, like, the example is, you know, hi, Jayden was absent all three periods this morning.
+
+Unknown: Will Jaden be attending school today?
+
+Unknown: And then, you know, the parent can literally respond to the text, say, sorry, he had a doctor's appointment.
+
+Unknown: And then it says, no worries, thanks for letting us know.
+
+Unknown: If you have a doctor's note, you may send that here.
+
+Unknown: Kind of all automating yourself.
+
+Unknown: Yeah, yeah. Yeah.
+
+Marley Barrett: And I think that's, you know, that's maybe far along from what you're looking for here. Yeah.
+
+Unknown: But, like, that's, that's of.
+
+Unknown: But it's just an efficient system that actually makes that communication, and also it recognizes that people are more likely to be working off of a text message than that's kind of where I was going to email or a letter.
+
+Unknown: Or a letter.
+
+Unknown: Yeah.Yeah, because some things are required.
+
+Unknown: I think some things are required in hard copy, but I just don't know exactly all the rules.
+
+Unknown: And I think it, I mean, obviously it, you know, tracks obviously a record of when students are missing, and then it has automatic intervention planning.
+
+Marley Barrett: And so I just, I only bring that up because you know, I was looking around, and EduClimber sounds like is going to launch new attendance features starting on July 1st.
+
+Unknown: Yeah, yeah, you did talk about that a little bit.
+
+Unknown: But I didn't, yeah, I didn't get a good sense of what those would be. Yeah.
+
+Unknown: I'm with you.
+
+Unknown: I need to learn more about that here, too.
+
+Unknown: They referenced that in our last little PDE session that we had, but I just didn't have enough context in this space to know the value add yet, but I know that's that is going to have to be a task for the summer for sure.
+
+Unknown: Because I guess the, it seems like, you know, as much as it, you know, if Edio works, then that's solution.
+
+Unknown: And it seems like they've they've gotten a pretty good case and are pretty far along with a lot of big districts.
+
+Unknown: But, right, if you want custom solutions to really like, because we're kind of a district at the forefront, and you know, we might have better ideas of how to manage certain kind of like, I call it like business logic, like, right, what you talked about: of the, okay, are we, you know, why are they missing three weeks?
+
+Unknown: Are we only three weeks into school and they've missed a week and a half already?
+
+Unknown: You know, right, some kind of stronger custom business logic that this might not have out of the box.
+
+Unknown: Yeah, that's yeah.
+
+Unknown: Um, like I think about um yeah, just the notion of how it how to integrate, you know, what processes need to happen in the building, and then what, you know, like things that can be overseen by a paraprofessional who has the clear touch points, and then where does each level need to be a part of that process, and how do you bring it all together?
+
+Unknown: So, that's but that's an interesting one.
+
+Unknown: That's, I'd be curious to learn.
+
+Unknown: EDIA is set right near your yeah, I'll send it to you right now.
+
+Unknown: Yeah, sounds good, and they're actually, yeah, they, I mean, they got, they, they have a really, really good.
+
+Unknown: I was kind of looking at their team and I mean, they have they love education, to say the least.
+
+Unknown: Yeah, that's their whole story.
+
+Unknown: Interesting because I was kind of like, this is what I was thinking of.
+
+Marley Barrett: Like, you know, I started going to my product mode, and I was thinking, oh my gosh, just send text messages, you know, small language model to respond to stuff.
+
+Unknown: And right.
+
+Unknown: So, do you, when you say like shorter, more agile communication versus the opposite?
+
+Unknown: Is that kind of how you view it?
+
+Unknown: Yeah, I guess so.
+
+Unknown: I I mean, at least based on these examples, I'm sure, I'm sure you could I mean, the one message is like, hey, you know, we see this at a certain point, it's like you said, like, can we correlate grades to attendance?
+
+Marley Barrett: You know, give them a speech about this is what we see in the district right now, here's where your students are.
+
+Unknown: And right, like, paint them the picture.
+
+Unknown: Yes, because to be able to find that, you know, both roads where it's one, where it's like just checking on the other, there's an absence today, you know, can you confirm kind of a thing to the here's why your kid needs to be here, here's an intervention that's taking place, you know, like that more robust communication, and how those two would integrate with each other.
+
+Unknown: Yeah.If they do integrate with each other, or is one of them more about managing day-to-day attendance with the hopes of broader improvement by being more agile and proactive, you know, rather than an end-of-the-day automated phone call or something like that, you know.
+
+Unknown: And then, you know, I don't know, it's an interesting thought.
+
+Unknown: And I know families sometimes get annoyed with the phone calls, but it's like then something's up. Yeah.
+
+Unknown: You know, yeah.
+
+Unknown: You gotta put your kids at a tournament.
+
+Unknown: You gotta at least make that phone call. Yes.
+
+Unknown: And you know, we did it yesterday, so everybody, I know, you know, with our with our sixth grader, so everybody has some yelts around it.
+
+Unknown: But yeah. Yeah.
+
+Marley Barrett: So the the plan is right now is not to not is to try to just layer onto EdgeClimber and maybe make some custom stuff as much as possible.
+
+Unknown: I think it's a little bit that and a lot about what is the process going to be for a building.
+
+Unknown: Okay.You know, back to the attendance review.
+
+Unknown: Like I think the reality is, especially with our highly truant families, that they're just, we're just not doing enough.
+
+Unknown: Okay.You know, we're doing enough in terms of intervention for the child and with the family.
+
+Unknown: We're proactive enough.
+
+Unknown: You know, all those little pieces that are playing a role in, you know, okay, here's the process.
+
+Unknown: Now, we're going to move forward with or without EdgeClimber.
+
+Unknown: And if EdgeClimber can make this a little more efficient for us, or at least bring us the names that need to be a part of this conversation, but it's not EdiClimber-dependent.
+
+Unknown: Yeah.Yeah.
+
+Unknown: If you guys need an external solution or just need to build something bespoke, it's not. Yeah. 'Cause I think you're I think what what you're you know, what this is getting at is, and I completely agree, is there's really a two-fold problem here.
+
+Unknown: There's a systematic problem, and then there's an efficiency, agile, proactive.
+
+Unknown: Yep, yep.
+
+Marley Barrett: The big issues, and then they're like, okay, we just need to make sure these kids are in school.
+
+Unknown: Like, yeah.
+
+Marley Barrett: It's tail tail prob tail improbabilities of the few students that are very, very truant and managing basically a platform to manage that.
+
+Unknown: What's that?
+
+Unknown: Basically, a platform to manage that. Yes.
+
+Unknown: Yes, exactly.
+
+Unknown: Did you get a chance to talk to Annalise?
+
+Unknown: I only got that she we did like full debrief.
+
+Unknown: She said it was just a really good conversation.
+
+Unknown: Yeah.Yeah.
+
+Unknown: And, you know, more of the same lunch and I would say, but you're too young to be so curious into something that is so far from directly impacting your own life right now. Yeah.
+
+Unknown: Which we appreciate.
+
+Unknown: That's to our benefit.
+
+Marley Barrett: Well, I'm just trying to find problems to solve.
+
+Unknown: So it's not my way.
+
+Unknown: I love it.
+
+Unknown: I love it.
+
+Unknown: That's.We've got, you know, I think we've got a lot of things going well in this district, but we've got a lot of problems to solve still, that's for sure.
+
+Unknown: Yeah, I mean, this one feels well, it kind of like COVID kinda like punched a hole through it and like kind of showed where the where the cracks slide.
+
+Unknown: I don't know what the right analogy is, but something like that.
+
+Unknown: You are right.
+
+Unknown: Like the idea of all the crappy things that that did, you know, including a change in attendance and people feeling like it's more okay to be gone, things like that.
+
+Unknown: But it was, it did exactly that.
+
+Unknown: It caused districts to be better, but online learning had caused districts to be better or to know that they need to do something more about attendance.
+
+Marley Barrett: So for sure. Yeah.
+
+Marley Barrett: Well, I think I don't know where my head's at is.
+
+Marley Barrett: If you want to take a look at and just let me know what you think, because I'd love to hear just your feedback of of, you know, do you think it's the right fit?
+
+Unknown: Yeah.Otherwise, like, I'd love to kind of continue.
+
+Marley Barrett: No matter what, I want to continue the conversation and just hear more if you're willing to.
+
+Unknown: Yes, I think now, especially that on July 1st, with my wife being the oversight on this more, I know that we will be, you know, even sitting in our backyard troubleshooting around this conversation.
+
+Unknown: I think that's more exciting because I think it's a, I think it just puts our and Ann Elise will always have a strong voice with my wife, but it just, it, um, I think there's more being more receptive to what we can do to move it forward, yeah, just by the nature of it.
+
+Unknown: Embrace a software or systems.
+
+Unknown: Systems.Yep, exactly.
+
+Unknown: And again, nothing against anybody else, just a maybe a change in urgency.
+
+Unknown: For sure.
+
+Unknown: Well, I mean, that that's everywhere.
+
+Unknown: Yes.Yep, fair, fair.
+
+Unknown: Um, oh, sorry, I'm just looking at my notes.
+
+Marley Barrett: Okay, I think that's all I had to ask.
+
+Marley Barrett: Uh, let me I sent that along, and yeah, I'd love to call the next week if you're around.
+
+Marley Barrett: Otherwise, whenever, whenever it works, yep, after graduation, 17th.
+
+Unknown: No, after, but after June 17th, my schedule gets a lot lighter.
+
+Unknown: So, okay.
+
+Unknown: I'd love to do that.
+
+Unknown: Sounds good.
+
+Unknown: Sounds good.
+
+Unknown: Okay, good luck to your sign.
+
+Unknown: Appreciate it, Father.
+
+Unknown: Thank you.
+
+Unknown: Thanks again for all your curiosity, interest, and help with this.
+
+Unknown: Thanks for the time.
+
+Unknown: No problem.
+
+Unknown: Okay.Talk to you. Bye. Yeah. Bye-bye.

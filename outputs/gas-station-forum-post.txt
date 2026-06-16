@@ -1,0 +1,7 @@
+Question for multi-location gas station operators —
+
+How are you getting visibility into your card transaction data day-to-day? Can you pull real-time reporting from your payment processor, or are you stitching it together manually across locations?
+
+Specifically curious whether anyone has tried to get API access from WorldPay, Heartland, or Verifone Pay for their pump and inside transactions — and what that experience was like. Heard from a few operators it's more trouble than it should be. Wanted to know if that's common or just a few unlucky people.
+
+What does your current reporting setup actually look like?

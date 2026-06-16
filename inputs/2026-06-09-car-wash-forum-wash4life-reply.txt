@@ -1,0 +1,28 @@
+Source: Car Wash Forum — thread: "Multi-location payment reporting"
+Date: 2026-06-09
+Context: Reply from forum user Wash4Life responding to anonymous discovery post about payment processing and back-office reporting in car wash operations.
+Interviewer: Marley (forum post, anonymous)
+
+--- ORIGINAL POST (our question) ---
+
+Who are you using for payment processing? Sounds like WorldPay and CryptoPay come up a lot. Are there real alternatives for unattended/tunnel operations?
+How do you actually pull reporting across multiple locations? Is there a dashboard that does it?
+What surprised you most about the payment/back-office side when you got in?
+
+--- WASH4LIFE REPLY ---
+
+For our self-service bays, we use CryptoPay and WorldPay together. The way it works is that CryptoPay has the card processing technology while they use WorldPay for the payment processing. IF you go with CryptoPay, you're with WorldPay by default. You'll find a lot of the tech has specific payment processors.
+
+Nayax is another popular option people use.
+
+The tunnel we have uses Washify. We have PDQ Laserwash 4000's and M-5's that depending on the location use either Priority Payment or PlugnPay.
+
+Our car wash clubs have migrated toward EverWash.
+
+How do you actually pull reporting across multiple locations? Is there a dashboard that does it?
+
+EverWash and CryptoPay use dashboards. The rest we have to log into.
+
+What surprised you most about the payment/back-office side when you got in?
+
+For me it is how incompetent WorldPay is. The wait times are astronomical, and you'll end up with a non-English speaker who can't do anything to help you.

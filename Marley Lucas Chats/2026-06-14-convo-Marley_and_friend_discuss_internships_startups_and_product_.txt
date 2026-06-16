@@ -1,0 +1,2432 @@
+Marley and friend discuss internships, startups, and product ideas
+==================================================================
+Date: June 14, 2026
+Time: 1:08 PM – 2:58 PM CDT
+Location: 19460 Vine Ridge Rd, Shorewood, MN 55331
+
+
+OVERVIEW
+--------
+Marley had a long phone call with a close friend (likely a peer/founder-ambitious friend working at Ramp as an SDR intern in NYC). They covered a wide range of topics: the friend's Ramp internship experience, Marley's various business projects, YC application planning, and personal life updates. Midway through, Marley had to pause to help his dad jump a dead truck battery, then resumed the conversation. The friend is doing well at Ramp—ranking second in meetings booked, building internal workflow tools, and learning sales operations in depth. Marley shared updates on Scoopy (his boat cleaning business), a "Clay for new businesses" lead generation idea he's been developing, a school district absenteeism project with Breen, and plans for a San Francisco trip to see By Street (which recently signed a $120K+ Marriott deal). They discussed targeting July 1 to narrow down and start refining their YC application, with a target of having a solid idea by July 27th.
+
+
+ATMOSPHERE
+----------
+Energetic, collaborative, and mutually supportive—two ambitious young builders catching up, sharing learnings, and pushing each other toward founder goals. Casual interruptions (dad's truck, brother coordination) grounded it in real life. There's a sense of productive restlessness: both are grinding but also questioning pace and direction.
+
+
+KEY TAKEAWAYS
+-------------
+  - Ramp internship insights: Friend is excelling (2nd in meetings), building an "immediate nurture bot" for meeting classification, and learning Ramp's sophisticated outbound tooling (email warmup, sequencing, deliverability engineering). Ramp tracks reply rates not open rates to avoid spam flags. Internal tool "PDP" aggregates prospecting data; "Toki" auto-drafts sequence emails.
+  - Marley's "Clay for new businesses" project: Scraping newly registered domains daily, using LLMs to classify and validate new businesses opening up (jet ski rentals, lawyers, etc.). Friend offered to test it for construction vertical leads. Marley found ~15 confirmed new jet ski rental businesses already.
+  - Scoopy updates: Running smoothly with Nate operating. Marley added weather module, error reporting with PostHog session replays, and labor analytics showing hourly pay per boat for transparency.
+  - School district absenteeism project: Marley found existing YC startup "IDEA" that solves the problem; Breen's wife (now head of student services) is reviewing it. Marley plans to visit the district next week to assess if custom build is still needed or if IDEA works.
+  - By Street / San Francisco trip: By Street signed Marriott for ~$120K. Marley visiting SF for a week, will stay with them and help with team dynamics. Plans to ask Corey for YC recommendation letter.
+  - YC application timeline: Agreed to start narrowing ideas July 1, target solid idea by July 27. Both acknowledged they've historically underperformed on time commitment for applications.
+  - Other business explorations: Car wash payment processing (World Pay/Crypto Pay monopoly makes it tough); gas station angle still being validated. Marley met with old mentor Chuck Storman (Blueberg Group/retail broker) about tech disruption in brokerage industries.
+  - Personal: Marley did a 7-mile zone-2 run, hung out with Griffin, Unger, Tanner. Friend loves NYC living (23rd floor skyline view), bought a Garmin Forerunner 570. Marley's dad's boat had gel coat damage; Jacob Alfaro mentioned as overconfident fiberglass specialist.
+
+
+ACTION ITEMS
+------------
+  → Marley to send friend a sample batch of construction leads from his new business scraping tool for feedback
+  → Friend to review email Marley prepared with leads for his dad's insurance business
+  → Marley to text Breen about scheduling district visit for absenteeism project
+  → Marley to reach out to Evan Renzo / Cosmos accelerator connection
+  → Both to reconvene around July 1 to start narrowing YC application ideas
+  → Marley to bring charger and jumper cables to help dad (interrupted call to do this)
+
+
+TRANSCRIPT
+----------
+Unknown: I'm good.
+
+Marley Barrett: Did a nice morning ride this morning.
+
+Marley Barrett: I hung out with Griffin, Unger, and all them last night, Tanner.
+
+Unknown: Oh, fun.
+
+Unknown: That's fun. Yeah.
+
+Unknown: That's awesome.
+
+Unknown: How far do you run?
+
+Marley Barrett: Uh, it's like seven miles, but really slow.
+
+Unknown: Just like zone two. Yeah. Nice. Was it boring?
+
+Unknown: Usually I'd be more bored.
+
+Marley Barrett: I think I was fine this time.
+
+Unknown: What was it spinning about?
+
+Marley Barrett: Oh, just different ideas who to reach out to, or, you know, just in general, like the rest of the summer and what it looks like, too.
+
+Unknown: Yeah, yeah, that's good.
+
+Unknown: That's good.
+
+Unknown: How is your nightmares?
+
+Unknown: I like, I can't believe I was here before, and that was like one of my favorite things I've ever experienced in my life. Yeah. Um just anyway, just madness.
+
+Unknown: Yeah.Oh my god, she was cell phones.
+
+Marley Barrett: Um but it turned into a late night, so how's your living situation?
+
+Unknown: Dude, it's awesome.
+
+Unknown: I mean, our dorm is really cool, it's like nice.
+
+Unknown: And we're on the 23rd floor at a 24.
+
+Unknown: Wow.We have this like actually insane view of the New York skyline that like, like, I literally could be a billionaire.
+
+Unknown: Have to make that much money to, like, buy an apartment with it, be this nice.
+
+Unknown: Like, really?
+
+Unknown: Wow.It's crazy.
+
+Unknown: Um, that makes it fun, and we're um we're just like get some adjustments, which is great.
+
+Unknown: And I'm not home very much here in the week, but um, but it's pretty perfect.
+
+Unknown: It's a good stock for me to want to work to.
+
+Unknown: Are they working quite a lot, too?
+
+Unknown: Yeah, no, I think I'm gonna get home.
+
+Unknown: Yeah, um, but yeah, so it's exactly what we needed.
+
+Unknown: I mean, it was literally the second one.
+
+Unknown: Oh my gosh, your view is insane.
+
+Unknown: Yeah, wow.
+
+Unknown: It's just because it's like me and Dependent how it's that new, like, why?
+
+Unknown: Um so that makes it fun and yeah, it's great.
+
+Unknown: I'm like so freaked out.
+
+Unknown: Like, holy crap, I'm starting week four of my internship tomorrow.
+
+Unknown: Yeah.How are things going?
+
+Unknown: They're going really good.
+
+Unknown: Um, we are now done with onboarding.
+
+Unknown: We had like 44 onboarding sessions in eleven days, which was kind of insane.
+
+Unknown: Wow, yeah.
+
+Unknown: And now they just give us all our time back and we can just picture our own days, so um which I like a lot more.
+
+Unknown: Like, I get a lot more interaction now with, like, with people on my team, my manager, like, just asking me, like, changing errands and have them come help me rather than just being in these like training sessions.
+
+Unknown: Yep.Um, so that's super helpful.
+
+Unknown: And, um, have gotten to, like, because I've been going to Lower Little, it's not necessarily some projects.
+
+Unknown: And it it's literally just vibe coding, just not as slashy as like building a half like any like, it's literally just building out workflows, which is still fun. Yeah. Um, so um making this one like I'm building like this immediate immediate nurture bot is what I'm calling it.
+
+Unknown: Um, because when you so when you book a meeting and have it on the calendar, I kind of broke it down to nine different types of meetings, all based on like high in ten versus low in ten, like if you think that they've accepted the calendar invite, if they have actually like engaged with a confirmation email, like basically all trying to see like the likelihood of showing up and the meeting going without.
+
+Unknown: Yeah.And um I broke that down and I said like yeah, your calendar for external meetings to find them.
+
+Unknown: Then I searched through a box to like classify them in one of his nine buckets.
+
+Unknown: And I'm like I'm branding it as nurser quote nerds.
+
+Unknown: Like he just easily picks like a hand that you're playing for each one based on the likelihood.
+
+Unknown: So like how do you internalize those meetings on the counter and how good they are.
+
+Unknown: So like if you have someone that's like responding, your email is excited, like accept the invite, like it'll be like pocket aces and it'll give you like the breakdown every morning, which is fun.
+
+Unknown: That is cool. Wow.
+
+Unknown: So just have fun projects like that. Yeah.
+
+Marley Barrett: Do you like a lot of the other interns you're working with?
+
+Unknown: Yeah, they're cool.
+
+Unknown: We've got a good group.
+
+Unknown: Um some I like more than others, but like they're they're all good.
+
+Unknown: Like there's this one kid who's very cocky and he's like taking a different approach to it.
+
+Unknown: Like he he's booked the most meetings and everything so far and definite definitely lets you know about it and he's like kind of he's like but he's like breaking the rules to it.
+
+Unknown: Like one, his managers are kidding him all with lists.
+
+Unknown: He's not doing any of it himself.
+
+Unknown: So like he hasn't really learned the process of like any of them is fine.
+
+Unknown: But then we can't attack those lost accounts, which basically means someone who's like rough income didn't close and they're way easier to get those meetings but closed lost is easy than doing them and then just creating a duplicate in Salesforce so that it doesn't show as clothes lost.
+
+Unknown: So he's like, oh, that's horrible.
+
+Unknown: It's horrible.
+
+Marley Barrett: That's like, as a data guy, that would piss me off so much.
+
+Unknown: Like, oh, believe me, it's horrible.
+
+Unknown: And it's also all of us.
+
+Unknown: Like, we're kind of fine.
+
+Unknown: I know we're just like, what the hell?
+
+Unknown: Like, I'm in second-place meetings and I'm booking them all based on people who've never heard of rant before.
+
+Marley Barrett: And are you second place?
+
+Unknown: Yeah, no, I'm doing very well. Wow.
+
+Unknown: But I also, it's fun because I like it.
+
+Unknown: I'm doing well, but mine dials.
+
+Unknown: Like, I haven't nearly as many dials.
+
+Unknown: I'm being really efficient, which is but it's early, and none of them have put, like, I have nine scheduled to run this week, so we'll see how many I get to actually show up and if any of them flip.
+
+Marley Barrett: And are you in on the on the MQL meeting or whatever?
+
+Unknown: I can chat, I can watch it live or watch it after.
+
+Unknown: I don't contribute.
+
+Unknown: Okay.My job is to get the like it's my responsibility until they show up, basically.
+
+Unknown: Yeah.Which makes sense.
+
+Unknown: But at least I'm like, I'll watch them then and see what will happen what if I did it and learn from that.
+
+Unknown: And yeah, it's been a super fun process.
+
+Unknown: I'm still learning so much.
+
+Unknown: Being there's been the whole fundraiser specialty has been really exciting.
+
+Unknown: Oh my gosh, I bet.
+
+Marley Barrett: Like all the all the all hands meetings, like Bob Super High, and they launched Ram Stack as well, which is like everyone was saying before I got there, like, how much a product changed and how much we can't do it.
+
+Unknown: Sorry.Um it's crazy though, like
+
+Unknown: Like literally every day was changing.
+
+Unknown: Like, yeah, last week we had a whole break on like integrated r
+
+Marley Barrett: I'm trying to offer them now because we're like a business checking and savings come now and then you're stepping in Mercury space.
+
+Unknown: Yeah, no, they totally are.
+
+Unknown: That's awesome.
+
+Unknown: It's cool because they're like the goals for the end of the year are an hundred thousand customers, and then the other one is they have 30, 00 customers using at least three ramp products.
+
+Unknown: Nice.So like a lot of product ecosystems.
+
+Unknown: Wow.Which is fun.
+
+Unknown: Well, yeah, that's big amount of people.
+
+Marley Barrett: I mean, you talk about enterprises and how stratified their stack is, that that's pretty big.
+
+Unknown: Oh, no, 100%.
+
+Unknown: It's interesting from our perspective, too.
+
+Unknown: Like, I'm not, since I'm getting more familiar with the product and competitors, like, when I'm on these falls, like, the second I hear what someone's burned stack is or how they're like, the guys are basically run mom test discovery on what their current accounting process looks like, and then I know exactly which products to sell because I just need them to hit on one pane and not book a meeting, and then you move on to the next.
+
+Unknown: Like, yeah, selling really, it's just like gaining interest, basically.
+
+Unknown: So learning a lot.
+
+Unknown: Getting rejected a lot too with the kid. Yeah.
+
+Unknown: It's good for you.
+
+Unknown: But how is it you enjoy it?
+
+Unknown: Um, definitely, yes.
+
+Unknown: It can get frustrated I've gotten frustrated just like when I'm like running balls and like my manager, my team lead, especially is like giving me feedback on them because like they'll know exactly what to say, and like everyone has different styles.
+
+Unknown: Like I think for me, it's like figured out myself rather than like do it the way someone else said it because it's just so variable.
+
+Unknown: But I do enjoy it.
+
+Unknown: Like, I like talking on the phone.
+
+Unknown: It feels more glorified than cool drawing with ramp.
+
+Unknown: And it's important that I actually believe in the product I'm selling people like the example I used for something else explaining this to someone else is that like if I were to go and use my personal connection to try to get them on ramp, I wouldn't feel bad asking that favor of them hopping on a meeting because I genuinely believe that ramps product would make their life better.
+
+Unknown: And I believe in the mission of it.
+
+Unknown: So, like, sure, I'm bugging people on the phone and calling them out of the blue, but like, I'm actually saying something that I want them to use.
+
+Unknown: So, um, I definitely want to be more involved, like, more on the strategic side of things.
+
+Unknown: So, like, I see myself as a lot more than just an SDR.
+
+Unknown: Um it's pretty humbling to be an SCR from being an artist.
+
+Unknown: Sorry?It's becoming like being an SCR?
+
+Unknown: No, I'm humbling being an SDR.
+
+Unknown: Oh, yeah.
+
+Unknown: Um, like, I see myself as a lot more than wanting to be involved in the more strategic side of things, um, which makes sense, but um, you gotta start somewhere.
+
+Unknown: So, it's me confirm that, like, Gramp has already made me question a little bit of definitely the part of the biggest company I'd want to work for.
+
+Unknown: Like, if I if I do anything, it would be going smaller.
+
+Unknown: Um, so how many employees are they at?
+
+Unknown: Um, I last I picked like 1500.
+
+Unknown: Okay.There's one hundred and sixty S R's and they're about to onboard another forty.
+
+Unknown: Oh my gosh.
+
+Unknown: Um, it's insane, which is gonna be really funny.
+
+Unknown: They show up next week.
+
+Unknown: Um, I'm technically, as an, I know I'm an intern, but I'm like I'm more than I'm have them, and we'll be helping them like because we got all members or ongoing processes they're gonna go through.
+
+Unknown: Um that's funny, really funny.
+
+Unknown: Um, so it's good.
+
+Unknown: It's I mean, it is by far the best internet chip I've been on this summer.
+
+Unknown: Like, I'm really loving it and learning so much and wanting a real job.
+
+Marley Barrett: So, yeah, and there's probably opportunities to come back based on how they're doing on funding.
+
+Unknown: Um, yeah, no, they they made it pretty clear they wanted to hire all of us.
+
+Unknown: I'm very confident in my personal stuff.
+
+Unknown: Like, I've been making sure to build up my own brand.
+
+Unknown: Like, a lot of important people at Ramp know that I want to be, that I'm an entrepreneur, that I believe that you don't have to be a founder to be an entrepreneur, and that I genuinely care about having a single impact on ramp this summer.
+
+Unknown: And I've seen that reflect, like, I've gotten a lot of praise for it, which is good.
+
+Unknown: So, well, it sounds like you can.
+
+Unknown: I mean, based on what you said before, it sounds like you can move out of the SDR or BDR area pretty quick.
+
+Unknown: Or grow, grow, you know, with it.
+
+Unknown: You, well, and there's even levels to it.
+
+Unknown: Like, I've met with a manager and team lead of the AP-only team, and they're basically like this strategic SDR team built of people that, like, were like, I was talking to them about how they recruited for the team, so I was curious, like, why they chose these specific SDRs to be a part of it, and it was all about the genuine motivation to have an impact on RAM, not just in your own personal quota.
+
+Unknown: Like, they being an ideal team player, and they're a lot more strategic, they're sending them out to go sell, specifically targeting like AP, and then they'll send them out on procurement, like they're like a task SDR team to go figure out the best ways to sell new Ramadano and then teach all the SDR teams on what they've learned.
+
+Unknown: Interesting.Yeah, that would be your thing, it's a little more engineering.
+
+Unknown: Yes, well, and they did it a lot of cross-functional meetings.
+
+Unknown: I can I'm ha I'm excited.
+
+Unknown: They're letting me sit in all of them now, too.
+
+Unknown: Um, really, yeah, just sort of like with the product team or with you know, even like the marketing team or like procurement-specific stuff, like, because like they're reporting back on what they're seeing from customers.
+
+Unknown: And I mean, they're mom test, it's basically like mom testing, they like have the responsibility of mom testing customers and figuring out the best way to sell brand.
+
+Unknown: So, um, it's fun to, like, no one else has really gotten that opportunity, but I built good relationships with those people and they're helping me out, at least get some of the experience.
+
+Unknown: As a whole I ran?
+
+Unknown: Yeah.You're asking?
+
+Unknown: I mean, it's insane.
+
+Unknown: Like, it's everyone's very energetic, very impressive, very.
+
+Unknown: Work hard, play hard, but like, it's a very social office.
+
+Unknown: There's offices.
+
+Unknown: I mean, I've told you that Lyman's desk is like the same way as mine, basically.
+
+Unknown: And everyone, like, eats meals together and um things most of the time it's super competitive, but like you have a more than not someone that's responsible for like a lot of people.
+
+Marley Barrett: Yeah, which is a that can be a problem with BBR sometimes.
+
+Unknown: And as like ramps getting more and more aggressive quota that they're holding their SERs.
+
+Marley Barrett: I was gonna say they have to, just because the product has got tailwinds behind it.
+
+Unknown: Exactly.And like it's all there, and like if I just go hundred million thousand customers at the end of the year.
+
+Unknown: So that's always super fun, but yeah, got the big teeth that displayed like the month like SQL record for all SDRs and just things you have to be doing basically.
+
+Unknown: And automatically, I've learned a lot about this culture, what I would take away and are t that are a little difficult about it, but try to be intentional with all of that, so I could, you know, I'm able to make the most of the ten weeks.
+
+Unknown: I don't I don't remember.
+
+Unknown: Um okay.
+
+Unknown: It is um so you don't need four.
+
+Unknown: Yeah, that's good at least.
+
+Marley Barrett: I mean I know people are it's eight weeks, so it's like yeah, I know.
+
+Unknown: No, twelve is a long time.
+
+Unknown: Um I'm hoping I hit this in the SQL by the end of the month or early in July because then, you know, I'll keep dull on it, obviously, but I think I'm really good at second teams like them for um it'll be cool.
+
+Unknown: But how about how about you anything that was the rest of the sponsor of the class going?
+
+Unknown: That's good.
+
+Unknown: The classes are tough.
+
+Unknown: Yeah, we won.
+
+Unknown: Ellie's had another tournament today.
+
+Unknown: Yeah, I was pretty sick.
+
+Marley Barrett: But it was fun and they were pretty excited.
+
+Unknown: He's already had another tournament?
+
+Unknown: Yeah.Holy crap.
+
+Unknown: That's insane.
+
+Unknown: Club stuff.
+
+Unknown: But they're happy.
+
+Unknown: It was fun to watch that final game and, I mean.
+
+Unknown: How did she play it?
+
+Unknown: How many goals did she score?
+
+Marley Barrett: I think she only scored one.
+
+Unknown: She didn't really score a lot this game.
+
+Unknown: But she was, she was.
+
+Unknown: Oh, she came out.
+
+Unknown: You know how one of the midis stays back?
+
+Marley Barrett: Yeah.She, I think she was staying back a lot more this game.
+
+Unknown: Or she was.
+
+Unknown: Were they expected to win?
+
+Marley Barrett: No, because Buffalo beat them before, actually.
+
+Unknown: So, no. Oh, wow.
+
+Unknown: And what was the score?
+
+Unknown: I think it was.
+
+Unknown: We were kind of scared.
+
+Unknown: Yeah, oh, yeah, it was close.
+
+Unknown: We were kind of leading the whole way, luckily.
+
+Unknown: They scored first.
+
+Marley Barrett: And then we got up and were up by three for most of it.
+
+Marley Barrett: And they would come back and crawl back a little bit, but it ended up like 14. 10, I think.
+
+Unknown: That was stupid.
+
+Unknown: Yeah.That's a huge deal.
+
+Unknown: Yeah, I think they're, I mean and these these girls were good too.
+
+Marley Barrett: Like, this was, you know, you know how said that it's not a game to just blow out.
+
+Marley Barrett: It's like, it's still a developing sport, to say the least.
+
+Marley Barrett: So it was really fun to watch one where like half the kids are on Ellie's club team, too.
+
+Unknown: So they're all.
+
+Unknown: From the other team?
+
+Marley Barrett: Yeah.They're all kind of fighting each other, and it's actually fun to watch.
+
+Unknown: Yeah.And how about this when you got back?
+
+Unknown: Um, I got back last week, so I've been nice.
+
+Unknown: And scoopy stuff's going good?
+
+Marley Barrett: Yeah, that's kind of running itself.
+
+Unknown: Nate's doing well.
+
+Unknown: It's doing well.
+
+Unknown: How's operating system?
+
+Unknown: I built out a lot of.
+
+Marley Barrett: We've having, just because the weather's been kind of all over the place here, I added a whole weather module that it's now like I have it set up to send me alerts when someone reports an error on the site as a whole, so they can just like report errors if they're seeing them.
+
+Unknown: And then I can go, like, literally watch a video of them have the error and post hog.
+
+Marley Barrett: So, like, when they submit, report an error, I get like a link to a video that shows the last two minutes of like what they were doing on the site.
+
+Unknown: It's pretty fun.
+
+Unknown: How do they report what they're doing?
+
+Unknown: They can just press a button in the top right corner.
+
+Unknown: It's just like error.
+
+Unknown: And that's all they have to do.
+
+Unknown: Is that normal?
+
+Unknown: Yeah, and post hog allows that.
+
+Unknown: Yeah, that most product analytics sites have.
+
+Unknown: I'm sure Ramp has something for how people are interacting with, maybe not post hog, but something else, but it'll have like full on-screen recordings.
+
+Unknown: People are interacting with our halls.
+
+Marley Barrett: Yeah, yeah, but it's two of them right now.
+
+Unknown: So pretty small.
+
+Unknown: I set a bunch of labor analytics stuff, so they now clock in like for a vote, and so they can immediately see what their hourly pay is for that boat because we don't do hourly.
+
+Unknown: Just give them like a quick, like, okay, you're making like $40 an hour, things are going okay.
+
+Marley Barrett: Yeah, and then yes, I think it is like a push because we've had like some there's always questions around pay, especially because of the way we do it, and this this helps to not like, not that I'm not being transparent, but it's ultra transparency.
+
+Marley Barrett: Like, here, here's the math for you. Yeah. Nice. Um, what else?
+
+Unknown: Yeah, a bunch of weather stuff.
+
+Marley Barrett: Like, a bunch of, yeah, so we get notifications for weather, notifications for, like, when it's gonna rain on a given day, and then we can auto-send out remind, like, like, hey, we're adjusting your boat to afternoon due to rain.
+
+Unknown: Oh, wow.
+
+Unknown: Mm-hmm.That's super nice.
+
+Unknown: So you're sort of like isn't that as you still start shooting every day?
+
+Unknown: Not every day.
+
+Marley Barrett: I think I go on once per week, go on to Post Hog, and see how they're treating it.
+
+Marley Barrett: Post hog has a new AI feature, which basically breaks down, like what are they using, what pages should I focus on.
+
+Unknown: A lot of it has to do with just the schedule page and like the individual boat view.
+
+Unknown: So we have all these like notes now, too.
+
+Marley Barrett: But yeah, I mean, basically, like the product iteration loop is so much faster because of post hoc, too. Wow.
+
+Marley Barrett: Because of tracking those analytics on there.
+
+Unknown: Uh-huh.And have you stayed in touch with any Tesla people?
+
+Unknown: Um, no.
+
+Unknown: Well, I reached out.
+
+Unknown: Well, other interns, yes.
+
+Marley Barrett: A lot of we still have a big group chat where we talk, and one of the other interns moved on to another startup in SF and he uh he's doing really well doing like data stuff there, but they're doing a bunch of data mining.
+
+Unknown: Otherwise, no, no one full-time.
+
+Unknown: I should, I shouldn't.
+
+Marley Barrett: Well, I'm gonna reach out to one of the guys that I know pretty well.
+
+Marley Barrett: One of them reached out to me actually, just to ask how I was doing, you know, guy from Michigan.
+
+Unknown: Nice.Yeah, that's really cool.
+
+Unknown: And how are you feeling about your summer and what you've decided and how you've decided to spend it?
+
+Marley Barrett: Oh, I'm feeling great about it.
+
+Unknown: It's just everything's slower than expected, and I think I'm just moving slower.
+
+Unknown: I think between the school, traveling, like just being home and kind of helping out a little more here, like things are just a little slower.
+
+Marley Barrett: But I don't mind it too much.
+
+Marley Barrett: I've had some really good discussions since we last talked in all different spaces.
+
+Marley Barrett: And things are, yeah, like I I'm I'm most interested still in this like new business kind of like I call it like clay slash go to market for new businesses basically.
+
+Marley Barrett: So basically I'm scraping all new domains that are generated each day.
+
+Unknown: So that's an open thing that you can go and access.
+
+Unknown: And then right now, it just filters out for like, okay, outdoor sports domains.
+
+Unknown: And it's not really capturing everything, but the goal would be to basically go and send a large language model to every single one of those sites and organize it so that you know you can, one, validate that that business is actually just opening up, right?
+
+Unknown: A jet ski rental business, whatever, a new lawyer, right?
+
+Unknown: And then two, you can classify it and data label it.
+
+Unknown: Okay, this is a lawyer, they're located in Minnetonka, Minnesota.
+
+Marley Barrett: They have two partners that they're starting out with.
+
+Unknown: Here's their location, you know, whatever other data you want, we can start to get that.
+
+Unknown: And I know Clay is not doing a good job of as of right now with new businesses.
+
+Unknown: That's actually where they struggle the most because they're an aggregator.
+
+Unknown: Yeah, it is.
+
+Unknown: I am going to, like, I'm just going to sit against that now.
+
+Unknown: I'm going to have to my laundry around it.
+
+Unknown: I'm going to take a look at everything you said putting together with some of my dad.
+
+Unknown: Yeah, take a look at that email.
+
+Marley Barrett: That should be almost ready to send if you just want to take a look at some of the leads and stuff.
+
+Unknown: But.Oh. Yeah, see over here.
+
+Unknown: Um, cool.
+
+Marley Barrett: But yeah, I want to try it for you if you have like a you know, target that you want to go after in terms of a specific size or something.
+
+Unknown: It'd be interesting to see like just what I could search up and if it would fall into something that would help would qualify.
+
+Unknown: What you're really curious is if you could, like, 'cause I mean, Ramp invests a lot of money into our data.
+
+Unknown: Um, and basically, I mean, we have so many, we have every tool that you can imagine at our disposal, and everything is aggregated into PDP is what they call it.
+
+Unknown: It's uh internal ramp tool that basically allows you to build prospect lists based on any filter or field across all of the different types of databases that we have.
+
+Unknown: So, like an ultimate aggregator.
+
+Unknown: Exactly.So, like, I could filter like a new higher play based on increased headcount that this makes for LinkedIn, and then add on a layer that pulls, you know, something that, like, the new number that Zoom pulled or whatever it is, all in one spot, which is really cool.
+
+Unknown: Which pretty similar to clay.
+
+Unknown: Yeah, yeah.
+
+Unknown: Uh, I think that there's just that, like, it's an internal tool that they like it just plays fairly well with everything we do.
+
+Unknown: I think play was probably just not the exact process we were looking for, I don't know.
+
+Marley Barrett: Or I'm curious to well, this is like I feel like this is what happens at a lot of you know, you engineering and sales work closely, so your engine-I mean, your engineers are like, okay, we can buy clay for this much, or we can build it for this much.
+
+Unknown: Yeah, exactly, buy versus build, yeah, there's cool signals on it too, like within my ROE, which is that rules of engagement.
+
+Unknown: Like, I have a claim to my name, like, I get a report every morning of like any like new signals from my ROE.
+
+Unknown: Like, well, like, obviously, inbound, like, if someone in my ROE clicks on the RAM website, that's the first person I'm reaching out to, but also some other things like a new post on LinkedIn or you know, maybe notes from the past email chain from a different ramp the um SPR that was reaching out to, and stuff like that, um, which is fascinating.
+
+Unknown: Like, they've got they've given us every possible resource we could have to just outbound in insane volumes without thinking about it much.
+
+Unknown: That's awesome.
+
+Unknown: I think signals can be so interesting as a tool in general, too.
+
+Unknown: Um, yeah.
+
+Unknown: I know, I know.
+
+Unknown: Well, I think where I am potentially using your help is like finding some new plays of like, for example, after um Brexit got bought by Capital One, like, they laid off a lot of employees, there was a lot of frustration with, like, the direction of the product now and the customer support now that it was owned by, like, a a like credit card company, right?
+
+Unknown: And, like, people would run plays based on Rex customers and then just hit on those pain points, or like more, like, recent news, news events, things that um like concurrently off a bunch of their employees, and we would just like exploit that, bring it up on the call on screen.
+
+Unknown: Really?That's funny.
+
+Unknown: Yeah, that's interesting.
+
+Marley Barrett: Yeah, I think this, what I found so far, because I talked to Max Lauerman too, because I'm like, you should try this for commercial clients.
+
+Marley Barrett: And he hasn't, we've been talking for the past few days, so I think I'm gonna try to give him a little sample batch of some things, leads that could be good for him.
+
+Marley Barrett: But this would be really for smaller businesses that are opening.
+
+Marley Barrett: But, like, I think of, I think, you know, what are what are like the five things you need when you start a new business, right?
+
+Marley Barrett: It's obviously like QuickBooks or some sort of thing, plus, you know, Ramp would be a great one that now you could use a lot of their early stuff and get it you could probably sell more of the ecosystem right away.
+
+Unknown: And then other things like an ERP if you're gonna touch one, inventory management if you need it, and then you know, website and other management, and then HR software.
+
+Marley Barrett: Like just like the quick, like the checkboxes, right?
+
+Unknown: People just want the checkbox.
+
+Unknown: Yeah.Oh, we chose.
+
+Unknown: Yeah, we made the decision within a day.
+
+Unknown: Great.Makes sense.
+
+Marley Barrett: Because I mean, that's what your dad talked about: the options up in the air still.
+
+Unknown: Yeah.I think that's what's valid.
+
+Unknown: All of these brand new businesses that, like, all of a sudden could be, if you approach them right away, as the leader in outdoor sports liability insurance, seriously, like some space, like it in Siri, it would be very easy, an expansion of his body.
+
+Unknown: Even if it was some newer tenured employees that handle those relationships, just like, I don't know, it's low-hanging fruit.
+
+Marley Barrett: Well, and I think about, like, I mean, it's kind of a it's kind of like a compliment to them.
+
+Unknown: Like, oh, yeah, outdoor sports insurance reached out to me in my new jet ski rental business.
+
+Marley Barrett: Dude, I found, I think I found 25, like, or not probably 25, probably 15 jet ski rental businesses that are opening.
+
+Unknown: Wow.Like, confirmed open 2026.
+
+Unknown: They're probably small, they're probably just gonna, you know, slowly grow.
+
+Marley Barrett: They might not be ready yet, but even if it's just nurturing early candidates and checking back in, and in a couple months, yeah.
+
+Unknown: The sequence, and did I probably talk to you about the sequencing thing that we do and how our emailing works?
+
+Unknown: Yeah.I mean, you kinda explained it, but if you have more, I want to hear.
+
+Unknown: Well, it's just so interesting.
+
+Unknown: Well, the first thing I learned is that, like, so we don't track open rates, meaning we track reply rates on our emails.
+
+Unknown: Did I explain that to you?
+
+Unknown: No, yeah, I want to hear this.
+
+Unknown: It's really interesting, because so, all of these, like, like, like, MailChimp or whoever, like, whoever uses it, Ramp, could have built its internal tool.
+
+Unknown: But the way they track whether an email is opened or not is a little pixel that hides in the email.
+
+Unknown: It's invisible to both the sender and the receiver, but that little pixel registers technically as an image, and emails with images in them are incredibly more likely to get flagged as spam.
+
+Unknown: And so delivery rates when tracking open rates are so much lower, so we just don't track it, which is really interesting.
+
+Unknown: No, not at all.
+
+Unknown: Well, and it's cool, like, they're warming up my emo right now.
+
+Unknown: Like, they have this whole thing set up where Oh, I know about this.
+
+Unknown: Like, it's so funny.
+
+Unknown: Like, I freaked out when I had a folder popped up in my ramp email.
+
+Unknown: We need like with long threads with a bunch of random people talking about the most random things.
+
+Unknown: I was like, did my ramp email just get act?
+
+Unknown: Am I screwed?
+
+Unknown: And it's, and I'm just warming it up.
+
+Unknown: Look like it's crazy.
+
+Marley Barrett: Wait, okay, so, so, my, so the version of warming up that I did with Corey when I was at By Street was just like ramping up the amount of emails I was sending.
+
+Unknown: You're doing the next level of this.
+
+Unknown: No, it's insane.
+
+Unknown: Like, taking deliver receives, like, if I'll go read the latest one, like, it's about some ramp bullshit.
+
+Unknown: I am ramping up the amount I'm sending.
+
+Unknown: Like, it's about 25 or sorry, seventy five a day, but I'm ramp it up to one fifty this week.
+
+Unknown: 'Cause I think I'm getting there.
+
+Unknown: And you choose who to send to.
+
+Unknown: Yes, I'm I'm on my own list based on my home place and sequences.
+
+Unknown: So, for example, like I'll I'll do a funding where like I'll scrape like I'll build my list based on companies that I haven't raised around in the last three months.
+
+Unknown: Yeah.My first touch email will be all about like taking breaths on a race.
+
+Unknown: I didn't like any faith and credibility that I could build in the first sentence, and then I'm just like one interrupt, whatever.
+
+Unknown: And then it's really cool then the seed and you're like, what's your touch is like four, five, six, seven.
+
+Unknown: Like, I think you would really appreciate the multiple choice form that everybody uses.
+
+Unknown: And the last one is like, never talk to me again.
+
+Unknown: I love that.
+
+Unknown: Because that's I'd be like, fine, I'll learn more.
+
+Unknown: You know what?
+
+Unknown: Yeah, we'll early easy later for like me when staying on again without having to say, like, take me off your list or fucking you or whatever.
+
+Unknown: Yeah.And then, like, there's an ARD1.
+
+Unknown: No.Oh, my gosh, dude.
+
+Unknown: It is so funny.
+
+Unknown: It's literally a picture of Alan from the hangover and like calculating the casino.
+
+Unknown: And everybody opens it.
+
+Unknown: Like, it has one of the best returning emails exemplars that we have.
+
+Unknown: Seriously?Mr. H.
+
+Unknown: I mean, sir, I don't think I've had 'cause I haven't gotten to touch five on any of my sequences.
+
+Unknown: Um, or like another one who's just a picture, like the one who sent a picture of like a cute, like the lunatic puppy.
+
+Unknown: And it's like sad, and it's like you're not responding, you know, some people okay.
+
+Unknown: Like, it's crazy.
+
+Unknown: But yeah, like, in this new follow, this email to Christopher.
+
+Unknown: I'm Christopher, I'm sure things are rolling around these days.
+
+Unknown: I find a most popular article outlining how digitizing team taught resources are extremely helpful organizations.
+
+Unknown: We'll read the best time for a 30-minute call next week.
+
+Unknown: Catch up, Steve, and those guys.
+
+Unknown: Like, I didn't send that.
+
+Unknown: I don't know who Christopher is.
+
+Unknown: Wait, is this a warm-up or is this a sequencing?
+
+Unknown: No, that's a warm-up. Okay. Um, but yeah.
+
+Unknown: Like I did uh I built a thumpsome sequence where like the first one I mentioned that I'm an undergrad and hopefully use that guilt system just connecting with an undergrad but making sure they could tell it's the same a little bit and then I literally said like despite my excessive hours spent at triple T's, which is like the dive bar, like I somehow found my way to an internship in the fintech world.
+
+Unknown: Like, would love to share more or something.
+
+Unknown: And then the touch like six is like a picture of like Dava holding the national championship trophy and like stuff like that.
+
+Unknown: Like they actually resend memes to people to get them to open their emails.
+
+Unknown: It's crazy.
+
+Unknown: Wow.This is why this is way better than look working for legacy technology companies.
+
+Unknown: Oh yeah.
+
+Unknown: Oh yeah.
+
+Unknown: Well the same thing on the like sending drafts too.
+
+Unknown: Like we built an internal tool called Toki that if you name your sequences out at the start, it automatically drafts those emails in your inbox at the start of each day.
+
+Unknown: And then we have a also custom-built draft sender that has a specific patency so that we don't get flagged for staff.
+
+Unknown: Nice.Mike, I think there's a whole team working on like deliverability rates that handles all of this email stuff.
+
+Marley Barrett: I was gonna say, you, I mean, you're like halfway to the market engineering, and then there's some there's some people that are just full on, it sounds like.
+
+Unknown: Oh yeah.
+
+Unknown: That's awesome.
+
+Unknown: I mean, I don't know.
+
+Unknown: I don't have an idea yet.
+
+Unknown: I want to hopefully get to that idea by July twenty seventh.
+
+Unknown: I was just putting that date in my head.
+
+Unknown: No, I know.
+
+Unknown: I I mean, I don't have an idea either yet.
+
+Unknown: Um, I'm saying I agree with the kind of thing of how it's gone in the past, how many can set ourselves up set ourselves up with this with this application, also knowing that we've underperformed in terms of time commitment any time we've tried to do this, and tabled at the end, and wanting to avoid that.
+
+Marley Barrett: Well, first in context, I'm going to San Francisco around that time, so I'm going to ask for a recommendation for us, depending on what we I'm going to pitch the idea to Corey and his team and then ask for a recommendation.
+
+Unknown: You're going to see By Street?
+
+Unknown: Yeah, I'm going to see By Street, my friend Ashrin.
+
+Unknown: Alright, so how long are you going to be there?
+
+Unknown: A week. Fine.
+
+Unknown: Are you going to tell you?
+
+Marley Barrett: By By Street signed Marriott?
+
+Unknown: No way. Yeah. Holy crap.
+
+Unknown: Is that over a hundred thousand?
+
+Unknown: Oh, yeah.
+
+Unknown: What is it?
+
+Marley Barrett: Um, I think one twenty to start.
+
+Unknown: Wow.Good for them.
+
+Unknown: Mm-hmm.Good for them.
+
+Unknown: Are you gonna do some work with them while you're there?
+
+Unknown: Like, what's plan for the trip?
+
+Unknown: That's funny.
+
+Unknown: It was really weird.
+
+Unknown: He was literally like.
+
+Unknown: If you come out, you stay with us.
+
+Unknown: Can you just help us work better as a team?
+
+Unknown: Sure, Corey.
+
+Unknown: Just send them the table group and tell them the bottom.
+
+Unknown: Oh my gosh, seriously.
+
+Marley Barrett: I'm like, I literally, last time I was a phone, I'm like, like, ple you need to find a coach.
+
+Marley Barrett: Like, you guys need to find a coach to help you because, like, it's not working to figure out between yourselves.
+
+Unknown: He's like, I feel like you just need to talk to them.
+
+Unknown: I'm like, no, a coach.
+
+Marley Barrett: I don't think you're hearing me.
+
+Unknown: Dude, I gotta get this persistence with just asking you to help and not feeling bad, and just always put me in that situation of like, Marla, you do a good job, come do it for us.
+
+Marley Barrett: Yeah, that's, and he's like, and then he's like, so what do you think?
+
+Marley Barrett: Like, how do you think we get to product market fit?
+
+Marley Barrett: I'm like, I don't know.
+
+Marley Barrett: I've been thinking about this for two minutes.
+
+Unknown: That's really funny, though.
+
+Unknown: That's really fun.
+
+Marley Barrett: Well, it's just, it's such a niche market.
+
+Unknown: You know, what does PMF look like?
+
+Marley Barrett: Does it look like going more?
+
+Marley Barrett: It's probably just making more tools for Marriott and those big teams to just go sticky.
+
+Unknown: I've started doing some more continuous work within RAMP, which is fun.
+
+Unknown: I pitched it to my manager.
+
+Unknown: Like, I was trying to, I still am confused and trying to figure out the best way to use it.
+
+Unknown: Like, within these teams, like, I have no collaboration really with the other people on my team because we all have our individual photos and our own prospects and our own processes, right?
+
+Unknown: And so, like, I'm curious.
+
+Unknown: I've been needing to look through the podcast and see if there's an episode that kind of talks about using the geniuses in an environment, so something similar to that.
+
+Marley Barrett: Like, a sales.
+
+Unknown: Wait, yeah, even bare bones like an environment where people have their own personal goals.
+
+Unknown: Because it's not like we're all working towards a like the product team would probably be a way better fit.
+
+Unknown: Like, in sales, we're not all working towards a launch, we're all working towards our individual pronoun.
+
+Unknown: And it is something to say: like, I'm gonna hopefully do it with that AP-on team that has more of a team culture and collaboration, but what I've started is I pitched it to my manager, and having it help him, as he has the team to it, better understand each of his people that he is managing and trying to help get to quota so that he can maybe use that understanding of where they enjoy the working process to motivate them and move them along.
+
+Unknown: That's easier.
+
+Unknown: Yeah, I mean, that's just like a lower bar, or it's just gonna be easier for you to make it click for them.
+
+Unknown: Totally.I was supposed to see his eyes light up like of after I kind of mapped it out for him.
+
+Unknown: I drew up your embraces and explained how easy it is to memorize and how we kind of organized our team based on it.
+
+Unknown: And he just kind of lit up and took the marker and was starting to draw where he thinks everybody on his team is sitting just based on it.
+
+Unknown: But then that led to a fun conversation of like, hey, like, this is what you're noticing probably mainly based on what they're good at and skillful at, not based on what brings them joy and filmmen.
+
+Unknown: So that's a whole new perspective.
+
+Unknown: And I'm hoping he has everybody take it.
+
+Unknown: But we'll see.
+
+Marley Barrett: Did he state it was pretty it was pretty tea heavy, tenacious heavy?
+
+Unknown: Yes, he first place he started drawing names was Tenacity, but I called him out on it and said, hey, you, like, it's easy to associate high performers with your ability to put their head down and work hard and s dial the most phone calls, right?
+
+Unknown: That's where I was going.
+
+Unknown: Yeah.Awesome time to bring it up.
+
+Unknown: We just had someone leave our team, leave ramp, like he just quit.
+
+Unknown: Where'd he go?
+
+Unknown: He doesn't know yet.
+
+Unknown: He's not going.
+
+Unknown: I think he's going to go to a smaller startup, but he just, I really wish that I had the chance.
+
+Unknown: I might reach out to him now to really see why he left because it seemed like he was stuck in an enabling and an early SDR, and that was burning him out.
+
+Unknown: And he literally said that he envisioned himself more like a partnership, like Strategic or maybe even AD sign, and that was a little more of the deals well. Wow. Damn. Hey, can I put you on hold for a second?
+
+Unknown: I gotta call my dad.
+
+Unknown: He's called me twice.
+
+Unknown: Yeah.You know, you're fine.
+
+Unknown: Just tell me that after.
+
+Unknown: Okay.Boom. Hi, what's up?
+
+Unknown: Yeah.Can you jump in the forearm?
+
+Unknown: Yeah.They crushed down.
+
+Unknown: When you can, when you come over here with them, actually, we bring that battery charger too. Yeah.
+
+Unknown: That'd be great.
+
+Unknown: How are we gonna jump it?
+
+Unknown: Same way as jumping car.
+
+Unknown: Well, is it in the garage?
+
+Unknown: Oh, okay.
+
+Unknown: So second one.
+
+Unknown: Maybe just download it.
+
+Marley Barrett: Yeah, I'll come over now.
+
+Unknown: I'm sh I'm gonna be on the phone with Luca still.
+
+Unknown: So.Okay. Thanks.
+
+Unknown: We got a charger too.
+
+Marley Barrett: Yep, charger, jumper kitty holes in the car.
+
+Unknown: Will do.
+
+Unknown: Okay, bye.
+
+Unknown: Hi, I'm back.
+
+Marley Barrett: Um I'm just gonna my dad's truck is dead, so I'm gonna go drive over to him, but I can keep talking.
+
+Unknown: Yeah, actually, dude, sorry, give me one more second.
+
+Unknown: I'm bother my brother.
+
+Unknown: For what?
+
+Marley Barrett: I gotta go help Jack and Dad jump his car.
+
+Unknown: Can you use a Jeep?
+
+Unknown: No.Uh, sure.
+
+Unknown: I don't know.
+
+Unknown: Well, I have all my stuffs in there.
+
+Unknown: Like, can I just jumper cables out of there at least.
+
+Unknown: Okay, well you can grab them.
+
+Unknown: Where are the keys?
+
+Unknown: They're in the car.
+
+Unknown: Or are they in my store right there?
+
+Unknown: Yeah, they're in here.
+
+Unknown: Okay, I'll take the Jeep.
+
+Unknown: Where are you?
+
+Unknown: Are you at home right now?
+
+Unknown: I just started my students like this alphabet.
+
+Unknown: Oh, nice.
+
+Unknown: That's the one thing that's like I'm just like, it's not grinding, at least.
+
+Unknown: So at least you're not hanging out at home.
+
+Unknown: It is interesting though, because like I am like that, I don't know what that's thought.
+
+Unknown: I honestly thought no no, the culture is totally different for everyone.
+
+Unknown: The other main streams are all just always kind of saying stuff like you're always like catch out like working on hard, like what the hell?
+
+Unknown: Like or like whatever.
+
+Unknown: They're like what are you working on now?
+
+Unknown: That's something.
+
+Unknown: I think that's a difference.
+
+Marley Barrett: Yeah.And that's a, I mean, well, the thing is, and this is the kind of nice part about SDR in that area is you're forced to have a little bit of work-life balance.
+
+Marley Barrett: Like, at the end of the day, like, you cannot be calling constantly.
+
+Unknown: You can't.
+
+Unknown: You can't stay like you want, but you want one constant cold call whenever you've got it for it. Yep.
+
+Unknown: So, totally agree.
+
+Unknown: I just make me truly believe in the sales path as a very successful sales.
+
+Unknown: That's what Ben Horowitz did.
+
+Marley Barrett: He started as a sales engineer.
+
+Marley Barrett: Right now he runs like the biggest VC firm on the planet.
+
+Unknown: But also from the founder plan, I really do. Yeah.
+
+Unknown: I was just thinking old that somewhere like we have to read some founder skills, so it's a good way to just spend your during your summer founder, but I can now focus, you know, just everything I'm learning about a a faster and culture and selling for them as well.
+
+Marley Barrett: Yeah, I I mean, that's that's why Corey and Kim and all of them got in is because they had incredible tech talent.
+
+Marley Barrett: But at the end of the day, Corey knows how to sell enterprise software.
+
+Marley Barrett: Like, people kind of forget that is a serious, serious need.
+
+Unknown: And I think that's what we mentioned our video, at least for me.
+
+Unknown: Yeah, oh, for sure.
+
+Marley Barrett: That does bring it back to a good point here.
+
+Unknown: I think, yeah, I gotta, we gotta.
+
+Unknown: Highlight our kind of our how our skills bridge together to make this really work well.
+
+Unknown: I mean, I don't think our video was bad at that time.
+
+Unknown: I think our idea was just kind of like an eh idea.
+
+Unknown: Yeah, but I think our video could be a lot better, too.
+
+Marley Barrett: I like, I don't to me, the the video is like just be kind of chill 100%.
+
+Unknown: Well, I think now like we have like the backgrounds of I can hopefully by the twenty-seventh we'll have some like attainment numbers based on my own photo to be like, listen, I know how to sell underpress software at the best of best, and I've been killing it.
+
+Unknown: You led a team of engineers of Tesla and then how do we tie that together as we're ready to be founders?
+
+Unknown: Yeah, that's pretty much being chill is probably not the way I would say it.
+
+Unknown: It's just like letting our credentials speak for themselves, especially now. Yeah.
+
+Unknown: Or true.
+
+Marley Barrett: With we have this, though.
+
+Marley Barrett: Um, well, let's let's I'm I mean, I'll keep iterating ideas and as we get closer, but I think like July first we should try to start narrowing down and then kind of really refine and be work through like just we don't have to be have a long application, it just has to be really well worded.
+
+Marley Barrett: Uh, and I'm I'm totally fine, like, I kind of enjoy that type of writing because it'll really help us through the business, and also, like, if we have a strong product by then, it's a hope that I think the writing gets a lot easier.
+
+Unknown: Oh my god, that makes sense.
+
+Marley Barrett: The writing is really hard when you're in the air and trying to figure out what the heck is gonna happen.
+
+Unknown: Yep, working with Max. Yep.
+
+Unknown: No, not yet.
+
+Unknown: I'm catch up with him, but I mean, he needs an ERP, basically.
+
+Unknown: He put money into it.
+
+Unknown: It didn't go well.
+
+Unknown: Now he's back to his old solutions.
+
+Unknown: Like, I can pitch.
+
+Unknown: I mean, I'm gonna talk to him again and be like, well, what would you, like, would you ever just think of doing a custom ERP?
+
+Unknown: Or because the one he sent me that he was gonna go on to was open source, so we could just build on top of it.
+
+Unknown: But that's not very like, that's just for deployed engineering, which is fine.
+
+Unknown: Other stuff, car wash.
+
+Unknown: I actually went onto forums and I dove into this a lot.
+
+Unknown: World Pay is insane in crypto pay, whatever they call themselves.
+
+Unknown: It is a monopoly.
+
+Marley Barrett: It's a monopoly, but for a good reason.
+
+Unknown: They just have they have the best merchant not present insurance and and strength of of like just reputation with credit card payment processors so I talked to I was just like chatting back and forth on these forums and I was gonna maybe ask if any of them would call but it kind of the signals pretty early were pretty rough because okay at the scale of 98 car washes or whatever he has, yes, reporting gets tough.
+
+Unknown: These people are all like the five to ten, they're like the reporting's fine, right?
+
+Unknown: Like they're like, they charge a lot, it sucks, but yeah, it was like the we just kind of deal with it.
+
+Unknown: Like, he literally told me at one point, because at first I started acting as like I was just interested in the market, but then like I told him like, I'm really interested in like the payment side of the market more than anything.
+
+Unknown: And he just kind of went like, oh, well, I was going to tell you if you actually wanted to start a car wash, to not even care about anything else and just go with crypto pay and world pay. Yeah.
+
+Unknown: I know.
+
+Unknown: I'm curious.
+
+Unknown: Just when I hear you saying I'm not something I think this is the idea that we go with, I don't even know much about the merchant uprising.
+
+Unknown: So like I didn't even fully comprehend the problem that Sims talked about.
+
+Unknown: But in terms of it being a huge managing 90 like him versus not much but nice to have for smaller, like, that's all just go-to-market, then that's kind of what RAMP does.
+
+Unknown: Like, RAMP is more of a nice to have for smaller companies that aren't profiting that many transactions.
+
+Unknown: That's a good point.
+
+Marley Barrett: Yeah.So, Doc didn't, like you said, that didn't fully discourage me from it, but um, the second comment that I think the the the difference is hardware, right?
+
+Unknown: Like, ultimately, there's a hardware solution that connects to World Pay.
+
+Unknown: I that like, like, it's all one vertical.
+
+Unknown: Like, you buy, uh, you buy, like, a terminal and it comes with World Pay and Crypto Pay built in.
+
+Unknown: Like, you don't do anything.
+
+Unknown: Uh, and I'm thinking these vendors are these vendors are technically affiliated with World Pay.
+
+Marley Barrett: It is, yeah, it is the most legacy system.
+
+Unknown: So, I wanted to, I was going to reach out to someone from Holiday Station stores, but they're actually, they got bought out.
+
+Unknown: Um, but I want to, I want to talk to some, you know, mid-size gas stations too, see what they're feeling in terms of pain points and go from there.
+
+Unknown: But, yeah, I've been a little slower on that one, but I do, I have a pretty good understanding of like it, it is truly just a one-player like monopoly.
+
+Unknown: Yeah.And that's pretty discouraged.
+
+Unknown: Yeah, yeah.
+
+Unknown: It's also just like if you do gas stations plus car washes, it opens up a lot more.
+
+Unknown: That's why I'm interested in that.
+
+Marley Barrett: Because, like, the transaction market for gas stations is a lot relative to car wash. Okay. Um, I'm assuming never to a friend's no I don't have his number.
+
+Unknown: Can you send me his number?
+
+Unknown: Yeah.Do you want me to send you his number or throw you two in a group chat?
+
+Unknown: What do you prefer?
+
+Unknown: Uh, if yeah, if you want to throw us in a group chat, too, that's fine.
+
+Unknown: That might be easier for smoother for him, too.
+
+Unknown: Both work, I don't prefer.
+
+Unknown: If you're comfortable with that, if we can just do that, he was a Wisconsin guy, wasn't he?
+
+Unknown: Yeah.Yeah, okay.
+
+Unknown: I think that'll be fine then.
+
+Unknown: It'll be easy for you to have this very strong opinion about this whole like busy thing.
+
+Unknown: Like for me, my days at ramp are so busy, but like, if Australian wants to hop on a 30-minute call and watch me onboard, like, I will make the time to have that box.
+
+Unknown: Like, it's so doable.
+
+Marley Barrett: But so I get frustrated when people kind of say, like, I'm the next two weeks.
+
+Unknown: Yeah, yeah, the next two weeks is crazy.
+
+Unknown: I get, I think, anything like over three to four days is.
+
+Unknown: Especially if you're young, too.
+
+Marley Barrett: Like, it's different if you're older and you're, like, okay, like, I gotta go back to my whatever wife.
+
+Unknown: But, like, we're literally all 21 through 25 years old.
+
+Unknown: No one is busy, busy.
+
+Unknown: No, well, and even of older people, like, a big part of these calls I'm doing is getting people to commit to a 15-minute phone call.
+
+Unknown: It's actually 30, but like, and then they're saying, like, oh, I just don't have the time.
+
+Unknown: Like, let's push back to like January, like, all up in months.
+
+Unknown: And I'm just like, dude, you can hop on a 15-minute film fall fading.
+
+Unknown: This is remotely interesting.
+
+Unknown: Yeah, well, that's, yeah, that's early signs of, okay, well, not so interested.
+
+Unknown: I know.
+
+Unknown: Well, I love, like, the objection you get a lot is just send me over the info in an email, and I'm getting really good at the.
+
+Unknown: I'll literally be like, listen, dude, I'm going to be honest, like, I'll shoot you this over an email no matter what.
+
+Unknown: We'll probably both just get to forget about it then.
+
+Unknown: What I see a lot is that if you actually look at the email, they raise this the board request.
+
+Unknown: So, what I'm going to do is send you a calendar invite for next week.
+
+Unknown: It's a tentative, you know, 15-minute call to answer some of those questions.
+
+Unknown: We can cancel it if you want, but we'll just put it in place for now and have it visit next week. Yeah.
+
+Unknown: Just get people to like the views, except the calendar and then I have four people to return them and put them up on the phone.
+
+Unknown: But it's a key state.
+
+Unknown: Okay, so that was the good thing about this is that I'm enjoying this program, but if I was doing this for my own company as well, they would be out of it.
+
+Marley Barrett: Yeah, yeah, and the passion and the 10x.
+
+Marley Barrett: Oh, and and and especially now that you have this experience, like the our our resume is built for for going and building.
+
+Unknown: Dude, our resume is looking great.
+
+Marley Barrett: I really do think the best idea uh idea we've had or I've had is the clay for new businesses in terms of just the results I've seen.
+
+Marley Barrett: I know I don't have any actual customers, but yeah, you send me a blurb on what you're looking for, and I want to try to scrape for it.
+
+Unknown: I'm gonna wait till after month.
+
+Unknown: Like, I honestly want to go talk to some people at ramp and see, like, I'll I might go maybe tonight I'll go watch the all the AD meetings of very like early companies.
+
+Unknown: I still don't fully understand ramp alley to like truly be down to Mercury for a brand new startup, for anything.
+
+Unknown: Yeah, uh well, I would say ecosystem, right?
+
+Marley Barrett: Like, okay, just use us for all this.
+
+Unknown: Yeah, I mean, I think instead of like we are a deconsolidated platform, like you will be able to handle all your non-payroll spend, whatever it may be, when you grow under, like, and you're paying for only one platform.
+
+Unknown: And for now, you can start by just, you know, using the expense management or whatever.
+
+Unknown: But but when you say early companies, like, creating a website, most of the that's all those companies are going to be pretty raised, pretty recently, then probably.
+
+Unknown: Yeah, and and they might be a s it might just be a small business.
+
+Unknown: I mean, we might be talking like a small lodge, right?
+
+Unknown: Like, from what I've seen so far.
+
+Unknown: It's a it's a small lodge in the middle of the woods.
+
+Marley Barrett: They have 10 employees, and it's, yeah, it's pretty small.
+
+Unknown: And it's going to stay small.
+
+Unknown: Is it going to remind me?
+
+Unknown: Go ahead.
+
+Unknown: Just that's ASCII and like breakball buttons and that's squeaky.
+
+Unknown: So you go ahead.
+
+Marley Barrett: Do you have a specific vertical that works really well for small businesses like small, medium businesses?
+
+Unknown: Construction is on fire right now. Okay.
+
+Unknown: That's probably where I would send you.
+
+Unknown: Mainly because of the AI mean AP side, like they're only handling a lot of invoices.
+
+Marley Barrett: Well, and that would be a great difference in terms of what I see.
+
+Unknown: And then the other one that we get is that I just did it on the flat.
+
+Unknown: Really?Yeah, it's interesting, but a lot of um a lot of non-profits have I mean, they're controlling their sadden pretty strictly because it's, you know, m like charity money they're receiving.
+
+Unknown: Yeah.Like philanthropic dollars that they are supposed to track everything they spend it on.
+
+Marley Barrett: You know who you should reach out to is the Cargill f Margaret Cargill family.
+
+Unknown: Yeah, that would be a well, what I did realize too is like playing your own network to get meetings is totally fair game.
+
+Unknown: It's encouraged, but I almost want to save that for if I return full-time.
+
+Unknown: So I actually get rewarded towards my quota on it 'cause like I'm gonna get to my nine as an intern.
+
+Unknown: Yeah.Yeah, and then you're because then you're you're squeezing real money out of it.
+
+Unknown: Yeah, that's a good point.
+
+Unknown: Exactly.Like, for example, I, oh, it was actually really funny.
+
+Unknown: I, so when everyone has patch accounts, Ramp is a slowly shutter, and so it's this crazy open water concept right now, of like claiming your prospects, having your like in your ROE.
+
+Unknown: Uh-huh.Enterprise is all patch accounts, meaning like assigned, you have your assigned accounts that you pursue.
+
+Unknown: Um, mid-market is slowly shifting to more and more hash-heavy, and SMD would be the last to go, and that's tough because of how much we bring in just by playing in the open water.
+
+Unknown: But wait, where was I going with this with?
+
+Unknown: I had a reason to explain patch to you to make this make sense.
+
+Unknown: Oh, yeah, was it a personal connection?
+
+Unknown: We were on personal connections.
+
+Unknown: So, like, for example, how it'll be more valuable.
+
+Unknown: I was like, in this orum room falling, like, with my team, and I actually had an whale, it was awesome.
+
+Unknown: It was this lady that had left her, like, I had her at one company, she had left and joined another.
+
+Unknown: Booked a meeting with the new company, and it turned out that that new company was one of my teammates' patch accounts, and they hadn't claimed their full ROE on it yet.
+
+Unknown: So, technically, according to the very complicated rules, it was my meeting booked and my dollars brought in everything.
+
+Unknown: But it was a mid-market rail patch account, so this would make this dude, like, a couple thousand dollars, like huge deal.
+
+Unknown: And so, I then went and rerouted it to him and let him take over the ROE, which is for me as an intern, like, there's no justice booking a tiny company.
+
+Marley Barrett: And then he, in return, is going to like, he's going to a conference, he's like, oh, I can throw you a couple, like, SMD SQLs, like, and did he ask you to do that, or did you kind of just, are you learning the rules of sales, kind of that?
+
+Unknown: That was, I kind of offered, I didn't yet, but kind of got the vibe that it was like, yeah, it was frustrated, so I was just like, I went to my manager and I was like, listen, this is what happened.
+
+Unknown: Like, I'm very proud of myself to go to this meeting.
+
+Unknown: It wasn't like I think there's a big deal, and I was like, I want that, like, how long we get to like, I know I'm a get mine.
+
+Unknown: Like, let's get this one, and then she gets it, and it helps out my interesting then because he's trying to get the team on it and stuff like that.
+
+Unknown: That was a good look.
+
+Unknown: Like, selfless.
+
+Unknown: Like, there would be some brownie points to show early on, but that's like kind of the reason I just want to save, like, trying to get, like, Eric's pipes on or something like that. Yeah. Interesting.
+
+Unknown: Is it all cool stuff?
+
+Unknown: Yeah, it seems like that can get pretty dicey.
+
+Marley Barrett: I I mean, they're trying to control it and manage it, but yeah, I mean, everyone's that's the beauty of sales: you're all very you're personally rewarded quickly after doing something, so you feel a lig, but the downside is it's a personal reward.
+
+Unknown: Exactly.Um it's super interesting.
+
+Unknown: But back on our efforts, uh, we can shoot for that start of July to start moving forward with an application.
+
+Unknown: Uh oh, I like that.
+
+Unknown: I think I think Sunday's following that all that.
+
+Unknown: Yeah, that worked for me.
+
+Unknown: I'm ready too.
+
+Unknown: Like, this last week I'm still ready for the week to be normal.
+
+Unknown: Like, Monday and Wednesday were both nice games, so midnight's out.
+
+Unknown: And, like, and then St. Michigan, like, I'm ready for my week weekdays to actually be like nothing special where it's kind of time to put some stuff in the center have their routines set up.
+
+Unknown: That's it.
+
+Unknown: But yeah.
+
+Marley Barrett: But yeah, how, um what what were the plans to see at least next?
+
+Marley Barrett: Uh, next I'll probably go there Friday again.
+
+Marley Barrett: Yeah, and then be there for a week and then I'm gonna go up north before the fourth.
+
+Unknown: I think I'm gonna work here in Captain on the fourth.
+
+Marley Barrett: I don't know, a lot of people, like, there's not, I don't think there's gonna be really anyone here on the fourth that I like actually really want to be with.
+
+Unknown: Because, well, like, Peyton and all of them, I think, are all going up to, like, different cabins.
+
+Unknown: Like, Peyton's going to Laurie's cabin, and Tanner is going with his family somewhere.
+
+Unknown: That's good to know, but I was pining at looking into that.
+
+Marley Barrett: Yeah, I don't.
+
+Unknown: Yeah, I don't think there's gonna be a lot of people here.
+
+Unknown: Alright, no, that's good enough.
+
+Unknown: And I feel like the fourth there would be pretty fun.
+
+Unknown: Yeah, no, that's only one.
+
+Unknown: It's more.
+
+Unknown: I already have the Friday now, so I could take, like, work a Monday remote and then have, like, a longer time home, but that's not a good idea.
+
+Unknown: Oh, that is nice.
+
+Unknown: We'll figure it out.
+
+Marley Barrett: Um I talked to Breen as well about the absenteeism problem.
+
+Marley Barrett: Found a product that would probably solve his issue.
+
+Marley Barrett: He's reviewing it this week, and then we're gonna I'm gonna go to the district next week and talk about other problems they have slash if this is still a problem with their current product.
+
+Unknown: So okay, that's super common.
+
+Marley Barrett: The option C isn't one that's big, but it's it's another YC startup that, like, cracked it.
+
+Unknown: So yeah.
+
+Marley Barrett: So I was like, okay, I have to I'm just gonna literally send the product link and say, like, okay, I need like full feedback on what you think of this, if you would buy, or if you still look for like a custom solution.
+
+Marley Barrett: Because I was literally gonna build them a custom solution.
+
+Unknown: Yeah.Interesting.
+
+Marley Barrett: Because it's Breen's wife that's like now in charge of the absenteeism problem, too.
+
+Marley Barrett: So they're pretty I feel like I could get them pretty bought into paying me that.
+
+Unknown: I didn't know that.
+
+Marley Barrett: Yeah, she's now like head of all student services, not just.
+
+Unknown: There's a lot of.
+
+Marley Barrett: I have like a sit-down talk with someone from the district who's under Christine Breen, and she literally showed up to the meeting with like all her notes organized and slides.
+
+Marley Barrett: She made slides for a meeting to talk about the absenteeism problem.
+
+Marley Barrett: Like, she was insane.
+
+Marley Barrett: It was, it was like the best conversation.
+
+Marley Barrett: And they still don't know what their solution is going to be.
+
+Marley Barrett: Like, if it's not.
+
+Marley Barrett: What's the full scope?
+
+Unknown: Yeah, full scope.
+
+Marley Barrett: Full scope is basically we're intervening really late on absenteeism, whether it's excuse or unexcused, right?
+
+Marley Barrett: Let's put it into two buckets to start.
+
+Unknown: It's people wanting to travel, like high-income area.
+
+Marley Barrett: People like to travel, people just kind of take their kid out of school for sports or whatever else.
+
+Unknown: And then there's like the people not showing up to school because like they can't get a ride or they're, they have anxiety, like the actual problems.
+
+Marley Barrett: They're both huge impacts because the state basically threatens to take funding away if you have certain absenteeism.
+
+Marley Barrett: And absenteeism is described as over 17 days missing from school.
+
+Unknown: There is like a student.
+
+Marley Barrett: Yep.And 30% of students on a national basis are chronically absent.
+
+Unknown: Wow.Yeah.
+
+Unknown: It's a big deal.
+
+Marley Barrett: Like, I was looking at it.
+
+Marley Barrett: I'm like, wait, thirty percent?
+
+Marley Barrett: It's a third of students are missing that much school.
+
+Unknown: So a lot of it's bad reporting.
+
+Unknown: A lot of it's not intervening enough.
+
+Marley Barrett: The app called IDEA, I'll send it to you basically messages you as a parent midway through the day because no one like basically no one puts their absences in skywards still.
+
+Marley Barrett: And midway through the day, it texts the parents and says, Hey, your student is missing.
+
+Marley Barrett: Are they coming to school today?
+
+Marley Barrett: You can confirm yes or no, and then they'll ask the reason.
+
+Marley Barrett: It's basically just skyward, but way better and unprompted at your texts.
+
+Marley Barrett: And then the back end is you can track all this and start intervention programs, start having meetings with students if they're attending school and why they're not attending.
+
+Marley Barrett: They have a case study of bullying.
+
+Marley Barrett: Basically, like a student's mom was like, oh, he doesn't want to go to school because he's being bullied on the bus.
+
+Marley Barrett: They're like, okay, well, let's fix that.
+
+Unknown: Yeah, wow.
+
+Marley Barrett: Very, very simple stuff.
+
+Marley Barrett: You know, like, I just think back to how complex we're trying to make a whole like, this is a tech staff.
+
+Unknown: Yeah, that's crazy.
+
+Unknown: Uh like we're just like we're just too talented in some of the things that we're doing.
+
+Marley Barrett: And just like the the problems that need to be solved in districts are still seem to be very low-hanging fruit.
+
+Unknown: Yeah.Interesting.
+
+Marley Barrett: But yeah, I'm excited to go to the district because I'm literally going to sit walk around all these people and Breen's just going to like walk me around to ask them all questions.
+
+Unknown: One side.
+
+Unknown: He just said sometime this week, he was at a baseball tournament, so he said we'll schedule it when he gets back.
+
+Unknown: Got it.
+
+Unknown: I should actually hear about that.
+
+Marley Barrett: I should text him.
+
+Unknown: So I'll send a text to the prince as well and you, and then you've got my dad, you've got the school stuff, the car watch and bless her.
+
+Unknown: I'm going to validate the gas station next.
+
+Unknown: I got to do the gas station this week.
+
+Unknown: And how would you approach to do that?
+
+Unknown: I'm going to find a small gas station player.
+
+Unknown: Just to start, just because it'll be easier.
+
+Unknown: Or like a regional manager of a large one and target them.
+
+Unknown: I just want someone who is close enough to the operations.
+
+Unknown: There's no point in me going up the C-suite.
+
+Unknown: They're not going to care.
+
+Unknown: They're having some regional side report all of the, you know, interday payment and transactions.
+
+Unknown: Yeah.That makes sense.
+
+Unknown: Um, I bought uh I bought a garment.
+
+Unknown: You did?
+
+Unknown: Yeah.Nice, like a forerunner, or what do you what did you get?
+
+Unknown: Yeah, I got the four runner in like five seventy and one of the nice ones. Nice.
+
+Unknown: Well, I was awesome player and I was like fifty bucks a month.
+
+Unknown: And I was like, okay, I can't sell it.
+
+Unknown: Yeah, I don't know how to um it was I was just doing a game of I was like I can usually stop put my dad in a discount on these websites that I could go do it.
+
+Unknown: And he just like totally forgot to do the payment plan.
+
+Unknown: And so now I'm just like next paycheck I'm gonna just eat it and send him the money for it, which I've not ready for. So. Oh!
+
+Marley Barrett: Wait, he forgot to put in the code?
+
+Unknown: You know, like you just paid for it, and I'm gonna pay a blur like I wanted to.
+
+Unknown: Oh, I see. Yeah.
+
+Unknown: I'd like a loan for this, please.
+
+Unknown: Which is not exactly.
+
+Marley Barrett: Good.How are uh Jacob and Justin doing?
+
+Unknown: They're doing really good.
+
+Unknown: Justin is Justin.
+
+Unknown: I mean, he's hilarious.
+
+Unknown: Yeah.But he's liking appetites.
+
+Unknown: He is very interesting concept and for him, but he's gonna kill it and it was interesting.
+
+Unknown: I was talking, I haven't even told him this yet, but I was talking to an SDR at ramp who's two months new, but already like talks to the leaderboards every month, like he's just in the machine.
+
+Unknown: And he came from AlphaCytes and had three poor things to say about a post-grand career at Alpha Seitz.
+
+Unknown: But that was just him.
+
+Unknown: I know.
+
+Unknown: I know.
+
+Unknown: I think people I mean, something I found him, like, you should use that as well.
+
+Marley Barrett: Yeah, and he's performing well, too.
+
+Unknown: That's like really good signals.
+
+Unknown: No, 100%.
+
+Unknown: Um, but Justin's liking it, and uh, Zills, we just saw him.
+
+Unknown: I just saw him the other night again, briefly, met us out pretty late, but it was good to see them.
+
+Unknown: And I hope we see him more.
+
+Unknown: It's just kind of tough he's up in the Bronx.
+
+Unknown: Like, we try to get him down here. Yeah.
+
+Unknown: He texts us like every day to come up to the Bronx.
+
+Unknown: And dude, that's like an hour away. Yeah.
+
+Unknown: That's lot.
+
+Unknown: But I will at some point, and it'll be good.
+
+Unknown: I might be headed to Syracuse this weekend to see some family.
+
+Unknown: Oh, nice.
+
+Unknown: Which would be good.
+
+Unknown: I gotta sleep by the middle because my mom's sitting out there.
+
+Unknown: And then trying to pick a weekend to come home.
+
+Unknown: Sweet.Yeah.
+
+Unknown: When do you think you'd come home?
+
+Unknown: I don't know.
+
+Unknown: If not the fourth.
+
+Unknown: Probably around a weekend in July. Yeah.
+
+Marley Barrett: I'll make sure to inform you about it. Yeah. Yeah, I mean, it's it'll it might be in San Francisco, but I'm actually, I didn't, like, I didn't, I didn't book that.
+
+Marley Barrett: I booked to San Francisco before any of the YC application is around then, so I'm glad I'm going out there around then.
+
+Unknown: I'll be uh oh, that's awesome.
+
+Marley Barrett: Good way to close out.
+
+Unknown: I met some other woman guy in a bar that heard me, and my buddy, who's through the roast clip job now, talk about Ramp Series ask and he was talking about some roast clip deals and stuff.
+
+Unknown: And you just kind of butted in, and he was like four-time founder, YC founder.
+
+Unknown: No way.
+
+Unknown: Super big ego, super big hot shot, but he was like, I'll refer you to YC.
+
+Unknown: Like 'cause I told him I'm like three times.
+
+Marley Barrett: You know, I'm actually surprised, like, even Elise's, like, real estate friend who did YC, um, and is now running a startup, like, she told him I was like somewhat interested in YC.
+
+Marley Barrett: He's like, oh, I'll for sure refer him.
+
+Unknown: Like, there's gotta be an incentive.
+
+Unknown: Oh, that's true.
+
+Unknown: I bet there is totally a referral from Meg accepted, you probably get paid.
+
+Unknown: Yeah, that's that's a good point.
+
+Unknown: Ramp does that for employees.
+
+Unknown: You get three thousand dollars if you root for an SR that gets hired.
+
+Unknown: Dang!I think that's the same with Tesla for engineers, but that is awesome.
+
+Unknown: Like, that just makes so much sense.
+
+Unknown: Yeah, why not?
+
+Marley Barrett: I mean, the people that those those guys are hanging out with, and yeah.
+
+Unknown: Yeah, well, and you're you're gonna refer high quality candidates if you're wanting to get higher.
+
+Unknown: And not only just get higher, but then knowing that they're there as your referral, they have to perform.
+
+Marley Barrett: Yep.Otherwise, it's could be a bad look on you.
+
+Marley Barrett: That's what I always worry about: you know, like, as I refer to people to Tesla, it's like you gotta, and the recruiter will reach out to me and it's like, oh, you referred this person, tell me about them.
+
+Unknown: Like, it's it's legit, it totally is.
+
+Unknown: And Drew is right about just even having a ramp email, like, already getting spammed by recruiters, a lot of students that want the internship or are trying to get hired.
+
+Unknown: Really?Like, hop on a call, like, tonight, like, network with me.
+
+Unknown: Like, it's crazy, dude.
+
+Marley Barrett: The logo just like raised clocks.
+
+Marley Barrett: Yeah, especially after, like, the fundraise, and I, like, reposted something on LinkedIn, and that just got yeah, you're you're now up there, yeah.
+
+Unknown: That's funny.
+
+Unknown: Um, it's exciting stuff, though.
+
+Unknown: Um, I they'll IP out in the next two years, probably.
+
+Unknown: Jeez.My gosh.
+
+Unknown: So crazy.
+
+Unknown: Although, I was thinking that they could just keep raising rounds forever.
+
+Unknown: Like so effortlessly.
+
+Marley Barrett: Yeah.Would they raise the last one at?
+
+Unknown: It was $7.
+
+Unknown: 50.Oh my gosh.
+
+Unknown: Oh my gosh.
+
+Unknown: It's like an anomaly.
+
+Unknown: And this whole I mean, you read this article, which I'm obsessed with.
+
+Unknown: It was so cool, but the whole like third layer of intelligence and being at the forefront of managing AI and token spend for like Flavio's teams is such a crazy idea.
+
+Unknown: And also, like the accounting play is a huge amount of ramp stack.
+
+Unknown: Yeah.Like helping the whole idea that there's less CPAs, like the number of CPAs decreasing, so allowing accounting firms to handle more clients with less manpower is really cool.
+
+Unknown: Um and then all of those clients then become partnership inbound RAM customers for the rest of their stack.
+
+Marley Barrett: Yeah, that's that's that's awesome.
+
+Marley Barrett: I'm building out the ecosystem.
+
+Unknown: Yeah, and you guys have like the product-like growth too, which is awesome.
+
+Unknown: I mean, we like that's something so important on the calls is how much, like, we, I say it all the time, like, we shipped like 500 new product improvements last year alone.
+
+Unknown: Like, just being like, listen, like, we were just raising, like, if I see that I'm talking to a CFO, especially like a founder or a CEO, like, bringing up the raids, bringing up all the talk improvements, the velocity of the RAM product, like, that's just like, we'll get someone on a call 100%.
+
+Unknown: Yeah, that's pretty cool. Wow.
+
+Unknown: I can get a 2-9 up.
+
+Unknown: Yeah, I'm over here right now.
+
+Unknown: I'm sitting in the living room.
+
+Unknown: He's, I don't know, I think he's jumping the car out there, I bet.
+
+Unknown: Um Yeah, I'm.
+
+Marley Barrett: I'm I'm what else was I there was one other problem I was working on, I felt like.
+
+Unknown: Oh, Chuck Storman, my old mentor.
+
+Marley Barrett: I met up with him, he's in the retail space.
+
+Marley Barrett: I don't a problem for him yet, but he actually gave me a really interesting perspective.
+
+Marley Barrett: So he's part of Blueberg Group.
+
+Unknown: Did you know them?
+
+Unknown: Do you remember them?
+
+Unknown: Yes.Right?
+
+Unknown: Small retail broker working with small companies to help them get into Target, Walmart, other areas.
+
+Marley Barrett: And he said, really, like, I was like, okay, what does the industry look like 10 years out?
+
+Unknown: And he's like, it's tech.
+
+Unknown: Like, small brands don't want to deal with tech.
+
+Marley Barrett: Like, they used a bunch of data and technology to understand chomps and where chomps should go, and literally telling Target, like, people do not want to eat beef jerky out of a bag anymore.
+
+Unknown: Like, replace beef jerky on the shelves with chomps.
+
+Unknown: And Target's like, okay, they did it, and it worked.
+
+Marley Barrett: And now, I mean, chomps is insane.
+
+Marley Barrett: Like, they represent that that s right that J curve to um chomp's success.
+
+Marley Barrett: And he he really, like, when I think back to your dad and write this broker industry, what does this broker industry look like 10 years down the line?
+
+Marley Barrett: It really has to be as much technology as possible, right?
+
+Marley Barrett: The full-time retailers or full time insurance providers may not want to focus on the smaller side of the technology stack, or right, or all the what your dad was saying, like, they did in-house studies to help understand, you know, the risk behind the retail outdoor industry.
+
+Unknown: Yeah.Well, the like the direction I see kind of this whole deployment movement going, and advocating is like how quickly can we empower businesses with less resources to build or have the internal tools that a company like RAM has, right?
+
+Unknown: Yeah.We might have talked about it three people.
+
+Unknown: We had a really interesting conversation, me and this AE at Ramp, about the direction that sales is going because I kind of came into that perspective of like sales is at least at the top end of it something that will never be replaced by AI.
+
+Unknown: But he had a very interesting opinion that buying is slowly shifting towards AI, like procurement, a lot of purchasing decisions is becoming automated.
+
+Unknown: And if the buying side is all automated, then what's stopping the selling side from also being automated?
+
+Unknown: Like it would be the next to go, which is really interesting.
+
+Marley Barrett: Yeah, because especially for uh right, like you guys want to push a lot of resources into selling, right?
+
+Marley Barrett: But like a business is not wanting to put nearly as many resources into procurement.
+
+Marley Barrett: No.So they have more of a drive first to reduce headcount and focus on streamlining things.
+
+Marley Barrett: Interesting.That is a really good point.
+
+Marley Barrett: It's always, yeah, it's so, I don't know, software is software is cool because it's sticky, right?
+
+Marley Barrett: If you're buying widgets and you have an agent that goes out and quotes for other for other widgets to buy and compares them, that's one thing, but if it's really a part of your stack, that's another thing.
+
+Unknown: Yeah.I mean, that's ecosystem.
+
+Marley Barrett: Play to the ecosystem.
+
+Unknown: I know.
+
+Unknown: There's been the first, I've heard it thrown out for the first time this week of Ramp moving into the accounts receivable space as well.
+
+Unknown: Really?But no, nothing great.
+
+Unknown: Like, no idea what that would look like yet.
+
+Unknown: They just talked about it that it's an effort.
+
+Unknown: Yeah.Which is crazy.
+
+Unknown: It's funny because like in a couple months now I'll probably reel and I'll be like dang I remember when someone just like sloated an idea out there.
+
+Unknown: Mm-hm.
+
+Unknown: That is interesting.
+
+Unknown: I like the accounts payable.
+
+Unknown: I mean that makes so much sense for construction and general contractors.
+
+Unknown: So much sense.
+
+Unknown: Well an RAP product is incredible too.
+
+Unknown: Like build up bomb is companies that only really need a tool for accounts payable are happy with build. com.
+
+Unknown: It's most common thing that we see.
+
+Unknown: But we do the same thing they do, which is more efficient.
+
+Unknown: And so the cell has to be done for the consolidated stack.
+
+Unknown: Like it's tool for everything for your copy card, expense management, accounts available, treasury, travel, procurement, everything.
+
+Unknown: But like even on the AP side, our product is still insane.
+
+Unknown: Like it takes on average adv. com 25 clicks to process an invoice, get it routed, and get it paid approved and paid.
+
+Unknown: And with Rampus, three style.
+
+Unknown: Yeah, and measurement and clicks.
+
+Marley Barrett: I mean, that's like such a product-driven analysis.
+
+Unknown: Why does this face well since like if someone had thoroughly only needed an AP tool and they're already on Bill. com, like, how do you get them to switch over to RAM?
+
+Unknown: Yeah.Because they're happy with it.
+
+Unknown: Like, it's that same thing you said about the smaller car washes and the payment processing.
+
+Unknown: Like, it's a nice to have, to have three clips instead of 25, but not fun to switch over full systems and get everybody used to it and everything like that. Yeah. Make sense.
+
+Unknown: Hmm.Uh-uh.
+
+Unknown: No, I like that.
+
+Marley Barrett: I like that because it pushes you, it's a way of opening ideas that previously are closed off.
+
+Unknown: What else?
+
+Unknown: I'm trying to think.
+
+Marley Barrett: I'm trying to think of what else who else I've been talking to.
+
+Marley Barrett: I think that's all the disc discussions I've had for the most part.
+
+Marley Barrett: Sounds like a lot, and you've been doing the class and yeah, with everything else that's happening it feels like a lot, but it's really not.
+
+Unknown: I could definitely be iterating a lot faster.
+
+Marley Barrett: It's also just, oh, well, I've continued to talk to my dad about this development stuff.
+
+Unknown: It's harder, and I'll see where it goes.
+
+Marley Barrett: And I'm going to talk to another broker that I know that is in the real estate space and see what he thinks in terms of the recruitment side.
+
+Marley Barrett: But I have, I've sent him some good leads that he's given me positive feedback on.
+
+Marley Barrett: And I don't think he would tell me he would tell he's told me when they're really bad so Yeah.
+
+Unknown: Interesting.What um you haven't got like an AI device yet have you?
+
+Unknown: What?Have you gotten like a BII thing?
+
+Unknown: No, I told you I got one.
+
+Marley Barrett: I've been recording this whole conversation.
+
+Unknown: Oh, you did get one.
+
+Unknown: By the way. Yeah.
+
+Marley Barrett: Let's go.
+
+Unknown: Mm-hmm.So I use it on everything now.
+
+Unknown: I used it with my analyses call.
+
+Unknown: Yeah, I've added a lot of stuff to the mom test thing.
+
+Marley Barrett: And dude, oh my gosh, I've been, I've been, he has so many good videos he's been adding.
+
+Marley Barrett: For on his, yeah, yeah, Fitzpatrick, on his website.
+
+Marley Barrett: He uh, he just did one about like keeping things casual.
+
+Unknown: Oh, so good.
+
+Marley Barrett: I really like his, and I'm still, I'm still working on being better at the Mom Ps.
+
+Unknown: It takes a lot of effort.
+
+Marley Barrett: I've been doing like more just role plays with myself and coaching, but. Yeah.
+
+Unknown: The best one I think I've done so far is Breen.
+
+Unknown: Like Breen's second call, I did not talk about product at all.
+
+Marley Barrett: And how I knew that is at the end, he's like, so, like, are you interested in like building something?
+
+Marley Barrett: Or like, what's the deal here?
+
+Unknown: I was like, okay, here we go.
+
+Marley Barrett: I'm glad he doesn't even know.
+
+Marley Barrett: That's a good sign.
+
+Unknown: That's so dumb.
+
+Unknown: That's awesome.
+
+Marley Barrett: And if he, you know, no, I was just going to say it's Breen.
+
+Unknown: Like, he's not very direct sometimes.
+
+Unknown: That is fun.
+
+Unknown: I the mom says it's cool because you like, it's obviously you're doing a really good job of it. Yeah. Oh, yeah.
+
+Marley Barrett: I a hundred percent agree.
+
+Unknown: Like you can just couple cold calls where it's literally them being like, I've done such a good discovery on their pain, they're that like they're almost like asking like, how do you solve it?
+
+Marley Barrett: Yeah.Oh, how okay, how do you crack it?
+
+Unknown: That's great.
+
+Unknown: That's awesome.
+
+Unknown: Because like in my intro, I give, I don't say, like, it's Lucas with ramp.
+
+Unknown: Like, that like sounds familiar, you heard of it.
+
+Unknown: And I just then try to say, in the funniest automation space, like, using something similar, do you have a copy card?
+
+Unknown: Or whatever it is.
+
+Unknown: That's awesome.
+
+Unknown: I know.
+
+Unknown: It's fun.
+
+Unknown: I should send you those are really funny toll.
+
+Unknown: It said I had, I was trying to call Vanessa.
+
+Unknown: It was this very deep-voiced man that was not happy when I said, like, Vanessa, hello, are you there?
+
+Unknown: And he basically literally told me to kiss my ass and not talk to him like that ever again and hung up.
+
+Unknown: And I have the recording of it.
+
+Unknown: That's crazy.
+
+Unknown: It's just so funny.
+
+Unknown: Because it's like, oh, all right, next file.
+
+Unknown: Move on.
+
+Unknown: Oh my god. No.
+
+Unknown: So funny.
+
+Unknown: And when's, so you're going to release this next week.
+
+Unknown: Is she going to come to Minnesota at all?
+
+Unknown: I don't.
+
+Marley Barrett: Not until inland, like that weekend, you're kind of around and back.
+
+Unknown: Wait, I'll be.
+
+Unknown: I'll hope to see you.
+
+Unknown: Yeah, that would be fun.
+
+Marley Barrett: And then last time she saw you, she was, like, hammered, so. Yeah.
+
+Unknown: No, it'll be good.
+
+Unknown: Yeah, no, I didn't get the songs that make sense.
+
+Unknown: I mean, you didn't even meet Geron while we were together.
+
+Unknown: No, I never did.
+
+Unknown: I think she's funny.
+
+Unknown: Um, that'll be fun.
+
+Unknown: Did my dad have text you about the boat?
+
+Unknown: Did you see what happened?
+
+Marley Barrett: Yes.Oh my gosh.
+
+Unknown: I just know he was so pissed off.
+
+Marley Barrett: I should have texted Jacob Alfaro and said, can you fix this?
+
+Unknown: Dude, he's the most overconfident gel coat fibrolast specialist I've ever met.
+
+Unknown: I know.
+
+Marley Barrett: He's still shit. Yeah. Hey. Yeah, yeah.
+
+Marley Barrett: Um, we're thinking.
+
+Marley Barrett: I mean, that's deep too.
+
+Marley Barrett: Like, that's that.
+
+Marley Barrett: I don't think anyone will do that in the water.
+
+Marley Barrett: Yeah.Because that's what he was looking for.
+
+Marley Barrett: And I asked a buddy of mine, and he was like, We sent that picture to Lilis the other night, too.
+
+Unknown: I was like, really, like, guys, like, we need to, and they were so adamant about it.
+
+Unknown: They were they were very energetic and just loved it.
+
+Unknown: What do you need?
+
+Unknown: I'll tell you what he does.
+
+Unknown: You good?
+
+Unknown: She didn't respond?
+
+Unknown: Oh, she did.
+
+Unknown: Okay, I don't know.
+
+Unknown: No, it was funny and it was great.
+
+Unknown: I was more just like so far fast. Yeah.
+
+Unknown: It's all good.
+
+Unknown: But it'll be fun.
+
+Unknown: How is everything famous?
+
+Unknown: Situation?It's good.
+
+Unknown: Yeah, everything's fine.
+
+Marley Barrett: I think everyone's everyone's doing well. Good. Oh.
+
+Marley Barrett: Well, let me try to do some stuff with construction and just send you some stuff and see what you think.
+
+Unknown: Because even if they're not, I mean, what I'm guessing is it's going to be a construction company that's been running for five years who just finally decided, okay, it's probably time to make a website.
+
+Unknown: You know, they're getting a little bigger.
+
+Unknown: So even if it's that intent of they're growing a little bit or trying to be more legit, it actually might be a stronger signal for a platform like you guys.
+
+Unknown: Construction, construction growth play would be a very great list to have. Okay.
+
+Unknown: I'm going to play around with that.
+
+Unknown: I've like, I've really got this like tech, this platform down.
+
+Unknown: Like, now that I've built it for your dad, I can kind of build it for anything.
+
+Unknown: And it literally sends me a list of leads to my email every morning.
+
+Unknown: And I just like checkbox, like, I literally, it's like swiping Tinder where I go and see which ones are good, which ones are bad.
+
+Unknown: Yeah, good.
+
+Unknown: Dude, I'm fully on the Slack wave too now, by the way.
+
+Unknown: Yeah?Yeah.
+
+Unknown: Yeah, I love it.
+
+Marley Barrett: Do you guys fully use that internally?
+
+Unknown: Oh, yeah.
+
+Unknown: That's awesome.
+
+Unknown: Well, and I didn't understand like building Slack apps and Slack bots and all that stuff is so cool, too.
+
+Marley Barrett: Yeah, honestly, Slack's been a pretty good positioning for like AI agents and and human AI interactions.
+
+Unknown: Yeah, agreed.
+
+Unknown: The the best channel to look at outbound meetings, like, everyone sends what they book.
+
+Unknown: And so, um, like, every once in a while, an enterprise person will drop in.
+
+Unknown: Like, Brian Herbert actually, on Thursday, bought some no-restaurants.
+
+Unknown: He says that everyone just goes crazy.
+
+Unknown: That's awesome.
+
+Unknown: Yeah, and then everyone Yeah, that that's that's pretty sweet.
+
+Marley Barrett: Yeah, wow well, I gotta go run and help my dad here in a second.
+
+Unknown: Good luck with that.
+
+Unknown: It was a function up.
+
+Unknown: Um I'll look at I'll send this up.
+
+Unknown: I'm planning on just sending it to tomorrow.
+
+Unknown: I don't want to send it to him because they get back tomorrow.
+
+Unknown: Where they coming from?
+
+Unknown: They went down to France to look at places.
+
+Unknown: Did I ever explain you that whole thing?
+
+Unknown: No.Um, well so my dad just had is about the three year mark of acquiring her as an agency.
+
+Unknown: And so he gets like there's a lot of incentive marketing for how they do their own business, like once they hit it.
+
+Unknown: And they were in a pretty high bracket of it, and there's apparently some pretty big tax plays in investing that bonus into a property where they could save a lot of money.
+
+Unknown: And so they're looking at getting a house on Fripp Island.
+
+Unknown: Where is Fripp Island?
+
+Unknown: It's where the boards have a place.
+
+Unknown: It's in South Carolina.
+
+Unknown: Oh, okay.
+
+Unknown: Got it.
+
+Unknown: It's kind of my head.
+
+Unknown: But what's really interesting about Fripp is that its peak seasons are between Memorial Lay and Labor Day for renting.
+
+Unknown: That's exactly what my parents want to be in Minnesota.
+
+Unknown: Yeah, perfect.
+
+Unknown: It's like a common anomaly there.
+
+Unknown: Like normally, people are like, Winston wanting to rent, like, this is summer.
+
+Unknown: And, um but if you look at how bad they do, they seem like they're in one which is only four, but um but yeah. Cool.
+
+Unknown: That's pretty sweet.
+
+Unknown: Be a fun place to go down to.
+
+Unknown: Um I know.
+
+Unknown: I know.
+
+Unknown: We'll have to we'll have to get you down there.
+
+Unknown: Oh, I was saying for you guys, but yeah, that too.
+
+Unknown: Oh yeah.
+
+Unknown: I mean, definitely.
+
+Unknown: Um have you playing any golf?
+
+Unknown: No, I'm actually I'm playing tomorrow.
+
+Unknown: Playing with some sailors.
+
+Unknown: Good.Mm.
+
+Unknown: I don't know why that just made me think about you affected Renzo at all.
+
+Unknown: I don't know.
+
+Marley Barrett: I'm kind of overhearing what he's doing, and then he never sends me anything that actually shows me any sort of product.
+
+Unknown: The last guy I heard was that the Hennon Pawsmoke collab was crazy, which is a very interesting combination of no way.
+
+Marley Barrett: Not working together, I think, I think that Evan is potentially in the accelerator that Cosmos involved the I should reach out to him, see how he's doing.
+
+Marley Barrett: I mean, I'm around the summer, might as well.
+
+Unknown: You're not.
+
+Unknown: Around as well.
+
+Marley Barrett: Alright.Okay. Yeah.
+
+Unknown: What's what's the rest of your daily life?
+
+Unknown: Um I'm about to go to the gym and then after this laundry, it's kind of a reset day on Sundays and then we're talking about some buddies going and grabbing a fire at like a support carc fights at the White House are tonight.
+
+Unknown: Yeah, I heard about this, which is crazy, and then also a stand-up game, so it'll be a fun match to see how to edit a table.
+
+Unknown: Um, but I also am pretty hyped and want to make sure it's really nice, so we'll see. Yeah. Uh do you have Jim in your place?
+
+Unknown: There was a tiny one here, but now I joined the gym.
+
+Unknown: That's sweet.
+
+Unknown: There's a data studio.
+
+Unknown: Sometimes it's 300 bucks a month and I'm paying like sixty a month and they have a sauna um and the bathroom that I can shower in the floor work so it works out pretty well.
+
+Unknown: Perfect.Yeah, I'm enjoying I love being like the working and being productive, like work like doing something of movement every day, like just getting everything so good.
+
+Marley Barrett: Yeah, it's that's gotta be good before you go make calls and stuff too.
+
+Unknown: Get you energize.
+
+Unknown: Well, dude, that was a pretty quick, like, hour and a half. Yeah. Awesome.
+
+Unknown: Okay.Good luck helping your dad.
+
+Unknown: I'll text you and I take a look at this stuff tonight.
+
+Marley Barrett: Yeah.Let me know any feedback.
+
+Unknown: I mean, we can always filter more because it seems like at least we're generating a decent list just from even like a couple days of scraping.
+
+Unknown: So it's it's uh we can always be stricter, right?
+
+Unknown: Yeah.Totally.
+
+Unknown: Okay.Alright, take care, dude.
+
+Unknown: You too.
+
+Unknown: See ya.
+
+Unknown: What's up?
+
+Unknown: Well, it's not the battery strip, so I'm using the start.
+
+Unknown: You can hit the starter with a hammer.
