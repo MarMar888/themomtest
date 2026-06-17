@@ -143,3 +143,123 @@ In other words: hypotheticals are the result of a flubbed attempt at pre-product
 # its a balance
 In fact, an obsession with running “100% perfect conversations” can be its own source of bias. I sometimes see founders so obsessed with avoiding Bad Data that they end up running a timid, clinical sort of conversation that gets stuck on the level of superficialities. As a result, they end up with no Bad Data, but no Good Data either.
 
+# generalizations cont. 
+When you hear a generalization, you should do three things:
+
+Be suspicious
+
+Get a concrete example or story
+
+Identify the counter-examples, edge-cases, and exceptions
+
+# counterexamples
+
+Imagine that you’re asking a customer about how they handle their email, and they respond with a generic claim:
+
+Them: “I just stay at Inbox Zero.” A generic claim, implying that they’ve no problems whatsoever around email.
+
+You: “Has there ever been a time when it got really out of control?” Scanning for possible counter-examples, edge cases, and failure points.
+
+Them: “Oh, yeah, of course. Sometimes life gets crazy.” This tells us that counter-examples do exist, but it’s still another generic answer.
+
+You: “Life gets crazy?” Mirroring to give them permission to keep going.
+
+Them: “Ug, like three weeks ago, I was traveling in the middle of nowhere and the internet at the hotel totally didn’t work. It took me like 10 days to get back on track.”
+
+💡 Rule of Thumb: Generalizations are Bad Data, but there’s Good Data hiding behind them.
+
+# THE HARDEST QUESTION
+Rob: “This is going to be a weird question, but can I ask why you’re even talking to us about this? Couldn’t you pretty easily just build all of this yourself?”
+
+## The key here
+**I used to flinch away from asking this sort of question, terrified that I might “lose the deal.” But over time, I’ve realized that if a deal can be “lost” by clarifying it, then it was never really there to begin with.** 
+
+In my experience, once you get the understanding right, a lot of the other stuff starts to take care of itself.
+
+
+
+
+# Framing, Getting and setting up questions (Start of part 2)
+
+Too impressive (frames the conversation as a polished pitch)
+
+Too formal (frames the conversation as a tedious survey)
+
+Too nebulous (frames the conversation as a waste of time)
+If your request sounds like you want to run an interview and treat them as a research subject, nobody will even bother to respond.
+
+The unspoken contract of every meeting is that both parties benefit.
+
+Here’s the key insight:
+
+People like to help entrepreneurs — but only when doing so draws on their unique expertise, insights, or experiences; and when the entrepreneur already has their shit together
+
+People like to talk about their top-of-mind goals, problems, and interests — but only when talking to someone equally interested and knowledgeable about it
+
+
+# How to talk to people
+Good Framing: VFWPA
+The framing I use has five key elements:
+
+Vision: You’re an entrepreneur trying to solve horrible problem X, usher in wonderful vision Y, or fix stagnant industry Z. (Don’t mention your product idea, only the vision; aim for a neutral description rather than a passionate pitch.)
+
+Flag: Clearly establish your intentions for the conversation by mentioning what stage you’re at and, if it’s true, that you don’t have anything to sell
+
+Weakness: Prove that you know what you need by highlighting the specific issue you’ve been struggling to figure out that they could help with. (This also reassures that you aren’t going to pitch or be annoyingly self-important, and that you aren’t a time-waster.)
+
+Pedestal: Put them on a pedestal by mentioning how much their specific experiences, in particular, could help. (This further shows you aren’t a time-waster, since you’ve done your research, and shows how they’re able to be uniquely valuable and not just an interchangeable source of commodity knowledge)
+
+Ask: Explicitly ask for what you want (e.g., their time, their willingness to tell you how they do things, etc.)
+
+Hey Pete, we’re a startup trying to make desk & office rental less of a pain for new businesses (vision).
+
+We’re still in development and aren’t trying to sell anything to you, but I was hoping you might be willing to help by sharing some of your expertise. (flag)
+
+We’ve got a good grip on the tenant side of things, but we’ve been struggling to wrap our heads around the landlord’s perspective, specifically on X and Y (weakness).
+
+I know you must have dealt with this quite a lot when you were running Z. (pedestal).
+
+Would you be willing to take 20 minutes to talk me through your approach to handling this stuff? It would be a huge help to us if so. (ask).
+
+# if warm into:
+ Tom (source of warm intro) connected us because you have some rather unique insight into what’s going on behind the scenes with X, and he mentioned that you could really help us out if you were willing to talk us through how you… (pedestal + implied flag)
+
+# in person
+We’ve been helping research labs with commercialization (vision) — we’re funded and have a couple products out, but I was hoping to talk about something different than the typical product pitch. (flag)
+
+We’ve just started focusing on X, which is a new area for us (weakness) and we could really benefit from just hearing some of your experiences from Y. (pedestal)
+
+Mind if I ask how you... (ask the first question)
+
+Whereas looking down and writing on a physical piece of paper somehow reads as paying more attention, not less. (If this seems hard to believe, just consider the difference between having a meeting with someone who is taking notes in a notebook vs. on their phone.)
+
+
+# the friendlies
+On a piece of paper, write down the type of customer you’d most like to learn from. Then make a list of specific names (ideally of people, but if not, then of companies).
+Then, re-rank that list not by importance or profitability, but by friendliness and approachability.
+The benefit of friendlies is that you no longer need to justify the value equation, which makes outreach and framing much, much easier:
+“Hey, I’m doing some research into X. Would you be willing to help me out by answering some questions about how you Y?”
+
+Plus, the first few conversations will often reveal that you need to change something fundamental in your customer segment or problem-space, so why not learn those early lessons without paying the overhead of convincing some stranger to give you their time?
+
+The example’s specificity makes it easy to disregard as an irreproducible one-off, which would be a mistake. Very often, you already have access to at least some of the people you need, but just haven’t yet learned how to look for them.
+
+_**** It’s absolutely amazing how many founders will stall themselves out for weeks or months by insisting on sending cold emails to strangers. **_**
+
+# if its hard
+💡 Representative Learning Segment: A subset of your target customer who is easier for you to reach and learn from, and who is representative of the broader segment.
+But you have to be honest with yourself about whether this convenient subset really is representative.
+
+💡 Who-Where Pair: The combination of a representative learning segment plus a concrete way to find them (whether physical or digital, and whether a specific place or a path of access).
+
+# its not just about more meetings
+In any case, the long-term optimization isn’t to scale to more meetings. It’s to skip the meeting altogether—and sidestep this whole issue—by integrating customer learning into your existing business activities. Which begins by Keeping it Casual.
+
+
+
+
+
+
+
+
+

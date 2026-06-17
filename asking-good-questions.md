@@ -270,3 +270,81 @@ Founders seem to think that if they’re sitting down with a potential customer,
 
 I didn’t go into this conversation above hoping to close a deal; I went into it hoping to better understand the person I was talking to. In my experience, once you get the understanding right, a lot of the other stuff starts to take care of itself.
  
+
+A little pathway guides
+Bad Data via Omission	Sounds like	Primary tool
+Off-topic	(solid insights about irrelevant topics)	Reset and refocus
+Early endings	(self-conscious about talking too much)	Permission to continue
+Generalizations	“I always / never / usually”	Explore edge cases
+
+there’s no need to keep asking different people a question that you already have the answer to. 
+
+Getting and Staying on Topic
+We’ve all been there: an hour-long conversation overflowing with incredible insights about completely the wrong thing. You wanted to talk to farmers about irrigation and drought insurance, but somehow ended up talking exclusively about their deep hatred for geese. It happens.
+
+The solution is a quick one-two punch:
+
+Interrupt and do a hard-reset of topic, and then…
+
+immediately return the focus onto the customer’s life
+
+The second step—refocus on them—is the important one. If you interrupt and then start talking, the interruption feels extremely rude, and people will disengage. But it turns out that people don’t actually perceive it as an interruption so long as the focus stays on them.
+
+I’ve seen so many founders waste time in customer conversations by being too passive, sitting there and diligently listening to whatever the customer wants to say.
+
+That’s wrong. The correct balance is for the conversation to remain focused on the customer, but constrained by your learning goals.
+
+Reset and refocus is your tool for doing so. Once you give it a try and it clicks, you’ll be startled by how trivially easy it is to steer a conversation precisely where you want it to go.
+
+# keep the talking longgggg
+It’s almost laughably simple: for the FBI, a “mirror” is when you repeat the last three words [...] of what someone has just said. Of the entirety of the FBI’s hostage negotiation skill set, mirroring is the closest one gets to a Jedi mind trick. Simple, and yet uncannily effective.
+
+By repeating back what people say, you trigger this mirroring instinct and your counterpart will inevitably elaborate on what was just said and sustain the process of connecting.
+
+That’s mirroring, and it works really well. Let’s return to the customer conversation I overheard in the cafe:
+
+Customer: “[...] pretty much the worst part of my day.”
+
+All the founder needed to do was mirror (repeat) the last few critical words:
+
+Founder: “The worst part of your day?” (*mirror)
+
+That’s literally it. And in pretty much every case, they’ll simply keep going. You can repeat that trick over and over whenever they’ve stopped themselves short, for as long as it proves useful.
+
+# the second way - labeling
+Let’s say that someone has gotten a bit worked up in the conversation, and shows a moment of authentic frustration or delight—a signal you’d love to learn more about—before bottling it back up to more socially acceptable levels. You might say:
+
+“This seems like something you care a lot about.” (labeling)
+
+Or:
+
+“Sounds like you’ve got a lot of personal experience with this.” (labeling)
+
+In many cases, that label will be enough to get them going—often by correcting your description and adding some much-needed nuance to it.
+
+# How to talk to people
+Good Framing: VFWPA
+The framing I use has five key elements:
+
+Vision: You’re an entrepreneur trying to solve horrible problem X, usher in wonderful vision Y, or fix stagnant industry Z. (Don’t mention your product idea, only the vision; aim for a neutral description rather than a passionate pitch.)
+
+Flag: Clearly establish your intentions for the conversation by mentioning what stage you’re at and, if it’s true, that you don’t have anything to sell
+
+Weakness: Prove that you know what you need by highlighting the specific issue you’ve been struggling to figure out that they could help with. (This also reassures that you aren’t going to pitch or be annoyingly self-important, and that you aren’t a time-waster.)
+
+Pedestal: Put them on a pedestal by mentioning how much their specific experiences, in particular, could help. (This further shows you aren’t a time-waster, since you’ve done your research, and shows how they’re able to be uniquely valuable and not just an interchangeable source of commodity knowledge)
+
+Ask: Explicitly ask for what you want (e.g., their time, their willingness to tell you how they do things, etc.)
+
+Hey Pete, we’re a startup trying to make desk & office rental less of a pain for new businesses (vision).
+
+We’re still in development and aren’t trying to sell anything to you, but I was hoping you might be willing to help by sharing some of your expertise. (flag)
+
+We’ve got a good grip on the tenant side of things, but we’ve been struggling to wrap our heads around the landlord’s perspective, specifically on X and Y (weakness).
+
+I know you must have dealt with this quite a lot when you were running Z. (pedestal).
+
+Would you be willing to take 20 minutes to talk me through your approach to handling this stuff? It would be a huge help to us if so. (ask).
+
+# if warm intro:
+Tom (source of warm intro) connected us because you have some rather unique insight into what’s going on behind the scenes with X, and he mentioned that you could really help us out if you were willing to talk us through how you… (pedestal + implied flag)

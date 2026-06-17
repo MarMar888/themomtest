@@ -3,6 +3,24 @@
 
 ---
 
+## Entry #14 -- Martin Lucas (account executive, Ramp -- outbound sales / lead gen)
+**Date:** 2026-06-17 | **Interviewer:** Marley | **Industry:** B2B software sales (outbound)
+**Full summary:** `outputs/transcript-summaries/2026-06-17-martin-lucas-briefs-lead-gen.md`
+**Format:** Text message exchange (ongoing -- fragment analyzed)
+
+**Top Mistakes:**
+- Conversation started as a pitch; Martin noticed ("Should've mom tested me!") and Marley never reset it
+- "I guess do you feel like you get a lot of duds right now or not really?" -- binary opinion question, never anchored to a specific story
+- Martin named response rate as his real bottleneck; Marley didn't catch it or follow up
+- Martin volunteered the exact contact accuracy pain Briefs claims to solve; it was never anchored to a specific instance
+- No commitment ask; conversation ended on a product question with no defined next step
+
+**Commitment Outcome:** None. Martin expressed curiosity but no trial was agreed to and no next step was defined.
+
+**Standout Signal:** Manual companies are easier to convert than Bill.com users -- confirmed directly by Martin from real call experience. New domain companies are likely to be manual, which indirectly supports the Briefs timing thesis. Key structural limit: Ramp's primary segment is mid-market, not new/small companies, making Martin a partial validator at best. Empirical test (batch of new domain construction leads given to Martin) is the remaining question.
+
+---
+
 ## Entry #13 -- Chuck, Bluebird (key account manager, retail/CPG brokerage)
 **Date:** 2026-06-12 | **Interviewer:** Marley | **Industry:** Retail brokerage (CPG)
 **Full summary:** `outputs/transcript-summaries/2026-06-12-chuck-bluebird-retail-catchup.md`
