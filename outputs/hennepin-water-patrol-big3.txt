@@ -1,0 +1,62 @@
+Big 3 Questions, Hennepin Water Patrol Call
+
+================================================================
+Q1. "Walk me through the last time you responded to something
+    serious on the water. What actually happened, start to finish?"
+================================================================
+
+Follow-up probes:
+
+  > "What time of day was that, and how long did the whole thing take?"
+    (anchors the story in real time, exposes pacing)
+
+  > "Who else was on scene, and who was running point?"
+    (surfaces the actual command structure, not the org chart version)
+
+  > "What were you doing in the first five minutes?"
+    (forces concrete action, blocks summary-mode answers)
+
+  > "If they pick a dramatic outlier:
+    "Got it. And what about the most recent call you ran,
+    even if it was routine?"
+    (pulls them back to representative, not legendary)
+
+
+================================================================
+Q2. "Was there any part of that response that didn't go the way
+    you expected?"
+================================================================
+
+Follow-up probes:
+
+  > "What did you end up doing when that happened?"
+    (reveals the workaround, which is where the real pain lives)
+
+  > "Has that come up before, or was it a one-off?"
+    (frequency check, separates pet peeve from real pattern)
+
+  > "What would it have looked like if it had gone right?"
+    (surfaces their mental model of the ideal without leading)
+
+  > "When was the last time something like that bit you?"
+    (past-tense anchor, avoids hypothetical complaint inflation)
+
+
+================================================================
+Q3. "Tell me about the last time multiple units had to coordinate
+    on something. Walk me through how it played out."
+================================================================
+
+Follow-up probes:
+
+  > "Who was on what channel, and how were you tracking who knew what?"
+    (gets at the actual information flow, not the protocol)
+
+  > "Was there a moment where someone was working off old info?"
+    (probes for the coordination failure without naming it)
+
+  > "Who made the call on [specific decision they mentioned]?"
+    (reveals decision authority in practice vs. on paper)
+
+  > "What's something you wish you'd known 10 minutes sooner?"
+    (surfaces the information gap that mattered most)

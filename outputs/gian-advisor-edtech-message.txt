@@ -1,0 +1,15 @@
+TO: Gian (advisor, built an edtech company, now at Anthropic)
+CONTEXT: Reaching out for advisor pattern-matching after exploring K-12 data infrastructure. Marley's instinct is to walk away. Wants Gian to confirm or name a corner she's missing.
+
+---
+
+Hey Gian,
+
+Read your edtech article. Tough pill to swallow, really liked it.
+
+I've spent the last few weeks talking to people in K-12, mostly around data infrastructure. The pains are real but feel medium across the board: incomplete reporting in EduClimber, manual Excel workarounds at the high school, new-student data sitting in Skyward attachments. None of it seems to clear the bar. Slow sales cycles, tight budgets, and the most acute pain (attendance outreach) already has a strong player in Edia.
+
+My instinct is to walk away from K-12 and look elsewhere. Curious if that matches what you'd expect, or if there's a corner I'm not seeing. Any words of wisdom?
+
+Cheers,
+Marley

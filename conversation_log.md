@@ -3,6 +3,46 @@
 
 ---
 
+## Entry #16 -- Hennepin County Water Patrol (Lieutenant)
+**Date:** 2026-06-18 | **Interviewer:** Marley | **Industry:** Law enforcement (water patrol)
+**Full summary:** `outputs/transcript-summaries/2026-06-18-hennepin-water-patrol.md`
+**Format:** In-person cold drop-in conversation (~22 min)
+
+**Confidentiality note:** Lieutenant requested staffing details not be made public. Repo moved to private after the conversation. Do not redistribute without re-consent.
+
+**Top Mistakes:**
+- Prepared Big 3 questions never asked; opened with "most common scenario you see on Tonka" (generic, category-list invite) instead of past-specific anchors
+- Asked "pain points?" directly -- Mom Test cardinal violation; lieutenant repeated it back in confusion
+- Revealed intent mid-conversation: "I'm looking for pain points for areas that I could go in and solve with software or technology" -- contaminated all subsequent responses
+- Staffing pain volunteered but never anchored to a specific uncovered shift or budget conversation
+- Closed with "that's basically all I had" -- no commitment ask, no intro request to recruitment owner
+
+**Commitment Outcome:** Zombie. Open invite for future calls, no number exchanged, no follow-up date, no intro offered to the recruitment owner he explicitly deflected to.
+
+**Standout Signal:** Type 2 customer signal: lieutenant doesn't believe software solves the named pain ("unless you can make a robot to do the job"). Tech budget is already maxed on hardware. The only positive software signal was "back office admin, yeah, yeah" pointing at incident-reporting territory already owned by Mark43, Axon, Tyler Technologies. Second vertical in two days (after K-12) producing high-quality information and zero advancement. Pattern is starting to look less like vertical-specific bad luck and more like a vertical-selection issue.
+
+---
+
+## Entry #15 -- Matt Breen, Minnetonka District -- In-Person Follow-Up
+**Date:** 2026-06-18 | **Interviewer:** Marley | **Industry:** K-12 public schools
+**Full summary:** `outputs/transcript-summaries/2026-06-18-breen-student-data-system.md`
+**Format:** In-person meeting at Breen's office (8:51 AM - 10:07 AM CDT)
+
+**Stage note:** Stage 2 (solution validation, evaluating Edia). Third in-depth conversation with Breen in the attendance/data thread.
+
+**Top Mistakes:**
+- Inserted the "$5 per pupil" cost framing from another conversation as if it were Breen's; he didn't push back but it was Marley's anchor, not his
+- Never asked the prepared destroy-your-business question about EduClimber July 1 attendance features
+- Accepted "I'll definitely text you" as a close without converting to a specific next step
+- Reference-district intro offered (Farmington) but Marley never locked it in with a specific ask
+- Stayed in solution-evaluation mode after Breen said "exactly what I'd build" about Edia; should have shifted immediately to "what does Edia miss" rather than continuing the broader walkthrough
+
+**Commitment Outcome:** Zombie close. "I'll definitely text you." No follow-up date, no calendar invite. Open action: Marley to follow up on Edia pricing and connect Breen with a reference district.
+
+**Standout Signal:** Breen said *"this is exactly what I'd build if I was to build something"* about Edia. This effectively disqualifies the K-12 attendance thesis as a near-term opportunity for Marley. Combined with Breen's own framing -- *"we've been so mediocre at this, we don't know what we don't have right now"* and *"automating always comes last"* -- the timing, the competitive landscape, and the budget ceiling all point the same direction. Fourth K-12 conversation in the log with zero commitment outcomes; the disqualification pattern is now confirmed.
+
+---
+
 ## Entry #14 -- Martin Lucas (account executive, Ramp -- outbound sales / lead gen)
 **Date:** 2026-06-17 | **Interviewer:** Marley | **Industry:** B2B software sales (outbound)
 **Full summary:** `outputs/transcript-summaries/2026-06-17-martin-lucas-briefs-lead-gen.md`

@@ -207,6 +207,10 @@
 "Would it be useful to show you what we're thinking about building and get your honest reaction? We could come back next week."
 *Why: Asks for time commitment. Yes → real interest. "Let us know when you have something" → zombie.*
 
+**Q-CC-03** | `[commitment] [intro-request] [deflection-response]`
+"You mentioned [X] handles that. Would you mind sending me their contact info?"
+*Why: When the customer deflects ownership of a problem to someone else, the intro request is the entire commitment test in one move. Willingness to spend social capital separates real interest from polite information-sharing. Approved 2026-06-18 after the Hennepin Water Patrol conversation, where the lieutenant deflected recruitment to "separate staff" and the intro was never asked.*
+
 ---
 
 ## The Destroy-Your-Business Question
@@ -243,4 +247,19 @@
 
 ---
 
-*Question count: 48 | Last updated: 2026-06-12*
+---
+
+## Law Enforcement & Water Patrol Operations
+*(approved 2026-06-18)*
+
+**Q-LE-01** | `[problem-validation] [law-enforcement] [staffing] [past-specific]`
+"Walk me through the last shift where you were uncovered or way understaffed. What actually happened, and what got dropped?"
+*Why: Hennepin Water Patrol lieutenant volunteered "one and a half deputies are working" as the normal staffing reality. Headcount complaints are abstract; specific operational consequences expose whether the pain has real downstream cost or has been absorbed into normal operations.*
+
+**Q-LE-02** | `[problem-validation] [law-enforcement] [budget] [past-specific]`
+"When you ask the sheriff for an extra deputy and get denied, what's the actual conversation? Is it dollars, headcount cap, recruitment pipeline, or something else?"
+*Why: Staffing was named as the #1 pain but the budgetary mechanism behind it was never explored. Without knowing the actual blocker, "we need more people" is just a complaint, not a problem with a price.*
+
+---
+
+*Question count: 51 | Last updated: 2026-06-18*

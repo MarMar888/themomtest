@@ -1,0 +1,1161 @@
+Student data system evaluation
+==============================
+Date: June 18, 2026
+Time: 8:51 AM – 10:07 AM CDT
+Location: 5621 CR-101, Minnetonka, MN 55345
+
+
+OVERVIEW
+--------
+Marley met with a school district data/assessment administrator to discuss the district's educational data systems, attendance tracking challenges, and potential technology solutions. The administrator walked through their current workflows using Skyward, EduClimber, and various manual processes for tracking attendance, interventions, and new student data onboarding. They explored Edia as a potential solution for attendance communication and intervention management, and discussed broader challenges with EdTech costs, data integration, and building teacher engagement with analytics tools.
+
+
+ATMOSPHERE
+----------
+Collaborative and exploratory — both parties were openly troubleshooting system limitations, sharing frustrations with manual workarounds, and brainstorming improvements. There's mutual respect for the complexity of district data needs and a pragmatic, "build scrappy first" mindset.
+
+
+KEY TAKEAWAYS
+-------------
+  - Attendance tracking is a major pain point: The district lacks CIS-reported rate data in EduClimber, forcing manual workarounds. Full-day rates are misleading when tardies count against them, and period-level tracking is inconsistently implemented across buildings.
+  - High school has the most advanced (but still flawed) system: A clerical staffer built a color-coded dashboard with alert thresholds (4, 7, 10 unexcused periods), but it's described as "not what you'd want to carry into the mid-21st century."
+  - Edia is under evaluation for attendance communication: The administrator watched Edia's testimonial and likes the proactive messaging, reply tracking, and counselor alert features. Marley raised concerns about whether it handles the full intervention workflow when families don't respond. Cost is unknown but suspected to be high.
+  - New student data onboarding is broken: Only ~65 of ~200 expected new families completed a data collection form. Incoming student records often live as attachments in Skyward profiles, requiring manual escalation when teachers raise concerns. The district is piloting summer reading assessments for data gaps.
+  - EduClimber usage is growing but uneven: The district pays $71K–$80K for 11,000 licenses but estimates only using $30K–$45K worth of functionality. Renewed FastBridge for 3 years, EduClimber for only 1 year due to leadership skepticism.
+  - Marley's cost sensitivity: Marley noted that in EdTech, "anything over $5 per pupil is a no-go" for many districts, and referenced prior experience with Infinite Campus pricing discussions.
+  - Data request bottlenecks: Hardest internal requests involve incomplete data profiles (new students, multilingual learners, longitudinal tracking). The district lacks good systems for multi-year student tracking, especially when students leave and re-enroll.
+  - Teacher engagement with data is a cultural challenge: The administrator wants teachers to review individual student growth trajectories and pass context to next year's teachers, but this isn't currently an expectation. There's interest in clustering students by growth patterns (coasters, stars, climbers, etc.) to make data more actionable.
+  - NWEA MAP preferred over FastBridge: The administrator values MAP's conditional growth index and district-normed comparisons, despite its $14.50/pupil cost. FastBridge is distrusted for growth metrics, though used for reading/math screeners.
+
+
+ACTION ITEMS
+------------
+  → Marley to follow up on Edia pricing and connect the administrator with a reference district (possibly Farmington, though location unconfirmed)
+  → Administrator to investigate whether Edia can manage full intervention workflow including human escalation when families don't respond
+  → Marley to text the administrator with additional information
+  → Administrator continuing to build out summer attendance rate dashboards and explore growth clustering/classification in EduClimber
+
+
+TRANSCRIPT
+----------
+Unknown: Just like a center of oh shoot, now what is it?
+
+Unknown: Um academic research and educational if it's inst institution or but but uh they uh um provide you have so much paper in here. Yes.
+
+Unknown: They prov yeah, I just a whole year's worth of stuff.
+
+Unknown: I keep it around and I'm like all of a sudden it's like, Oh, we need Dir's reporting stuff.
+
+Unknown: It's like, Oh, I've got that right here.
+
+Unknown: We need NWA numbers, I've got that right here.
+
+Unknown: Let me just quickly say you mind if I record this, so I don't have to take as diligent of notes?
+
+Unknown: That's no problem.
+
+Unknown: I just don't know.
+
+Unknown: I uh I think it'll be noteworthy.
+
+Unknown: Based on how much paper you have over here, you got a good photo over here, too.
+
+Unknown: Is this this?
+
+Unknown: Yes, I I've been this whole year, so my predecessor in this office just had like decorations up here.
+
+Unknown: Yeah, but I do so much more with the reframe of the job so much more with like data on my screen.
+
+Unknown: Yeah, but I want to have a TV up there.
+
+Unknown: Yeah, so I brought it up for my boss earlier in the year, and she's like, Yeah, you shouldn't do that, and then it just kind of went away, and I just didn't bring it up again.
+
+Unknown: Yeah, now that there's something where I'll bring it up again.
+
+Unknown: So, once I I've been meaning to either hang that up there or get a TV there, and then TV would be super nice.
+
+Unknown: Yeah, it's just, I just, a lot of times, people will be rolling their chair up and stuff.
+
+Unknown: Yeah, I'm sure, yeah. Um. Okay. Um, all right.
+
+Unknown: I was watching the I watched the testimonial on the EDIA this morning.
+
+Unknown: That's, I, um, we were I was also in a conversation with my um assistant we were talking about, like in our an edge of climber.
+
+Unknown: Um, actually, it's not showing up there.
+
+Unknown: Is that 'cause they're doing more stuff now, it sounds like, for edge climber.
+
+Unknown: And so, what we get when we look at our attendance in EduClimber, yeah, so we get full-day rate, you know, essentially they can't have any marks on it.
+
+Unknown: Now, even if a student is tardy, though, it counts against that full-day rate.
+
+Unknown: So, it's like, you know, there are certain students who they showed up at 801 at the high school, and all of a sudden they don't get a full day.
+
+Unknown: So it's misleading in that sense, right?
+
+Unknown: So, what CIS reported rate is supposed to do is it's supposed actually essentially aggregate what percent of the day a student.
+
+Unknown: So, it's hard to know it's tricky, because teachers don't put in that the student was two minutes late or four minutes late or anything like that.
+
+Unknown: So, it's a little, it's an exact science, but that's what that is.
+
+Unknown: And then period rate is what percent of periods a student was there for.
+
+Unknown: And so, each one of these, each one of our buildings then has a number of listed periods.
+
+Unknown: So, for a long time this year, we didn't have two listed here.
+
+Unknown: So, like there's just some things about our edge of climber use that are incomplete report.
+
+Unknown: And yep, and we're, you know, we've worked to refine that a lot, especially around incidents and attendance this year, but still have ways to go.
+
+Unknown: I even I sent an email over to Tech this morning about that cis-reported rate because we were just advised in one of our little PDE sessions.
+
+Unknown: I just like every three weeks I meet with Renaissance who loves both Fast Bridge and Educlimber.
+
+Unknown: Oh, I didn't know Renaissance on those.
+
+Unknown: Yeah, okay.
+
+Unknown: So, we a lot of times we've been meeting about like interventions because that's another big piece of what we've been trying to build this year like academic and SEL interventions.
+
+Unknown: Um, but then they're like, as we talk about that, they're like, Oh, your sister reported rate isn't in there, and it's clear the other districts probably use that as their main driver for intervention and then for general attendance assessment.
+
+Unknown: Because when you look at our main page, first of all, I hate how they do the scale, makes it look so misleading.
+
+Unknown: But, like, so you, you know, we have our period rate and our full day rate, and if you dig into it, you know, it gives you certain things by building.
+
+Unknown: We don't have, you know, some of these buildings that don't do attendance the same way.
+
+Unknown: By grades.
+
+Unknown: Yeah.Oh, yeah, you can see a dip at the high school level month.
+
+Unknown: Yeah, and how much it what happens here, you know, obviously seniors.
+
+Unknown: And this orange one is the one that we're working on.
+
+Unknown: Obviously, it's just showing 100 across the board.
+
+Unknown: Wow.Yeah.
+
+Unknown: Now, this here like obviously there's something that's wrong in the system with that for and that's there is a um with this one there's another factor about um when people enroll here they fill out their race for skyward but if somebody's has one parent who's asian and one parent who's black yeah might not fill out asian or black and they leave a blank so then my assistant tries to catch those and then she'll put them in as multiracial but multiracial is not an option for state testing race and for federal testing race two or more races is one of the races so i've actually i'm have elevated to my boss into our executive director of human resources like in my mind we should switch everything to state testing just keep it in line it has a hierarchy of like you know then you don't have the whole ethnicity piece of white not hispanic and stuff like that too because that's confusing yeah because then this one technically is zero students this one is zero students yeah um this one is you know 8, 000 students so and then you know you can look at the students and their rates so one thing I want to do this summer is build out more around like these either full day or period rates and like achievement of standardized assessments.
+
+Unknown: 'Cause right now 'cause that's what we were talking about.
+
+Unknown: Right now we just don't have that.
+
+Unknown: We have that that teeth on the parent instruction.
+
+Unknown: Yeah, so and then gender and our you know, where our biggest concern is 20.
+
+Unknown: Yeah.Now th the full day attendance rate concerns me there, but the period attendance rate is what is probably happening is these students, a lot of them have absences or they have a bunch of tardies.
+
+Unknown: Yep.And then that would be district-wide right there because I recognize like this isn't an elementary student and then some it seems like a lot of it is bucketing to like you're taking a data and you're clustering them into what type of intervention they need.
+
+Unknown: 'Cause having twenty tardies is very different than having 20 absences.
+
+Unknown: Exactly.And they both need different solutions and need attention in different ways, but it's very different ways.
+
+Unknown: Yep, exactly.
+
+Unknown: And this is what the high school uses is so they actually have a clerical position over there, and so she had partially built this, and then I helped her like just with some of the formulas.
+
+Unknown: Yeah.But what she'll do is she will go in, I think, every day now.
+
+Unknown: She used to do it weekly, and I think she switched it to daily.
+
+Unknown: She pulls a report from Skyward.
+
+Unknown: And I can show you that side of it here, too, but she pulls a report from Skyward and then basically pastes it in here for each period.
+
+Unknown: Oh my gosh. Yeah.
+
+Unknown: For all six periods of Perry Arcade.
+
+Unknown: Perry Archive.
+
+Unknown: Yeah.And then these cells all get called into, you know, different spots here.
+
+Unknown: So then I got in the master, take a student name off at least, it will, you know, gives the count for each period.
+
+Unknown: The big thing is like unexcused alerts.
+
+Unknown: You know, like that's what the biggest ahead item is for for the system principals at the high school.
+
+Unknown: So if a student, you know, gets to the yellow is like their first round of is a Ford unexcused for a period, then seven, then ten for any individual period.
+
+Unknown: And ten is supposed to be you get dropped.
+
+Unknown: You know, like that used to be very prevalent, and then it went away for a long time, and now it's coming back.
+
+Unknown: Why?Because I remember it wasn't around when I was. Yes. Yeah.
+
+Unknown: Which is probably good. Yes.
+
+Unknown: Because I was in high school.
+
+Unknown: Yeah.Oh my gosh.
+
+Unknown: And so then, you know, then obviously it gives the like how many red alerts they have in the unexcused area.
+
+Unknown: And then they keep each on their own dashboard.
+
+Unknown: They have their own notes of, like, okay, I talk to parent, you know, okay, so this is where the reporting is happening right now.
+
+Unknown: Yeah.Yep.
+
+Unknown: And the high school is definitely the most, like, they're the furthest along, and obviously have the most skin in the game in terms of attendance.
+
+Unknown: You know, elementaries aren't even really remotely in this area, in general, at least.
+
+Unknown: MME, I showed that dashboard earlier this year to one of the MME APs, and so they did create one for MME, and you know, so they have a similar deal where they will do that.
+
+Unknown: But again, these are all kind of one-offs right now.
+
+Unknown: Talk about systems.
+
+Unknown: Yeah, yeah.
+
+Unknown: High school has now established theirs over a few years, but it's still, you know, as you can see, it's just not, it it wouldn't be the one that you'd want to carry into the yeah into the mid-21st century.
+
+Unknown: Skyward is the most.
+
+Unknown: I love how they call it data mining.
+
+Unknown: That is hilarious.
+
+Unknown: Yes, yes.
+
+Unknown: Does that seem a little overstatement?
+
+Unknown: It feels like it feels like I'm looking at a spreadsheet, not data mining.
+
+Unknown: Yep.Yep.
+
+Unknown: So then, so this will take a long time to run, and I'll just show you, give you a sense of what I have to do.
+
+Unknown: This will take a long time?
+
+Unknown: Yes.I mean, it'll take a couple minutes.
+
+Unknown: Okay.So, what it's doing now is it's pulling it out.
+
+Unknown: This is maybe about three years ago.
+
+Unknown: I started running this for Jeff Erickson, because I hadn't really looked at this before.
+
+Unknown: And Edge of Climber has helped a little bit because even though I still don't fully trust those rates, at least you can get a glance at a general idea of like, okay, the students' attendance is pretty poor, or the student's fine, whatever.
+
+Unknown: But when Jeff he'll be curious, like you know, quarter to quarter, year to year, semester to semester.
+
+Unknown: How are we doing?
+
+Unknown: Where are our absences like?
+
+Unknown: Yeah.And so, and that's something, I mean, you should be able to ask query assistance.
+
+Unknown: Query.Yeah.
+
+Unknown: Yeah, query assistant.
+
+Unknown: Top five.
+
+Unknown: Just to, yeah.
+
+Unknown: You know, n equals whatever.
+
+Unknown: I want to see these at the top n. Yes. Yeah.
+
+Unknown: Like who's, you know, because, you know, some of them it's maybe you teach a bunch of seniors who are, you know, and it's a kids who don't necessarily care about school that much, or maybe you teach class and kids think your class sucks and so they're trying to skip, or whatever.
+
+Unknown: So, so that's kind of, you know, in general, and again, some of the nuances of the plan that's more Annalise and Annie, the other one that we've referenced a couple times.
+
+Unknown: But these are the resources that we have, and again, I think part of it, you know, we talked on the phone the other day about these attendance review meetings needing to happen, but clearly part of our concern is how to get that attendance in a nice, clean, easy-to-review way to those teams.
+
+Unknown: And then how do we action on that, but then also how do we action globally to try and just improve attendance?
+
+Unknown: And saving your time. Yes.
+
+Unknown: That's what it seems like is going to be tough as well. Yeah.
+
+Unknown: So this is.
+
+Unknown: I'm just going to save this actually because I'll use this later in the
+
+Unknown: next general data mining report that I use, and you can see it runs all these periods side by side.
+
+Unknown: Well, I want to have like what period it is, you know, and then I want to pivot table and stuff.
+
+Unknown: So literally, what I do is I'll put a bunch of X's here and I'll put a bunch of X's here.
+
+Unknown: And you might look at this and say, I know a much quicker way of doing this.
+
+Unknown: No, I think I know what you're doing.
+
+Unknown: You're just trying to go with that. Yeah.
+
+Unknown: So I can ultimately just do the attendance parts.
+
+Unknown: But I have to start by essentially doing this six times over.
+
+Unknown: And then I delete columns for each one. Yeah. Yep.
+
+Unknown: Now, if we go to Infinite Campus for a student information system, my understanding is that it does a lot of the stuff back.
+
+Unknown: Yeah, that's what I've heard.
+
+Unknown: We might be able to.
+
+Unknown: Are you thinking about it?
+
+Unknown: The most likely is that we go to Skyward Cumulative, which is just the newer version of this already.
+
+Unknown: Yeah.Our finance department's already migrated over to that.
+
+Unknown: They did this spring.
+
+Unknown: I don't know the cost comparison, but I think Skyward Cumulative is a lot cheaper than Infinite Campus.
+
+Unknown: So it's a matter of where we want to, you know.
+
+Marley Barrett: Yeah, I wonder what Infinite Campus is per pupil.
+
+Unknown: Yeah.Yeah, it's.
+
+Marley Barrett: Because I remember talking a lot about that when we were, you know, in the Edeca.
+
+Unknown: I was like, what's the number?
+
+Unknown: And he's like, anything over $5 per pupil is high.
+
+Unknown: Really high.
+
+Unknown: And we just paid we're gonna pay $14. 50 a pupil for an MWA test.
+
+Unknown: What?Yeah. $14. 50?
+
+Unknown: Why?It it's it's interesting because like these are all the assessment plans for all of our neighbors, like Diana, Eastern Carbon.
+
+Unknown: None of them give in every A.
+
+Unknown: But we use it still because our advanced learning uses it so much and we get so much enrollment for open enrollment for advanced learning.
+
+Unknown: So but I mean there's got to be other advanced learning options.
+
+Unknown: Yeah, and you know we we pay for Fastbridge which has reading and math assessments as well but it's just it's not it's trusted right now.
+
+Unknown: Really?Yeah.
+
+Unknown: Cool because the cool thing and I to be honest I really loved NWA because it challenged it brought me to my level.
+
+Unknown: Yeah.Like I got to go work and be in the 9th percentile.
+
+Unknown: Right.And CAs or whatever they're called.
+
+Unknown: Yeah.I didn't care about.
+
+Unknown: I'm you.
+
+Unknown: And the growth metric I use, I like even in these meetings yesterday, I spend way more time talking about Map Growth, NWA, than than like fast bridge stuff.
+
+Unknown: Yeah.Because it has this conditional growth index for student 205 written the fall you're a third grader.
+
+Unknown: How do you compare to other 205 third graders?
+
+Unknown: Like I just like that idea.
+
+Unknown: Apple sales.
+
+Unknown: Yep.They did change the test now, so now it gives you more on-grade level questions.
+
+Unknown: Oh.So there you go.
+
+Unknown: Just right in the face of what you like.
+
+Unknown: Obviously you can still work up, right?
+
+Unknown: Yeah.And we actually have to still use the, so they have new norms with it, and we actually have to still use the old norms because we had so many students whose percentiles went way up with the new test and new norms.
+
+Unknown: Like some like.
+
+Unknown: I mean, yeah, 'cause our math is insane.
+
+Unknown: And then works on our MCA rate.
+
+Unknown: Proficiency rates don't show that, but at the end of grade level, but yeah.
+
+Unknown: Interesting.Okay. Okay. Yeah.
+
+Unknown: So how does how do you feel Edia fits for you guys today?
+
+Unknown: Based on what you don't, I don't have a complete answer to that because I don't know all of our the real specific of our systems, but what I liked is I I do like the number one in the video when they show the dashboards, you know, how many messages have been sent, how many have been replied to.
+
+Unknown: I thought it was interesting, like even when they referenced like a girl who was absent because she got getting bullied by girls and things like that.
+
+Unknown: Well, because it's casual for people to see. Yes.
+
+Unknown: And and I think the fact that you are that the notes like that, that quick interaction is going to get people, obviously, there's more engagement with it, but then there can be you know that more engagement just is more informative even though it might be in shorter shots.
+
+Unknown: Yeah.You can get to this deeper story if you need to, but you, the fact that you're getting alerted to the story.
+
+Unknown: This is an area that we, you know, I remember saying this is an area we need to get to. Yeah. Yeah.
+
+Unknown: And so, like, having this built out in this format, you know, and I was having counselors to track it. Yeah. Yep.
+
+Unknown: And I think we can, you know, we could do something like this in EduClamer.
+
+Unknown: It's just nice to have it be like if the front, the forward facing is right there already.
+
+Unknown: Yeah.You know, front and center.
+
+Unknown: This one, I didn't notice this until right now.
+
+Unknown: That's an interesting one.
+
+Unknown: When they referenced in the video Farmington, you don't know if that's Farmington, Minnesota.
+
+Unknown: I don't, it's not.
+
+Unknown: I checked.
+
+Unknown: Yeah.Yeah, I was going to, because I was literally going to reach out to them, too.
+
+Unknown: Yeah, yeah.
+
+Unknown: I assumed it probably.
+
+Unknown: But I'm sure they would give you a school to reach out to. Yeah.
+
+Unknown: I'm trying to tell, I'm just saying, like, I literally looked at this.
+
+Unknown: I was like, oh my gosh, this is exactly what I'd build if I was to build something.
+
+Unknown: Have you looked at the cost of this?
+
+Unknown: No, there's nothing online.
+
+Unknown: I think it's going to be pretty high. Yeah.
+
+Unknown: What I'm guessing.
+
+Unknown: Yeah.Yeah. Um, 'cause it would be interesting to even start it at a pilot school or something like that.
+
+Unknown: Yeah, for sure.
+
+Unknown: There's farming tonight.
+
+Unknown: Yeah, I mean, there's a lot of big districts on it.
+
+Unknown: That's what I was surprised by.
+
+Unknown: I mean, they went to some of the big like Chicago, I think, or like San Francisco.
+
+Unknown: Did you look into any of their stats that they claim?
+
+Marley Barrett: No, it wasn't really like, you couldn't really audit it. Yeah.
+
+Unknown: A lot of people talked about they, when I went on to like Reddit or like other places where people were talking about the system, they are more referencing the math solution, so they didn't really talk about the auto-attendance as much. Yeah. Yeah.
+
+Unknown: I mean, I think it's, I think right now, like the, like, where we seem to be in the process is building out a little more of the what we're going to do for 26, 27, and then realizing for 27, 28, okay, what are our blind spots?
+
+Unknown: Is it resource?
+
+Unknown: Yeah.This sort of resource, or is it human resource in terms of like, okay, we're we need to make it a priority to meet more often, we need to make it a priority to get these, you know, to get a counselor in for these conversations or whatever.
+
+Unknown: And so I think that's the unknown right now.
+
+Unknown: Because we've been so mediocre at it, that we don't know what we don't have right now.
+
+Unknown: Yeah, and I mean, that's fair too, because to me it's like automating always comes last.
+
+Unknown: Yeah, yeah.
+
+Unknown: Like, try it out, do it as scrappy as possible.
+
+Unknown: Yep.Have people say, I like what we're doing, it's not sustainable.
+
+Unknown: Yeah.You know, because then you then say, okay, the system's in place.
+
+Unknown: Yeah, the system behind the.
+
+Unknown: Yep, yep.
+
+Unknown: Now we know what needs to happen to be more efficient.
+
+Unknown: Yeah.Yeah, it's interesting.
+
+Unknown: That's, you know, whether we go here or here.
+
+Unknown: It's nice.
+
+Unknown: And of course this is uh more fully related if we needed that.
+
+Unknown: Uh I do wonder how much it is. Yeah.
+
+Marley Barrett: The cost prohibitive is really uh, you know, at least when I'm looking for problems to solve, it's it's a big push away for the ed tech industry.
+
+Unknown: Yeah.Yeah.
+
+Marley Barrett: Like anything anything over $5 for people as a no-go is like, oh gosh. Yeah. Yeah.
+
+Unknown: You've got to get how restrictive fucking is.
+
+Unknown: And then, yes, to be it to be a profitable company.
+
+Unknown: The um, the part that like one thing that I think about is you know, so much of educational funding is where what the source of the funding has to be yeah.
+
+Unknown: Oh, interesting.
+
+Unknown: Yeah.And so I don't, I would assume that you're like $25, 000 of our EduClimber costs come out of our tech side of tech, and then the rest is come out of yeah.
+
+Unknown: That comes out of s per people.
+
+Unknown: Our assessment.
+
+Unknown: Our assessment, okay.
+
+Unknown: Is your funding per pupil split up in a certain way?
+
+Unknown: Like, is it like allocated to different budget codes based on you know, you you get paid thirteen thousand dollars for each student that's in district to come here?
+
+Unknown: You have kind of a trying to recall now this is, I had a class on this, and it's, you have kind of a baseline number, you know, that's for all students, and then there's like supplementary dollars.
+
+Unknown: Okay.And in the supplementary dollars, we get screwed, you know, fairly enough.
+
+Unknown: Like, it's because we aren't rural, because we aren't low income to a certain percent.
+
+Unknown: So that's where we reduce lunch.
+
+Unknown: Like, yeah, we get it from out of our regular so we we get it from two big areas.
+
+Unknown: One, we, because you know, especially because of open enrollment, we just get our regular general fund dollars get kind of maxed out because we can max out our buildings.
+
+Unknown: And that's from the state, too.
+
+Unknown: Yeah, with some federal subsidy stuff and some, you know, some special education dollars and stuff that are federal.
+
+Unknown: Um, and then um and then we have, you know, maxed out all of our community asks, you know, levies, referendums, and we've got, it's been maxed out for years, and we've tried to get they have a cap on it, we've tried to get that cap removed.
+
+Unknown: A state cap?
+
+Unknown: Yeah.Okay. Yeah. Um, equity that they don't want one district to be able to get a yes for twice as much money as any other district.
+
+Unknown: Yeah.And so that's where we're willing to up it by 10% probably.
+
+Unknown: And but we can't.
+
+Unknown: We're not allowed to.
+
+Unknown: And I think Dr. Peterson and Superintendent Law both pushed for that, um, to no avail, you know.
+
+Unknown: So we get the tech tech to be able to spread out some of that, and obviously that supports all the one-to-one iPad usage and things like that, but it's um but ultimately it's just funding is so weird.
+
+Unknown: Yeah.Like I was talking to somebody the other day, and I think we maybe even talked about this: the idea that we have money in our budget right now to like replace the turf at Veterans Field.
+
+Unknown: We want to have money in our budget to add turf at MME, like to go grass to turf, we don't have money for that, but to go turf to turf, it's just how the it's classified, yeah, it's like the new auto building at the high school, it was funded completely differently if it was attached to Pagel.
+
+Unknown: Oh my gosh. Yeah.
+
+Unknown: So, like, you know, there's that cell phone tower.
+
+Unknown: They basically built around the cell phone tower so that they could have a door to Pagel.
+
+Unknown: That's never used, but yeah.
+
+Unknown: Interesting.So, neither here nor there, but really quick back to this, is there anything that you think this a solution like this misses?
+
+Unknown: Or I think the part that I just I I haven't dug in enough on is, okay, so this is the proactive, you know, that front and center communication.
+
+Unknown: Yeah.And you have the interventions built in, so obviously there needs to be that complementary process of creating and establishing and who and everything on those interventions.
+
+Unknown: That broader communication, you know, that's about an individual absence, but is about reaching a certain number.
+
+Unknown: Does that automate through there to then two?
+
+Unknown: Or how does that work?
+
+Unknown: With, like, so a student now gets to that's what I don't know. Yeah.
+
+Marley Barrett: Because that's what I was going to say, I feel like it would potentially miss on.
+
+Unknown: Yeah, so I think about like, you know, if the cell I feel like would be, can this handle all parts of the process?
+
+Unknown: Yeah, it's got to cover it all.
+
+Unknown: Like, obviously, there has to be a human element to run interventions and check in and check out and so forth, but that's one thing I'm curious about: you know, if it can manage that.
+
+Unknown: And then how you know, obviously if people don't respond, then I, you know, how the humans get involved.
+
+Unknown: Like, I'd be curious to your point about getting connected with one of these districts.
+
+Unknown: It's like, okay, so the text message is sent, you don't get a response.
+
+Unknown: How do you manage that?
+
+Unknown: If it does do the broader piece, and a text message is sent and you don't a response, it alerts you, or a counselor gets an email, something has to happen.
+
+Unknown: That's the work that gives the.
+
+Unknown: That.This is Brad Burnham.
+
+Unknown: Yep.And this is mine. Yep.
+
+Unknown: That talk about, you know, like he had nine students with ten plus days absent.
+
+Unknown: Okay.Or ten plus uh periods absent between May 1st and June 10th.
+
+Unknown: You know, it's like this puts it on their radar for them, which is part of the whole thing that we're trying to do with our counselors: get stuff put on their radar, right?
+
+Unknown: And so, um, like, would idea idea, would they, um, you know, do they do something that way where if something isn't fulfilled, we know what to do. Yeah. Yeah, and is it a counselor kind of yeah, what stakeholders does it touch, yeah, really?
+
+Marley Barrett: Yeah, besides people like you.
+
+Unknown: I kind of want to pivot to a different, just more general question of like I guess what data requests come in often that are really hard to do.
+
+Unknown: The, I would say, and are you talking about like from the public or from our internal?
+
+Unknown: Probably internal more. Yeah. Internally, I would say the biggest is the hardest to do.
+
+Unknown: I think it's a lot of things that get nuanced about like ML, multilingual, um that like just um it's students who have unique backgrounds, you know, new to the district, new to the, like, where, you know, some of it is just like their data profile is incomplete, but it gets to be, you know, like we have so many general data files.
+
+Unknown: You know, we talk about being hoarders, not shredders, that we can, most everything that we get, you know, some of it might be by erase, some of it might be by building or by grade or something like that.
+
+Unknown: Like, we, everything is built out to be able to aggregate and filter as needed for the most part.
+
+Unknown: But, like, our biggest issues come with incomplete data profiles.
+
+Unknown: Um, and then EF
+
+Unknown: incomplete data profiles, is it mostly new students?
+
+Unknown: Mostly, yeah.
+
+Unknown: Mostly students coming in sixth or ninth grade as the biggest.
+
+Marley Barrett: Is there a pretty big onboarding flow they go through?
+
+Unknown: Not much at all, no, and so what we added this year is we had MME, MMW, and the high school send out a note to, so we got a list of students who had been approved for enrollment as of May 1st, and then we compiled like built a letter and a form for new families to complete.
+
+Unknown: Nice.And so they send this note, and so what we have is basically they either have to complete this form and it and they upload standardized test data from their current district.
+
+Unknown: Nice.And that is most of the time, it's shared, anyways, but there are times that it's not, and it does live, like there's a spot that it lives in Skyward that's really inefficient because you got to go into the student's profile, click in these attachments.
+
+Unknown: Yeah.It's, you know, it's like something's attached to an email basically.
+
+Unknown: And so it doesn't get, we, it's tough because we don't want to put it into our like Edge of Climber because when we run our data, we don't want it to run data that they had from another school, you know, so it's a it just kind of sits in a weird spot.
+
+Unknown: Interesting.Intentionally, almost, you know.
+
+Unknown: If they do not have that data, then we ask them to come in and take a reading assessment in July, which we haven't done historically.
+
+Unknown: This would be our first year doing that. Wow. Part of this came from the CAPTI read basics assessment because our plan right now, like for students at the high school, because there's so little standardized testing, we had to try and kind of build our own criteria for students to have to take this CAPD.
+
+Unknown: So, like, for fourth and fifth grade, it's basically like they're some risk and inaccurate, or they're high risk on a CBM, on the little, you know, reading passages.
+
+Unknown: Middle school, largely the same.
+
+Unknown: We bring in a little bit more.
+
+Unknown: High school, we had to do this.
+
+Unknown: Where we had to basically try and, you know, rule kids out almost one by one. Yeah.
+
+Unknown: So we'd, you know, basically pull all this and then just kind of red out students, you know, rule them out as we did this, and so you're not really supposed to use grades because it's supposed to be standardized.
+
+Unknown: And so, but we had like 650 students still having to take it, and that's way too high of a number for our high school.
+
+Unknown: Um, and it's just logistically would be such a pain. Yeah.
+
+Unknown: And so we used grades, and it got it down to like 180.
+
+Unknown: So they still had to administer this um character characteristics of dyslexia diagnostic to 180 students, which you know is essentially seeing, like, did they never, have they never um established foundational reading skills, you know, and so um so when so many of these students that got down to here were just because we didn't have data on them, you know, so so when we get data requests, I would say more often than not, they are the internal data requests.
+
+Unknown: People know what data we have, and so they are, for the most part, pretty straightforward.
+
+Unknown: Okay, um, the reason ML is a little different is: number one, you know, naturally it can be a little more transient of a population.
+
+Unknown: Yeah.There are some pieces where students opt out of weeda access testing, you know, which is how they get um exited from ML.
+
+Unknown: The um and then, you know, probably the next group is like a lot of those real longitudinal ones, like, we ran um, you know, like 1th grade immersion back to their third grade start of English instruction.
+
+Unknown: You know, so that can be kind of a pain because Edge of Climber doesn't pull that really well because, like, if a student leaves the district, it doesn't up their grade.
+
+Unknown: Um, you know, you need to make sure that that student is still in immersion and there's always an immersion, like, just some of those weird one-offs.
+
+Unknown: So, we don't, I wouldn't say we have a great system for those real long-term ones without having to, like, smell it.
+
+Unknown: Long-term, yeah, yeah.
+
+Unknown: Um, and I think you know, EdgeConger will get better at that, but we want to put in a certain number of years, and then obviously, the COVID data was something that we just kind of try to avoid.
+
+Unknown: Okay, there's such a component.
+
+Unknown: Yeah, I'm sure you're excited for one that no longer exists and you're there by window, yeah, yeah, yeah.
+
+Unknown: Um, if we get external requests, do you get external requests periodically?
+
+Unknown: I got a few running on, like, like I had one where somebody came and asked about our scores pre and post iPads, oh, okay, um, and if we've run research on those, yeah, um, and that's fair, yep, and it's interesting because I was kind of advised to respond with: we report our data to the school board, you know, because we haven't run an official study, I would say.
+
+Unknown: You know, we've obviously tracked our scores, and if they had gone way down or something, then it might be impactful, but and they probably haven't gone materially up since then.
+
+Unknown: And about a month ago, we were at a school board study session, and that person that dad spoke at it.
+
+Unknown: Yeah, like I emailed the director of assessment and he said, We would just report the data to the school board.
+
+Unknown: So, he kind of took a run at the idea that we didn't provide that data. Yeah.
+
+Unknown: And then, every once in a while, you know, this is now really tangential, we'll get like research requests, and those are tricky people doing doctoral work and things like that.
+
+Unknown: Yeah, and student data, I tried to kind of manage those on my own at first, and now I realized, okay, I just have to go to our general counsel for those because I need that. Yeah.
+
+Unknown: Yeah, exactly.
+
+Unknown: But those aren't really important.
+
+Unknown: No, no.
+
+Unknown: But I would say new students one, ML two, longitudinal three.
+
+Unknown: And how is the engagement on that form with new students and new families?
+
+Unknown: Um not great.
+
+Unknown: Not great.
+
+Unknown: So the I've gotten some who struggled with the form and just have emailed me so I keep a folder.
+
+Unknown: I have emails in here, but so this has some, but but like the part that is interesting or that I haven't really processed out yet, and I will hear over the next week or two, probably in the next week, is the idea that you like some of this, like this is the ops assistant over at MMW giving me the data, which I need it for one purpose, but I my purpose is really CAPT-centric.
+
+Unknown: Yeah, most of it is for them so that they know how to place.
+
+Unknown: Yeah.So it's like the people who filled out the form, I um I shared the back end of this with our assistant principals who help with scheduling at the middle school and high school.
+
+Unknown: In the high school with reading and math.
+
+Unknown: And so, you know, so there's 48 responses on here, but we're probably talking, you know, between this 48 and the emails, there's maybe 65, and we should have about 200.
+
+Unknown: Okay, 65 is 200.
+
+Unknown: So, and you're having to create a custom plan for all these people, basically.
+
+Unknown: In theory, yes.
+
+Unknown: Like, there would be at some point, like, if, and I haven't even thought through exactly how this would work, but, like, when we start to determine who has to complete the CAPTI next year, we will try to kind of highlight: are they new to the district?
+
+Unknown: And then in middle school, they will have a fall assessment at that point, but if that fall assessment is not at benchmark, then I what I should be doing is going back, seeing if I have data from the student, were they at benchmark in fifth grade, and then we can consider that a yeah, they don't need to complete the cap D.
+
+Unknown: And a lot, is a lot of this like batch, or are you like looking at an individual student and then this would be an individual student, yeah, yeah, um, even if it were done the regular way, which is you know, um, new students get their data sent over by Benel St. Margaret's to our either our registrar or to our um you know to that building typically.
+
+Unknown: They put it in new attachments on Skyward, um, and then it still just lives there, yeah.
+
+Unknown: You know, so I think the reality is we have not had a need to do any real broad-spectrum reviews of new student data.
+
+Unknown: You know, certainly in individual cases, students being evaluated for special education, or, you know, um, student got placed into an honors course and or signed up for AP English at the high school, and you might look at that and say, and teachers, most teachers in our district probably don't even know that exists.
+
+Unknown: So it would be like a teacher brought a concern to somebody, like an assistant principal.
+
+Unknown: Assistant principal looked in to a student Skyward profile.
+
+Unknown: Wow, that's a lot of steps.
+
+Unknown: Yes.I mean, you're basically escalating students and flagging.
+
+Unknown: Yeah, and when you are in a district that has so many new students with widely varying profiles, you know, some are thirty five, thirty-six ACTs, and some are 16 ACTs.
+
+Unknown: Years ago, I looked at our ACT scores by in-district versus out-of-district, our old enrolled, and our in-district students were roughly a bell curve.
+
+Unknown: Our open enrolled students were basically bi-modal.
+
+Unknown: Completely makes sense.
+
+Unknown: This kid's smart.
+
+Unknown: Yep.Yep. Yeah. Come for Navigator or whatever it happens to be.
+
+Unknown: So this, this right here, so this student that I'm on right here, um, here's attachments.
+
+Unknown: And so this is all internal.
+
+Unknown: But if this were a new student, then there would be something that says, like, you know, assessment file. Yeah. 202.
+
+Unknown: And EduClimber doesn't have a way to manage like new students.
+
+Unknown: No, the best way would be like you can add attachments here, but it's still that data is not living there.
+
+Unknown: Like, what we're image.
+
+Unknown: Yep.Like, what we would have to do probably is create our own new upload builds where it would be like open enrolled NWA. Yeah.
+
+Unknown: And then it would be our own test. Yeah.
+
+Unknown: And that might be more fourteen students or something like that for. Yeah.
+
+Unknown: And then at that point, it doesn't matter.
+
+Unknown: Yeah.Yeah.
+
+Unknown: But I think you know, back to the idea of this new student piece, like this is, you know, first time we've done it, active.
+
+Unknown: We have just a handful of students right now who are signed up to assess a lot of ways.
+
+Unknown: Like one, I don't know yet how this workflow will be.
+
+Unknown: I just know, and as you can see, it's not the best way yet. Yeah. Yeah, that's why you're here.
+
+Unknown: And I think it's, but it's also like, you know, there probably is some best way that I have no idea.
+
+Unknown: And but also like, okay, here's our restrictions with Skyward or with Edge of Climber or even with Infinite Campus or whatever it happens to be.
+
+Unknown: You know, like, what's the best way to try and make it integrate into our current data without having it influence our current data in terms of reviewing our own informal scores and stuff like that?
+
+Unknown: So, yeah.
+
+Unknown: Interesting.Yeah.
+
+Unknown: Is there any software, like just like broadly across the board you've looked to try to help you improve systems?
+
+Unknown: No, I wouldn't say so.
+
+Unknown: The only thing I've done is when I started last fall, my boss had a lot of skepticism about sticking with Etcha Clamour.
+
+Unknown: Like she was looking at replacements.
+
+Unknown: Interesting.Yeah, and even when we renewed our contract here this spring.
+
+Marley Barrett: Is EdgiClamer Minnesota only?
+
+Unknown: No, no. Started in Wisconsin.
+
+Unknown: Okay.And then it's um but it has schools nationally but we renewed so you know the Renaissance owning both Fastbridge and Educler we renewed Fastbridge for a three-year regrowth and Educlimber only for a one-year renewal because I think she still needs convincing and there are I did talk to some people who there were some people who helped in the early stages of EdgeClimb who have since broken off and have a cheaper version that some people really like.
+
+Unknown: How much is EduClaimer?
+
+Unknown: Um it is a question, I forget um and how much was um Infinite Campus gonna be I don't know how much Infinite Campus is actually.
+
+Unknown: Um like 80K?
+
+Unknown: Yeah, so seventy one to eighty for eleven thousand licenses.
+
+Unknown: So Wow.
+
+Unknown: Per year. Yeah. Okay. Yeah, and so uh and I don't know.
+
+Unknown: I'm actually I was trying to even think about what the name of the spit the uh edge climber break off was, but like I think it would be a mistake right now for us to leave Edge of Climber.
+
+Unknown: Really?We are getting and I told her, I said at the beginning of the year I thought it was a C, and now I believe it's an A minus.
+
+Unknown: And in part, because we're getting people to use it and to, like, what it is, is like because we're building interventions in there, it's getting people to think more about our MTSS process.
+
+Unknown: It's, you know, because it's just sticky.
+
+Unknown: Yep, because we're just hard time reviewing data.
+
+Unknown: It's you know, it's getting people to be like yesterday at that meeting, was, I thought, the most engaged I've ever seen, and again, in a short time, people like across the board with the idea of looking at our data and, like, Clear Springs wants to be such a relief.
+
+Unknown: Yes, they want me to come to a September staff meeting to talk about building a collection in EduClimber that has a data wall for math, a data wall for literacy, and a data wall for SEL for that each teacher would build.
+
+Unknown: You know, like, and that's part of part of the value of EduClimber.
+
+Unknown: Like, what I would say is, you know, of the 71, 000, we've been using 30, 000.
+
+Unknown: And maybe now it's 45, 000.
+
+Unknown: You know, we still have a lot more things in there, but it's still not widely used.
+
+Unknown: And I said to my boss yesterday, I said, We have 10% of people who are never going to use it. 10% of people who already are all in on it, and it's a matter of what we do with these people, right?
+
+Unknown: And if we can get these people this way, then these people look like they're the ones that are really not doing the work with it, and then that moves everything along.
+
+Unknown: But it's we get like even in creating interventions, like you know, we go out to the building and work with them to build them, and most people collect, but it's like people should also be reviewing their data regularly and because without a trigger from you, yes, exactly.
+
+Unknown: And so it does send you emails, but but it sends you an email for every student individually, and some people think, oh, that's too much.
+
+Unknown: And so I said, if that's too many, get it once a month, or get it before, you know, one of them we did like four weeks before conferences, so I said, get it the week before conferences so you can talk about it.
+
+Unknown: You know, and that's, you know, like if it's just a spot that lives in a, you know, if it's a static use versus if it's an active use, you know, that's the um so I think it's progressing, and our our numbers are way up, but there's obviously there's still plenty of areas that we just need to maximize the value of.
+
+Unknown: Yeah, for sure.
+
+Unknown: And I at one point I thought, you know, everybody would, I hope everybody opens School of G Skyward, it had to climber every morning, but that's not the reality of it either.
+
+Unknown: Like, EdgeClimber doesn't need to be opened every morning.
+
+Unknown: Yeah.It needs to be utilized.
+
+Unknown: It's reporting.
+
+Marley Barrett: Yeah.It's you're not engaging for analytics.
+
+Unknown: Um, attendance.
+
+Unknown: Okay.And the impact.
+
+Unknown: Yep.Yep.
+
+Unknown: That's a uh um I think um I think part of the reason that we have so many blind spots with it is because we just haven't elevated it.
+
+Unknown: You know, like the high school has elevated it in maybe not the most efficient way, but they've elevated it.
+
+Unknown: And so it's become better, not great, better.
+
+Unknown: You know, it was way better before the pandemic, then when everything got so Schoology-centric and students realized, well, I can miss it, I'll just look at what I missed on Schoology and things like that.
+
+Unknown: Like, it just gave so much more permission to be in class, and so you know, absences were here, then they went to here, and now they've gone to, yeah, it's not here, even close to it.
+
+Unknown: So I think that's that's a big part.
+
+Unknown: Um, and then I think um another part is just looking you know, when I talk about the longitudinal part, I was talking multi-years, but even just looking one year.
+
+Unknown: Like how someone moves, yeah, interesting, yeah.
+
+Unknown: Um, you know, so what we try to do in these you know, in these is we do a lot of, um, like um you know, started the year, not on tracks, ended the year, not on tracks.
+
+Unknown: So, try to do a lot of kind of pre-post for teams.
+
+Unknown: Um, and so I think the one is to try and provide the global, but then how do we get teams, you know, whether it's a PLC or individual teachers, a grade level, or whatever it is, how do we get them to be curious enough to say, okay, I'm a first-grade English teacher.
+
+Unknown: I had, well, thankfully, zero there, but I had three students who were not on track to not on track.
+
+Unknown: Did those students grow or not?
+
+Unknown: You know, what did I provide?
+
+Unknown: And then, of course, you know, certain cases of special education, multilingual learner, you know, other factors that might be impactful to their learning.
+
+Unknown: Do they get reading intervention, math intervention, those sorts of things?
+
+Unknown: But that's the, you know, there's the: are you zooming in on these individuals?
+
+Unknown: Because, like, as a building, as a district, we're going to look at these.
+
+Unknown: We're not going to look at how Johnny Anderson is doing.
+
+Unknown: Yeah, you have to, otherwise, you're. Yes. Yeah.
+
+Unknown: Well, you look at it, and if you're this first-grade teacher and say, you know, Johnny Anderson, or let's just say one of these yes-to-no's, this student I had, you know, are you humble enough for one to say, these two students I had were on track in the fall and they were on track in the spring.
+
+Unknown: Yeah.Here's what I noticed.
+
+Unknown: And tell the next year's teacher that.
+
+Unknown: You know, again, not asking you to spend a full day with that teacher, but you see that teacher in August and say, you see, you have Johnny Anderson this year.
+
+Unknown: Is that an expectation for them to pass on?
+
+Unknown: Okay.No. No.
+
+Unknown: What actually is used the most in terms of passing things along is when they create, you know, it's like the second-grade teachers work on the class arrangements for the next year. Yeah.
+
+Unknown: And they typically will give like energy points.
+
+Unknown: Energy points?
+
+Unknown: Yeah.Which is essentially trying to split the remunctious.
+
+Unknown: Oh, really?
+
+Unknown: Yeah.Yep.
+
+Unknown: And then academics, you know, they try not to have certain too many of certain oh my gosh, that's really funny.
+
+Unknown: But that's what we so like I spoke to the Deep Haven staff last fall about taking this because I have, you know, I have individual student data files, kind of like I was just doing one for Tonka Online here, but like, well, where I talk, you know, like I have their fall to spring risk and I have it just by student and so then you know I would talk to them about like look at your students who are like this isn't this terminology isn't real proper, but this was from Gemini.
+
+Unknown: Like the coasters, the stars, the cripples, and the climbers.
+
+Unknown: And, you know, what's the background you give?
+
+Unknown: Yep.Clustering.
+
+Unknown: Yeah.Yeah. Yep.
+
+Unknown: And then, you know, the idea is, you know, maybe there's two to three standouts in each one.
+
+Unknown: And it's, again, it's not necessarily about the stars, but it might be like this student was up in 99th.
+
+Unknown: Here's the extension activities I gave them to make sure that they continued to grow and that they weren't just poor. Yeah.
+
+Unknown: You know, these coasters.
+
+Marley Barrett: Which is huge.
+
+Unknown: That's huge. Yeah.
+
+Unknown: The student was at the 9th, they ended at the ninety eighth.
+
+Unknown: Still strong, but their conditional growth was they were two standard deviations below their peers.
+
+Unknown: And so I didn't do enough to give them opportunities to continue to grow.
+
+Unknown: Obviously, the big one is those climbers.
+
+Unknown: You know, like, what did you do that worked?
+
+Unknown: Yeah.That took a student from the tenth percentile to the twenty second percentile.
+
+Unknown: And you, but you could identify this through data, couldn't you?
+
+Unknown: Yeah.Like through this data.
+
+Unknown: Yes, yep.
+
+Unknown: And so what, like, on a um so, what I thought about doing with this is actually kind of like a color code. Yeah.
+
+Unknown: When I look at these students, let's just put in map reading here.
+
+Unknown: When I like I you have their conditional growth, so like these students, you know, this is students who grew the least during the course of the year.
+
+Unknown: Yep.Okay. Essentially.
+
+Unknown: Yeah.Yep.
+
+Unknown: And then for these students, you know, you take like this student right here.
+
+Unknown: It was a 227, 96 percentile, and they ended at a 210, 67th percentile.
+
+Unknown: Woo!You know, the story might be that kid came and didn't care about the test. Yeah.
+
+Unknown: The story might also be: I was noticing this all year long.
+
+Marley Barrett: Yeah, that's where you have to add teacher context.
+
+Unknown: Exactly.Yeah. Yeah. Versus, like, on the other end of this, this student right here, 152, 15th percentile, 193, 74th percentile.
+
+Unknown: Like, if we capitalize on what happened here, yeah, and make sure that next year, like, that's a missed opportunity.
+
+Unknown: And maybe something else has happened that's completely in the students because they were into that family or something.
+
+Unknown: But even if you get context around that, too, I mean, it's like, hey, if it didn't go to the teacher, then I send an email to the parent.
+
+Unknown: Oh, tutoring.
+
+Unknown: Okay.Yep, exactly.
+
+Unknown: Exactly.And that's still part of that story, right?
+
+Unknown: Like, Martha, that kid, you know, he started at the 15th, he got some tutoring.
+
+Unknown: You might want to just see continuing the tutoring.
+
+Unknown: You know, like that sort of thing.
+
+Unknown: Yeah.Is this something you can do in EdgieClimber?
+
+Unknown: What we could do is, so, like, we, um, my assistant did build, she built, uh, like for fluency, built these four box sort.
+
+Unknown: You know, so we have, like, comprehension group out of the box means you're like the 75th percentile and you're accurate.
+
+Unknown: Okay.Fluency means you're slow and accurate.
+
+Unknown: Air monitoring means you're fluent, but you're making mistakes reading words.
+
+Unknown: And then decoding means you're inaccurate and you're a slow reader.
+
+Unknown: So she built these as a side quest on all this.
+
+Unknown: You know, like pulled it out, filtered the data, and then built a CSV and uploaded it in.
+
+Unknown: This wasn't any data from any assessment, right?
+
+Unknown: Whereas, like, this data just automatically comes in, this data just automatically comes in.
+
+Unknown: But can you do like the clustering or classification?
+
+Unknown: That's what I, to your point, I do think about the idea of like, should we build an another set for literacy and another set for math that talks about um which of these four you know, and we could just call it you know low growth, low, whatever, you know, yeah.
+
+Marley Barrett: But classification boxes, yeah, whatever these holes.
+
+Unknown: Okay.Yeah, exactly.
+
+Unknown: Um, so it's an interesting thought, actually, because I even as we were talking, I was kind of regretting not doing a deal where I just pulled off school and student name and I D and just talked about because I did like what I did at Deep Haven when I was there, where I actually brought up some CGI values and some of these and kind of walked through the process that we were just talking about.
+
+Unknown: I guess would it how big uh how big of a deal is this as a whole in terms of like in the next year doing this growth and positioning?
+
+Unknown: Um, I think I would put it as medium, yeah, in the sense that nice to have, kind of, yep, and I think it's like walking alongside buildings in terms of how ready are teachers to embrace this?
+
+Unknown: Yeah.Is it like, are your teachers ready and feel like, okay, we need to start having these conversations more?
+
+Unknown: Or is this like, okay, you just got done giving me all this, and now you're giving me all this?
+
+Unknown: Like, when does it end?
+
+Unknown: Yeah, or even if this is just, yeah, I mean, they just, if they can just add comments to it afterwards, yeah, yeah, yeah, and you would be, you know, probably disappointed to hear teacher responses whenever you ask them to do something extra.
+
+Unknown: Yeah, it is.
+
+Unknown: It's more.
+
+Unknown: You say, No, I'm actually just asking for like two minutes like two minutes per student, I have 25 students.
+
+Unknown: Yeah, that sort of thing, that sort of thing.
+
+Unknown: This is an interesting one, especially, well, because if you can, you need to start at the bottom teacher and then show the next teacher that they're gonna get value from the previous teacher that did this, and then show the next leapfrog to show value, because I mean, it'll, I guess, I have talked to teachers too, but I'm assuming it's gonna accelerate their understanding of a classroom that they're getting the first month.
+
+Unknown: Yes, yes, and I think that's part of it: even if it's a single student, proof of concept, you know, where it's like, oh, that did, you know, I think even you know, in the first month, it gets chaotic with all the assessment and stuff like that, but if there is an opportunity to say, you know what, I'm actually going to start doing some focus group reading early on, and rather than wait until week six, yeah, I've gotten my data, had it aggregated by the district, and then reviewed it, I am going to actually get going in week two just to make sure.
+
+Unknown: It's like with our reading interventionists, we've kind of created a new pattern for their work, and part of it is you'll do an end-of-may data review so that you know who kind of like for three weeks in September, who should get the short shot before you get your fall data.
+
+Unknown: You know, it's kind of a same sort of deal.
+
+Unknown: Yeah, yeah, yeah. Okay. Knowing that, you know, in some cadences right now, we're over ten percent of the way through the school year by the time that student gets reading support.
+
+Unknown: Yeah.Which is really big. Yeah. Yeah. Interesting.
+
+Unknown: Yeah.No, this is cool because I like that it classifies the whole classifies what's working well and what's struggled within a given year.
+
+Unknown: And it's a feedback loop that teachers probably haven't experienced before, which is really tough.
+
+Unknown: And an area that we are still trying to build out more consistently is when we have this data, it's like if we run
+
+Unknown: a new like to be more mindful about tagging students.
+
+Unknown: Yeah.You know, what supports are they receiving?
+
+Unknown: And then this column is that they've an intervention.
+
+Unknown: Interesting.And so what, you know, like right now, I don't think we're consistent enough to be able to use this as a lever, like as we analyze the data.
+
+Unknown: But I want to be like, okay, our students in tier two.
+
+Unknown: So, and then I'll
+
+Unknown: I'll definitely text you.
+
+Unknown: Sounds good.
+
+Unknown: I love it.
+
+Unknown: I'll walk out with you.
+
+Unknown: I have a teacher coming in, but I don't know if he's got any busy guy.
+
+Unknown: Oh, hello.
+
+Unknown: Wow, landscaping?
+
+Unknown: All manual labor.
+
+Unknown: He has an open invite to return to Tesla here whenever he wants to to run a team.
+
+Unknown: So which he did as a 20-year-old.
+
+Unknown: That's amazing.
+
+Unknown: He didn't have to highlight that.
+
+Unknown: I have uh the I've I've told that story to the people I've seen that we're out there just on a whim.
+
+Unknown: It is on a whim.
+
+Unknown: Thanks, Jake.
+
+Unknown: Thank you.
+
+Unknown: Good to see you.
+
+Unknown: Appreciate it.
+
+Unknown: Thank you.
+
+Unknown: Take care, John.
