@@ -161,6 +161,14 @@
 "Have you ever seriously considered switching your payment processor — and decided to stay? What made you stick?"
 *Why: WorldPay frustration is confirmed from two independent operators (Simms, Wash4Life), but neither surfaced whether operators feel locked in. Switching cost is the real market question for anything built in this space.*
 
+**Q-CW-07** | `[problem-validation] [car-wash] [have-they-searched] [systems] [multi-location]`
+"Has anyone actually tried moving their terminals onto a payment gateway like NMI or Datacap instead of relying on the processor's own portal? What did that migration actually look like?"
+*Why: A hardware distributor (forum reply, 2026-07-23) claims this is the real solution serious operators already use, real-time auths, webhooks, REST API. No operator has been asked whether they've tried it or why not.*
+
+**Q-CW-08** | `[problem-validation] [car-wash] [switching-cost] [tunnel] [past-specific]`
+"Is your tunnel wash's payment processor something you chose separately, or did it come bundled with your DRB/Sonny's equipment? Walk me through how that decision actually got made."
+*Why: The same distributor traced WorldPay lock-in on tunnels to the DRB/Sonny's equipment relationship, not an independent processor choice, reframing the real switching cost as an equipment-platform decision.*
+
 ---
 
 ## K-12 Education & Attendance Intervention
@@ -210,6 +218,10 @@
 **Q-CC-03** | `[commitment] [intro-request] [deflection-response]`
 "You mentioned [X] handles that. Would you mind sending me their contact info?"
 *Why: When the customer deflects ownership of a problem to someone else, the intro request is the entire commitment test in one move. Willingness to spend social capital separates real interest from polite information-sharing. Approved 2026-06-18 after the Hennepin Water Patrol conversation, where the lieutenant deflected recruitment to "separate staff" and the intro was never asked.*
+
+**Q-CC-04** | `[commitment] [intro-request] [timeline]`
+"Could you send that intro today, or is there a better day this week I should follow up if I haven't heard anything?"
+*Why: Converts a volunteered but open-ended intro offer into a scheduled commitment. Approved 2026-07-23 after Deputy Wilkerson offered an intro to Professional Standards with no timeline attached, the same gap that made the Water Patrol close a zombie.*
 
 ---
 
@@ -262,4 +274,50 @@
 
 ---
 
-*Question count: 51 | Last updated: 2026-06-18*
+## Law Enforcement Recruitment & HR Operations
+*(approved 2026-07-23, from Deputy Wilkerson / Hennepin County Sheriff's Office recruitment conversation)*
+
+**Q-LR-01** | `[problem-validation] [law-enforcement] [recruitment] [past-specific] [workflow]`
+"Walk me through the last candidate you personally recruited, from the day you first talked to them to the day you found out whether they got hired. What did you actually know at each step?"
+*Why: The funnel-breakage gap ("no system of record") was described in the abstract; this forces one concrete, traceable case instead of a general complaint.*
+
+**Q-LR-02** | `[problem-validation] [law-enforcement] [recruitment] [have-they-searched]`
+"Has anyone in Professional Standards or HR ever tried to build or buy a system to pass recruiter notes into the background investigation process? What happened with it?"
+*Why: Tests whether the confirmed "no system of record" gap has ever prompted an actual purchase attempt, aimed at the person who actually owns the pain.*
+
+**Q-LR-03** | `[problem-validation] [law-enforcement] [recruitment] [past-specific] [severity]`
+"Walk me through the last good candidate you know you lost track of after they applied online. What happened?"
+*Why: "Once I give them information and they apply online, that's where my communication with them ends" was never anchored to a specific lost candidate.*
+
+**Q-LR-04** | `[problem-validation] [law-enforcement] [systems] [past-specific]`
+"When you switched from Guardian Tracking to Axon, what actually drove that decision, and what was the hardest part of the transition?"
+*Why: A real system migration was mentioned in passing and never explored; migration stories reveal procurement behavior and switching cost.*
+
+---
+
+## IT/MSP & Independent Contractors
+*(approved 2026-07-23, from independent IT/MSP owner conversation, Appleton, WI)*
+
+**Q-IT-01** | `[problem-validation] [it-msp] [past-specific] [spending]`
+"You mentioned roughly a hundred hours of unbilled time over the years, when's the most recent week that happened, and what was going on that week?"
+*Why: The hundred-hours estimate is a real revenue-loss signal but was only ever given as a lifetime guess, never anchored to one specific, recent instance.*
+
+**Q-IT-02** | `[problem-validation] [it-msp] [past-specific] [severity] [compliance]`
+"Walk me through one specific time in the last year or two when sales tax classification confusion actually cost you real time or money, not just annoyance."
+*Why: The sales/use tax pain was vivid but stayed generic and recurring; a single dated incident would reveal the real dollar cost.*
+
+**Q-IT-03** | `[problem-validation] [it-msp] [switching-cost] [past-specific]`
+"Before you switched from QuickBooks to FreshBooks, what specifically pushed you to make that switch, and what would have to break for you to switch again today?"
+*Why: He has a documented switching history already; the real signal is the threshold that triggers another switch, not just current dissatisfaction.*
+
+**Q-IT-04** | `[problem-validation] [it-msp] [have-they-searched] [feature-motivation]`
+"Why haven't you built the independent-contractor app you described, really, what's actually stopped you so far?"
+*Why: His stated answer ("it's price") didn't actually explain why a self-described expert with the skills to build it hasn't started; the real blocker was never surfaced.*
+
+**Q-IT-05** | `[destroy-your-business] [it-msp] [willingness-to-pay]`
+"If a tool like this existed exactly as you described, at $30-40/month, what would have to be true for you to actually switch off FreshBooks tomorrow instead of just thinking it's a good idea?"
+*Why: "I'd buy that" is a classic hypothetical, future-tense statement; this forces a harder look at real switching behavior versus polite enthusiasm for a concept he helped shape.*
+
+---
+
+*Question count: 62 | Last updated: 2026-07-23*

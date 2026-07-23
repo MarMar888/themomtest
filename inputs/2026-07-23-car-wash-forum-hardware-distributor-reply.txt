@@ -1,0 +1,22 @@
+Source: Car Wash Forum — thread: "Multi-location payment reporting"
+Date: 2026-07-23
+Context: Reply from a forum user identifying as a hardware distributor ("we sell a lot of unattended terminals into this space") responding to Marley's anonymous discovery post about payment processing and back-office reporting in car wash operations.
+Interviewer: Marley (forum post, anonymous)
+
+--- ORIGINAL POST (our question) ---
+
+Who are you using for payment processing? Sounds like WorldPay and CryptoPay come up a lot. Are there real alternatives for unattended/tunnel operations?
+How do you actually pull reporting across multiple locations? Is there a dashboard that does it, or are you cobbling things together?
+What surprised you most about the payment/back-office side when you got in?
+
+--- HARDWARE DISTRIBUTOR REPLY ---
+
+Hardware distributor here, we sell a lot of unattended terminals into this space so I see how these setups shake out.
+
+Depends entirely on the setup tbh. Most tunnel washes are on DRB or Sonny's with Worldpay behind it, and in that world your daily numbers come out of the wash software, not the processor. Worldpay's portal is next day batch stuff. So yeah, the end of day thing you're hearing is accurate for that crowd.
+
+Self serve and vending are different. CryptoPay is all over self serve bays, Nayax and Cantaloupe basically own vending, and both give you actual real time dashboards since telemetry is their whole thing.
+
+CardMate is kind of a weird one to hear, thats an old activation system, I almost never see it anymore. Worldpay locking up tunnels is real though, mostly bc of the DRB relationship.
+
+API access from a processor as a small operator, forget it. If you want real time data across locations the move is putting the terminal on a gateway like NMI or Datacap. Portal shows auths as they happen, webhooks, REST API you can build on. Thats what the operators who actually care about their numbers do.

@@ -1,0 +1,421 @@
+Interviewer: Marley
+Context: Independent IT/MSP business owner, Appleton, WI area. Runs managed IT services for small-to-medium commercial clients (Appleton Harley-Davidson, Oshkosh City Cab and Cabulance since 2003), previously did residential repairs and forensics/court system work. Also founder of Fame Labs Inc (Delaware C Corp, building a niche dating app) and building an internal ERP for his own IT business. Connection made via Dario (mutual contact/mentor).
+Big 3 Goals: Understand the IT industry landscape and where things are headed; surface pain points independent/solo IT contractors experience running the business side; explore appetite for an "IT ERP for independent contractors" concept (billing, time tracking, sales tax compliance, AI-assisted diagnostics).
+
+[Transcript below]
+
+- Unknown: It's been an interesting discussion.
+- Unknown: I'm curious to see what he has to say about the other stream as well as the
+- Unknown: Here we are.
+- Unknown: Oh, can you hear me?
+- Unknown: Yeah.Oh, oh.
+- Unknown: There we go.
+- Unknown: There you go.
+- Unknown: Thanks for sitting down with me.
+- Unknown: Yeah, no problem.
+- Unknown: Sorry, I had a delay there.
+- Unknown: I'm on site with a customer that I had it on scheduled, so I'm just going up in their IT room.
+- Unknown: It's Appleton Harley-Davidson.
+- Unknown: Oh, nice.
+- Unknown: I set up their acts.
+- Unknown: Yeah, manage all their systems and stuff.
+- Unknown: They've got some nice red lights in there.
+- Unknown: I put those in there.
+- Unknown: It's actually for headaches.
+- Unknown: I get bad headaches otherwise.
+- Unknown: Oh.It allows me to stare at the screen forever, basically.
+- Unknown: Okay.Got it.
+- Unknown: That's smart.
+- Unknown: So I don't know exactly, I know Dario paired us up.
+- Unknown: I don't know exactly what you, like, what are you looking for?
+- Unknown: Yeah, I'm more just looking for your insight on the IT industry and kind of where things are headed and and kind of the pain points you may have had inside of it.
+- Marley: I was talking to him more about like structured cabling and all that stuff for data centers because it's a huge mess right now, and I was like talking to some people that were really having problems with just you know having knowledgeable people on site that understand how to bridge power and larger utilities coming in all the way down to structure cabling and just getting you know Ethernet and everything ran to different server boxes.
+- Unknown: Okay.And he just kind of said, oh, you should talk to this guy about it and you know, get your thoughts.
+- Marley: It looks like you've been in the IT business kind of independently for quite a while.
+- Unknown: Yeah, so in 203, I opened up my own first brick and mortar in Ashcroft, Wisconsin.
+- Unknown: Okay.I just turned out doing basic repairs and stuff back then.
+- Unknown: And then the first year is pretty grueling.
+- Unknown: You know, the first year, you're going to run into so many things that you've never heard of or seen before, and there's no answers.
+- Unknown: And you either pound your way through that and become successful, or you very easily could fall to it.
+- Unknown: Because there were some days where I had to stay up like two and a half, three days in a row, and just barely got things done on time because I didn't know how to balance everything yet. Yep.
+- Unknown: But yeah, so, anyways, then after a little while, I started doing the forensics and the court system and continuing my IT work.
+- Unknown: And then later on, in 2017, 2018, I got real sick of mers pneumonia and sepsis, and I almost died.
+- Unknown: And then after that, a lot of the, like, residential customers fell off, anyways, because they're kind of, they're more fickle.
+- Unknown: They go wherever, you know, they can get service right now. Yeah.
+- Marley: And is it one-off or is it less recurring than a commercial?
+- Unknown: Yes, yes.
+- Unknown: I mean, you still get a regular customer base out of residential, but it's that's why I switched over to the commercial side because there's not a lot of, there's not a lot of good resources for that.
+- Unknown: So someone does have the experience, you know, it's pretty sought after.
+- Unknown: Like I can, you know, I mean, I can compete with Geek Squad in one mini situation because I'm willing to figure out the hard problems.
+- Unknown: But then also, you get a much regular income out of it as an independent because they like Appleton Harley-Davidson here, they hire me, I'm a contracted employee, so they hire my business to act as their managed IT.
+- Unknown: Got it.
+- Unknown: And so you were originally residential, and then you, after you had the health issues, you kind of started doing more commercial, or just so?
+- Unknown: I already had the commercial, I just thought the residential kind of fall off.
+- Unknown: I kept a few people, like friends and stuff like that.
+- Unknown: But for the most part, I just kept the commercial ones that I already had.
+- Unknown: Because, I mean, 2003, I mean, I actually have a customer, Ashkash City Cab and Cabulance.
+- Unknown: They've been with me since 2003.
+- Unknown: Wow.So I've had them for 23 years.
+- Unknown: Jesus Christ.
+- Unknown: That's incredible.
+- Unknown: Congrats.So, like, if it would help me if I knew, like, what, like, what do you most want to know?
+- Unknown: Yeah.Or how I can help you.
+- Unknown: Yeah, I guess, um, could you tell me more about kind of like the most difficult part of the IT business for you in terms of as an independent.
+- Unknown: Oh, okay.
+- Unknown: Well, I don't the most I don't know, that's a tough one.
+- Unknown: 'Cause the the most difficult part you could easily say is like, I guess, the survival aspect of it is, you know, and you, there's nobody cutting you a check unless you do the work, and your reputation is everything.
+- Unknown: So if you show up and you don't do a good job, or you screw something up, or in some circumstances, it's not your fault, somebody else did something, or some other situation exists like somewhere else in the building that you weren't aware of, but it burnt up your equipment and they blame you.
+- Unknown: It can, it can affect the flow of business and not getting another referral from them, and maybe they tell people not to go to you and stuff like that.
+- Unknown: So you got to battle through that stuff.
+- Unknown: Solving problems that don't have clear solutions would be another one, too, because you really got to apply yourself, but then the customer needs things in a certain time frame and you kind of have to promise them that you'll put every effort into doing it and try to hit that mark really hard, but you don't really know what it takes to fix the problem when they ask you and when you agree to that. Yeah.
+- Unknown: So you better be either become really, really good at troubleshooting and figuring out any problem tests or find something else to do, sort of thing.
+- Unknown: Yeah.Interesting.
+- Unknown: I can tell you one of the biggest problems customers have in this industry is finding reliable people that show up every time and get reliable results every time, because a lot of people, even if you go to like Geek Squad or even like one of the bigger ones around Wisconsin, is called Milwaukee PC. Okay.
+- Unknown: Are you familiar?
+- Unknown: You said, are you going to say you're in Madison?
+- Unknown: Yeah, I go to Madison right now.
+- Unknown: I'm originally from Minnesota.
+- Unknown: So, like, our big one that I'm going to talk to someone about is like Loeffler.
+- Unknown: They'll do printing and IT kind of like, but they're a big managed service.
+- Unknown: Yeah, that's so it sounds like they're more like a like up here we have Heartland.
+- Unknown: Yeah.And it sounds like they're more like that.
+- Unknown: And that's nice because then you can have, like, if you find a good contractor, if you're one of those guys, you just hire them, you know, and tell them, hey, we're going to either subcontract you or just get on our staff, sort of thing.
+- Unknown: But, yeah, do you have any other area?
+- Unknown: Like, do you have any specific, like, you heard this and you're curious more about it?
+- Unknown: Yeah.I guess you went or how do you acquire new clients?
+- Unknown: I don't anymore.
+- Unknown: Okay.Okay, there's no, that's not a good answer.
+- Unknown: And so, yeah, I do actually, but in the so you're talking about like somebody who's independent and they're trying to grow the it depends on what market you're in, honestly.
+- Unknown: So when I started out in Oshkosh, I did have the, I guess, awareness to pick a look, a physical location that was on a busy corner and put a big sign in the window.
+- Unknown: And the, I'm a strong, strong believer in relationship-based business.
+- Unknown: Like, like, I don't, I'm not really into the, you know, feed-em-in, feed-em-out supply chain sort of thing.
+- Unknown: You know, like, you go to Walgreens and you're not even a person.
+- Unknown: Yeah.Yeah. Scale it up.
+- Unknown: Yeah, I don't like that.
+- Unknown: I'm a very big believer in like old school, good customer service, you know, actually you give a shit.
+- Unknown: So, well, especially in this business.
+- Unknown: Yeah, yeah, yeah, yeah, yeah, because they got to trust you with, like, they got to know that you're going to log into their server room and not think it's interesting to go fuck around in their data, you know?
+- Unknown: Yeah.They got to trust you with keys to the building.
+- Unknown: Like, I have keys to get to any room I want to in this gigantic building where there's a lot of sensitive information and documents, and they need to know that your rock is solid.
+- Unknown: But as far as growing, in the beginning, I would say don't waste any money on ads.
+- Unknown: Like, maybe, maybe if you're really good and you have somebody that you know personally has gotten results, like real results from doing online advertising, that's different.
+- Unknown: Like, if they know how to work that, but most of the time, if you just go to like some local person or even not a local person that does marketing, quote, marketing, they're going to just burn your money.
+- Unknown: That's all they're going to do because they don't know how to target people correctly.
+- Unknown: And it's difficult, too.
+- Unknown: Like, when I'm on Facebook, when you're on Facebook, when I'm on Facebook, you're on some other media app, you're not sitting there like, how many times does an ad pop up, and your brain just automatically spins faster?
+- Unknown: Yeah, I can, it detects easily.
+- Unknown: Yeah, yeah, so it's like you have that physical presence, yeah.
+- Unknown: And unless you know how to put like a digital ad in a place where they're actually looking for that, it's you're wasting your time and money.
+- Unknown: Um, the best way to do it is through relationships, and the way I define that is find business networking groups in your area.
+- Unknown: A lot of times there's the big ones, I forgot what they're called.
+- Unknown: Um, what do you know?
+- Unknown: Some of the, are you familiar some of the bigger business networking?
+- Unknown: You know, like they usually have one or two people from each industry, um, yeah, round tables.
+- Unknown: Yeah.Yeah.
+- Unknown: So it's a good idea to find a smaller one that's maybe not the biggest one in your area because they usually limit it to one per industry, and then you can get a very quick base of people who are thirsty for your services if they don't refer anybody to you, like they themselves have businesses that need your services.
+- Unknown: Interesting.So that's a good one: business networking events, specifically, like, I don't know what they called it, but Oshkosh every year would have their business thing at the convention center where you can get a booth.
+- Unknown: That's not a bad idea.
+- Unknown: Or just show up at business cards and talk to people.
+- Unknown: So those two things are the biggest.
+- Unknown: And then one thing I did is: if you have the right location, like I was on South Main Street when I first opened my doors, and so I literally just like, I didn't have any business at the beginning, nobody knew who I was or what I was doing or anything.
+- Unknown: I would lock the door during business hours because nobody was coming in, anyways.
+- Unknown: And I'd walk up and down Main Street after I, and I made like a small flyer, and I, but I introduced myself: like, hey, I'm your neighbor.
+- Unknown: I just started my business over there.
+- Unknown: And then they're more willing to talk to you.
+- Unknown: So, like, all, you know, it's all relationship.
+- Unknown: Yeah.Well, that's smart, though.
+- Unknown: I mean, you're right there.
+- Unknown: That's the way to do it.
+- Unknown: I honestly, like, build a relationship, be personal.
+- Unknown: Like, and that, that, okay, there you go.
+- Unknown: That that's one of the biggest problems in this space with people like me, like, the vendors themselves or the providers of the service, is there's very often a disconnect between their technical abilities and their people's skills.
+- Unknown: Yeah.That's a huge one.
+- Unknown: That's a huge handicap.
+- Unknown: If you don't have that natural, like and and I don't like sales, like, you know, like go to a car dealership and you know how they yeah, sales, sales.
+- Unknown: Yeah, I don't like that slimy crap, but if you have to have those instincts a little bit if you're going to open your business, how about the back office?
+- Marley: Like, is there a lot of an admin work on your end just to keep things operating, or does it feel pretty light?
+- Unknown: There shouldn't be, but the bureaucracies that power make sure that there is, for example, like one of my biggest pain in the ass that I don't want to deal with is the Wisconsin Department of Revenue for sales and use tags. Yeah.
+- Unknown: So like make goddamn sure you know what you need to like collect for sales tax, when you need to collect it.
+- Unknown: The rules are fuzy, by the way.
+- Marley: Yeah, I've experienced it in Minnesota actually.
+- Unknown: It's funny.
+- Unknown: Okay, okay, yeah.
+- Unknown: So it's the same kind of thing, probably, where they give you a vague set of rules where you could classify the same activity two different ways, and one's sales taxable and the one's not, and then it depends on what mood they're in that day if you have to deal with like facing them. Yep.
+- Unknown: So interesting.
+- Marley: And is that I'm just trying to understand, is that mostly because you're selling, you're right, you're you're implementing and selling hardware in addition to your labor as time, like things just get complicated if you do line by line or if you bulk.
+- Unknown: It gets very complicated because, like, if I build a custom script that diagnoses a problem, well, that's custom software.
+- Unknown: That's not sales taxable.
+- Unknown: But if I do service work on that same computer, maybe related to that same problem, but I have to do this, this, and that, well, that time technically is taxable.
+- Unknown: Yes.Yes.
+- Marley: This is the big thing.
+- Unknown: Yeah, it is very difficult to separate that if you have a really good system or if you're just smart in the first place and you get your language all sorted out, like have your, I don't know, just have everything worded so that it matches your one-to-one.
+- Unknown: Yeah, yeah.
+- Unknown: So it's like, oh, no, that activity was this and this and this.
+- Unknown: And, oh, those are the magic words that we need to hear.
+- Unknown: It's not self-sexable.
+- Unknown: And then, and then you stay off of their sales tax system altogether.
+- Unknown: That's probably the best way to do it.
+- Unknown: Once you're on the radar, like it is amazing where they find these creepy people that just like.
+- Unknown: Are you sure that's going to talk to us?
+- Unknown: And they show up all disheveled and things too.
+- Unknown: Like they don't, they don't do their hair or nothing.
+- Unknown: I have no idea.
+- Unknown: But they are not pleasant people to deal with and they seem to think everything is taxable until you prove them wrong, even if they know better.
+- Marley: Are there systems that you use today that help you with that?
+- Unknown: You know what?
+- Unknown: That's a empty, that's like a broken gap in today's small business, especially my services.
+- Unknown: So I use fresh books.
+- Unknown: Okay, yeah.
+- Unknown: I used to use QuickBooks.
+- Unknown: I use QuickBooks right now for my book.
+- Unknown: QuickBooks is nice because it's the standard.
+- Unknown: It got a little too expensive for me, and I didn't like the features it had at the time.
+- Unknown: They probably changed it, but no.
+- Unknown: It's still pricey.
+- Unknown: I wonder if you sorry what to say?
+- Unknown: Oh, sorry, I was just saying it's still pricey.
+- Unknown: Yeah.Oh, yeah, okay, yeah, I figured.
+- Unknown: So I switched to fresh books because it was like affordable.
+- Unknown: And in the beginning, when it first launched, it was really pretty great.
+- Unknown: But a couple years in, now they don't do updates anymore.
+- Unknown: Half of things are broken.
+- Unknown: My old logo shows up sometimes for no reason.
+- Unknown: And just like their database doesn't sync, so now I've got like all these dead transactions that are just in my phone, and I can't get them out.
+- Unknown: Oh, geez. Yeah.
+- Unknown: So I think they sold out to some kind of conglomerate.
+- Unknown: Like they had success and then they just, okay, we're selling.
+- Unknown: Yep.That's what it feels like, anyways.
+- Unknown: Yeah.And it's sticky, right?
+- Unknown: Your stuff's on there.
+- Unknown: Yeah, because all your records are in there, even though you don't want them in there, and they're not in there very cleanly.
+- Unknown: They're just, that's what they are.
+- Marley: Interesting.So, is there, are there any like specific IT-based accounting services out there?
+- Unknown: Do you know?
+- Unknown: Not that I'm aware of. Yeah.
+- Unknown: I've actually toyed with the idea of taking all the things that I've learned about the problems over the years and the things that it actually should be doing, and I kind of wanted to build like an independent contractor app. Yeah. Somebody could start a business and then you give them all the infrastructure that they would need to help them solve problems, show up on site, do this, do that, you know, even have little tips in there and help them track their time and billing and even the laws in their state.
+- Unknown: And then they just show up and fix the thing and they don't got to do much.
+- Unknown: And even does like the invoice and billing for them and stuff like that.
+- Unknown: And I was going to integrate, I wasn't going to, I didn't build anything yet, but I would integrate AI as well because I've got some pretty advanced problem engineering skills now, specifically with knowing how to get a dumb AI to become an expert real quick and give good answers on solving issues and writing scripts that actually get you diagnoses that you almost can't do in real life on your own without a lot of expert knowledge.
+- Unknown: Interesting.Yeah.
+- Unknown: So I've actually had an inkling to do that, but I haven't pulled the trigger on.
+- Unknown: Is it just price?
+- Unknown: Is it just good, you know, knowing you well and the personal just a little bit of that.
+- Unknown: I don't it's price.
+- Unknown: I price myself competitive with the other like major players around this area. Okay.
+- Unknown: And oh, that's one thing, too.
+- Unknown: That's a huge mistake.
+- Unknown: If you have, if you actually have these skills to show up and run your business and serve people, the biggest mistake you can make is to have low prices in the beginning.
+- Unknown: Yeah.Because people think that, oh no, I want to onboard people.
+- Unknown: So yeah, that's a big mistake.
+- Unknown: I'm sorry, what did you ask me before?
+- Marley: Like, just kind of individual contractors versus big man, larger managed versus there's few different reasons.
+- Unknown: The ones that you said is like rela relationship is a big one, knowing the person.
+- Unknown: For example, are you familiar with the company Gordon Flesh?
+- Unknown: No.So they manage, like, I don't know what they manage exactly.
+- Unknown: Like, built-in, like, like, printers and stuff like that.
+- Unknown: Yeah, they look exactly like Loffler for us.
+- Unknown: Okay, okay.
+- Unknown: Well, they suck at managing printers, and so I actually picked up.
+- Unknown: That's one thing that I do is I pick up business that these other larger ones, like it's just it's not a big enough account for them to care enough.
+- Unknown: Yeah, so like all their like A team is out on like the big job, and then like Apple and Harley-Davidson, well, they have like 30 or 40 printers, but it's not like their biggest customer.
+- Unknown: So they send out these dorks.
+- Unknown: I don't know how they get hired, that they don't know how to like replace the board correctly or bound it while they're doing it.
+- Unknown: And then things don't work, or they work worse when they leave.
+- Unknown: And so they fired them and actually put that responsibility into my boat.
+- Unknown: And I guess, so, like, that's kind of that niche that I'm in: is like small to medium-sized businesses, that's the larger companies, like they, they're they don't have enough time and resources to drill down on non-standard problems, I think I'd best put it.
+- Unknown: Um, they'll steal a customer from you and then they'll screw it up, and you'll be back with them after two or three months.
+- Unknown: Yeah, because they can get in the door and do it, they send their A-team up the first time, and then not after that.
+- Unknown: So, um, yeah, I would say finding that niche of like, where are people, which people aren't the service that they would like to at the level that they would like from what's available, like Geek Squad and all that kind of stuff?
+- Unknown: Like, like, GeekSquad, they can't come out and do many business things correctly.
+- Unknown: Um, and then, like, Heartland is like, I don't think I've ever seen them show up anywhere that I've been.
+- Marley: So, they must just service, I don't know who to fucking service, a lot of people, apparently, but yeah, I didn't even know Beth or Best, you know, Geek Squad had a commercial a large commercial base.
+- Unknown: They don't.
+- Unknown: They, they, I think they try to, I believe, I don't know, I think it was like seven or ten years ago, they tried it, and it didn't go well because they thought they could just upgrade their normal texts, and they just weren't up to it.
+- Unknown: Yeah, it's different from once you're out, once you're outside the confines of the comfortable Best Buy building, where every tool and resource you could ever want is like a phone call away, and you're just on your own out in the fields, it's lot different.
+- Unknown: Yeah, interesting.
+- Marley: Um, sorry, let me know if you have to go soon, but I'm kind of questioning how do you track time today?
+- Unknown: Um, honestly, like, I'm not the way that I should.
+- Unknown: Um, I just, because I'm own boss, sort of thing, I just like look at the clock and go, oh, yeah, I got here on time, or I got here 15 minutes late.
+- Unknown: So, I'll know ahead of time the day before when I'm going somewhere, unless it's an emergency.
+- Unknown: So, if I know I'm supposed to be there at like 2 p. m. and then, oh, I got here at 2: 15 because my last service call ran over, I just make a mental note.
+- Unknown: Now, what I should be doing is I should have, I should be taking advantage of like time management and fresh books.
+- Unknown: I'm a little, I'm one of those people that's a little bit like, yeah, I don't want them having all my data and things about my business so they can undermine me later and sell it and shit.
+- Unknown: Um, so like, I do a lot more in my head than I should, and it causes problems sometimes.
+- Unknown: There's probably over the span of the 23 years, I'm willing to bet you that there's at least a hundred hours of billable time that I forgot to type it in. Yeah.
+- Unknown: That's a lot, that's a lot, yeah, but it's the decision that I made along this keeps it casual, keeps it kinda yeah, it well it keeps my brain focused on the job because, like, I'm the more distractions I get, I have an ADHD brain, the more distractions I get, the poorer my performance is.
+- Unknown: Whereas, if I just ignore all that shit and do it the way that feels kind of natural, it's like path opens resistance for that side of things, well, then all of my mental facilities get poured into fixing the problem, and that's how I can perform so well.
+- Unknown: Yeah, no, that makes sense.
+- Unknown: Where do you see your business going?
+- Unknown: I don't know.
+- Unknown: Um, I mean, if you ask me, like, when I was like 206, three years in, oh, I want to, you know, expand to the next city and then take over the area, and then eventually the state, and you know, all that bullshit.
+- Unknown: But now, um, after getting sick, I really am more interested in keeping the foundation of it together, keep like really serving my clients well, like Apple and Harley-Davidson, Oshka City Cab, and those, you know, like my core clients, like, make sure that they're getting everything that they need and they're happy and not even considering looking anywhere else.
+- Unknown: Yeah, and then I'm expanding into other areas, like, for example, I'm a big fan.
+- Unknown: Are familiar with Cisco Meraki?
+- Unknown: Okay, I'm a huge fan of Cisco Meraki.
+- Unknown: I think it's a really good solution for small and medium businesses because it takes a lot of the IT work out of it.
+- Unknown: You know, like we just do it for you back end.
+- Unknown: So I've been a reseller for them for a while, and now I'm actually looking to automate the expansion of that.
+- Unknown: I'm trying to use agents.
+- Unknown: I've been getting into AI a lot lately and agentic stuff and you know, I code with Dario sometimes and play around with shit.
+- Unknown: So I'm trying to basically build out a sales team and a lead generation team in AI form that can go out and find people that are having trouble that might want Meraki as a solution, or they can't figure out how to renew it because they got to go find a reseller and basically grab them before somebody else does, and then funnel that into another revenue stream.
+- Unknown: So that, so now I'm trying to grow different verticals instead of trying to grow the base.
+- Unknown: Yep, interesting.
+- Unknown: Verticals that require not so much extra labor on my part because, you know, I have to go in for the sickness and all that stuff.
+- Unknown: And I'm what 46 now.
+- Unknown: It's like I can't just stay up all night anymore and it doesn't bother me.
+- Unknown: So I don't know. Yeah. Yeah.
+- Unknown: How do you know, Dario?
+- Unknown: Um, through his YouTube channel, actually, so originally.
+- Unknown: So, yeah, so like I was building, so I've got another thing that I'm working in called Fame, Fame Labs Incorporated.
+- Unknown: And that's my, it's a Delaware C Corp.
+- Unknown: And I'm trying to build out some social media apps that are focused between, like, I mean, you've heard of the term passport, bro, right?
+- Unknown: Where people go like different places to, you know, find love or something else.
+- Unknown: So, my wife and I have kind of found each other through one of those channels, and she's from the Philippines, and so I was gonna build out a dating app that focuses on that niche because the one that they have, that the biggest one out there, isn't very good.
+- Unknown: And so I was going to build that out.
+- Unknown: So that, I don't know what you asked me that I was supposed to tell you.
+- Unknown: Sorry.Oh, how'd you know, Dario?
+- Unknown: Thank you.
+- Unknown: So for the dating app, I wanted to have my own video chat integrated, and I couldn't afford to do it through a third-party provider because they sell you access, and it's like a drug dealer, it's like it's free to get 10, 000 daily active or monthly users, and then all of a sudden it becomes so expensive that they own your company basically because they're taking all your profits.
+- Unknown: Like all of them.
+- Unknown: I did the math, it's pretty rough.
+- Unknown: So I had to do it myself, and I wanted something fast and lightweight that I could build.
+- Unknown: So I was looking around, looking around, looked around, and I found web transport and rust.
+- Unknown: Are you familiar these technologies?
+- Unknown: Yeah, yeah.
+- Unknown: Okay, okay, good.
+- Unknown: So, so, yeah, so then that led me to a couple of Dario videos, and then I saw that he had a mentorship program, I kind of reached out and I was like, hey, I'd like to join, and I need your help to try to figure out how to build this thing that I'm building.
+- Unknown: And so, that's how we got to know each other, and then basically, one of my customers had a really big data migration job.
+- Unknown: It was like, God, it was like eight months or a year, that Dario and I.
+- Unknown: So, he would go to work during the day, and then at night, we'd jump on and we'd do coding to, because we had to decode, it was binary, like ANSI encoded, just database, like dumps.
+- Unknown: And we had to, like, figure, we had to build all the scripting to go through it and, like, find, even with all these anomalies and all these typos over like 30 years of the spice being in business software.
+- Unknown: Oh, my God.
+- Unknown: Yeah, and so we were literally decoding, we were literally like by hand decoding binary, and then, oh, we got another word out of it.
+- Unknown: There, oh, no, I see the structure.
+- Unknown: Oh, there's the end of that field.
+- Unknown: Oh, like for like a year until, like, we basically decoded 30 years' worth of data into a format that we could import it.
+- Unknown: It was a nightmare.
+- Unknown: I hired him for that.
+- Unknown: I subcontracted him for that.
+- Unknown: We became friends, and now we just hang out on a call every once in a while and see what's up.
+- Unknown: And like, a couple of weeks ago, we built uh, are you familiar with Herman's, the agentic system, right?
+- Unknown: Yeah, yeah, so he and I built an agentic Hermes system, and then we got his to create videos on demand for this property he's got available in Mexico.
+- Unknown: And so, we did some normal ones first, where it looks good, it looks like it's the actual place, and there's people in it, and there's like a really good, like, guy giving the pitch and all that stuff.
+- Unknown: And then we did some funny ones with like Mexican wrestlers and stuff.
+- Unknown: Wow, a lot of different stuff going on.
+- Unknown: Yeah, yeah, I get my hands into everything.
+- Unknown: Interesting.Well, yeah, it's super, I mean, it's it's definitely your idea of kind of you know, making the base or your your kind of an ITERP basically for individual contractors is kind of what I was thinking, just because, um, but I mean, you're the one to do it, you've got the experience.
+- Unknown: I like I built an ERP for my business this summer, and I love it.
+- Unknown: Like, I would never go back to it, still, I'm using like headless QuickBooks and some other headless services, but it's nice to, you know, have like, I have my own front end that they can all use, have my own MCP, that just makes things super easy for me to just say, okay, you know, I'm changing rates this much, go notify these customers, and then that's pretty awesome.
+- Unknown: Wow, I like that, yeah.
+- Unknown: So that's where I was kind of headed, but I also, I want to, oh, yeah, I didn't know, I want to quantify the kind of independent IT world a little more, but it seems like there would be a lot of like you out there, especially for the smaller, medium-sized businesses.
+- Unknown: Yeah, and the tricky part is solving one of, I guess, two problems.
+- Unknown: One is taking the people who, you know, like the old SNL skit where you're like, move, like, they have that attitude and they can't.
+- Unknown: You either got to deal with that and like kind of suck that out of them through the app, I guess, by like how they have to go through it to make it easy for them, or find people like me that will just you throw anything at them and they'll just okay, I gotta take this out of it.
+- Unknown: But I mean, you can take a lot of that away, too, if you just put that expert in the box sort of thing.
+- Unknown: There's also the most IT people will probably, I mean, as agents get better, will be able to make it on their own.
+- Unknown: And I feel like that will happen.
+- Unknown: Like that tailwind will drive.
+- Unknown: Oh, it'll happen to some degree, but there's still going to be gaps and niches that require it.
+- Unknown: Like, for example, lately, one thing I've been doing a lot is I've been requesting from my AI chats just a lot of PowerShell scripting to diagnose problems that would be really, really hard for me to diagnose on my own. Yeah.
+- Unknown: And being able to articulate those things through skilled prompting, I mean, I don't know.
+- Unknown: It's kind of a specialist territory that always requires somebody's eyes on it.
+- Unknown: Well, and that's your expertise, too, right?
+- Unknown: Like, that's like you're able to do, you know, five X, the normal IT speed, like, condense things down by knowing that.
+- Unknown: And that's one, that's kind of a curse and a blessing in a way, too, because it's like, I can solve the hardest problems quite well, but also people often only come to me for the hardest fucking problems, which is not always the most fun, but you get paid for those pretty good.
+- Unknown: Oh, go ahead, sorry.
+- Unknown: Yeah, do you mind just giving me a sense of like what one of those hard problems would be?
+- Unknown: Uh, let me think of one.
+- Unknown: This isn't like the super hardest one, but it's it's so obfuscated that it made it hard.
+- Unknown: So here at Harley, um, there is a specific model of laptop that we use for the salespeople.
+- Unknown: We just have them all in the same model.
+- Unknown: You know, we just keep things the same, same parts, same everything, same beast.
+- Unknown: Um, and all of a sudden, out of nowhere, since they have they have we have Cisco Meraki with like the Cisco Meraki's radius authentication server, yeah, and all of a sudden they were getting kicked off, and you know, they're just sales guys, they don't know their passwords, and most people don't know their passwords because usually you put in a Wi-Fi password once, and that's that.
+- Unknown: But they all have their own unique accounts, so if it does get the authenticated and it's not being stored in the system for some reason automatically, like it should be, well, then every time they turn the computer off, reboot it, or anything happens on the network that just deauthenticates them for a second.
+- Unknown: Well, now I'm getting a phone call, and the more those phone calls pile up, the more the customer's like, this seems like a fixable problem.
+- Unknown: You know, d we can't get on our own Wi-Fi, like, you know, they don't like that shit. Yeah.
+- Unknown: So, what that ended up being was like it was a combination of things.
+- Unknown: For some reason, there was an update in Windows, I don't remember which one it was, but there was an update in Windows that broke that specific, like, and like when you click on it and it asks you for the email address and the password of the person for Cisco Maranki, something in that UI broke where it wasn't saving it into Windows settings anymore, into Windows anymore.
+- Unknown: Yeah.And so it wasn't saving, but then also the connection was getting broken all the time whenever the computer went to low power mode because there was a driver update on the I don't know if it was on the Wi-Fi card itself or not, I don't remember.
+- Unknown: This was a few months ago.
+- Unknown: But basically, what would happen is it would go into this low power mode, and then in that low power mode, it was de-authenticating, and then when it deauthenticated, it would yeah um it's like idling out, yeah.
+- Unknown: And if I didn't, like, if I didn't have AI and like have it like work with it to build PowerShell script and use my troubleshooting skills mixed with the AI's deep knowledge of expertise, it would have been almost impossible for me to figure out the combination of things that were coming together to fix that problem.
+- Unknown: And I don't if I could have fixed it.
+- Unknown: And then some other jerk-off would have come along and like wiped the system with a new fresh install of Windows, and it would have worked for them.
+- Unknown: You know what I mean?
+- Unknown: So that's an example of one that was like pretty complicated that I did need AI tools for, but it also needed me to be able to say, no, that sounds stupid, not that.
+- Unknown: For sure.
+- Unknown: And that's a thing, is, I mean, all the time, with, like, because we're both in the tech world, too, it's like, gotta think like 50th percentile of person, and that 50th percentile, like, is never, doesn't know what a driver is.
+- Unknown: That's like baseline.
+- Unknown: Yeah, not only do they not know what it is, they don't give a shit.
+- Unknown: Yes, yeah, they want to sell.
+- Unknown: If you say driver to them and their problem's not fixed, they could care less.
+- Unknown: Yeah, yeah.
+- Unknown: Oh, that's very interesting.
+- Unknown: Yeah, I'd love to talk more about this, and maybe I'll go talk to another IT person and see what they have to think too.
+- Unknown: But it'd super interesting, too.
+- Unknown: And I think, I mean, the way that AI agents could help to just individually, like, I love it, cause I think, like, the individuals, it like really boosts them up.
+- Unknown: Like, the playing field just went incredible for individual proprietors and sole proprietors.
+- Unknown: Well, that's kind of one of the things we should probably talk about that because it's one of the you build your, I don't know, your database, I guess, of AI solutions, or I'm sorry, IT solutions into your AI and keep training and training and training, but then you can take that and you can sell that information or just the average user.
+- Unknown: In the end, what I would envision happening is the user downloads an agent executable essentially that does what it can, and if the problem is not fixed, then it allows a human expert to get involved.
+- Unknown: But so if you're actually toying with the idea of maybe building a system like that out, I'd be interested in possibly being involved with that.
+- Unknown: Yeah, that'd be fun.
+- Unknown: It'd be fun for you to even just try it.
+- Unknown: And I'm trying to think of like well, I want to make money too.
+- Unknown: I'm not going to lie.
+- Unknown: It's all about the fun for me. Yeah.
+- Unknown: No, I agree, but I'm.
+- Unknown: I'm getting too old to not care about it.
+- Unknown: I'm trying to think of what the wedge would be in terms of where to first start.
+- Unknown: What seems like the part that you need more structu m more structure on than anything else today?
+- Unknown: Is it the time?
+- Unknown: Is it the just the sales and use tax stuff lining up with for the business side?
+- Unknown: Um yeah, I mean if if I could make agents if as a business owner on that back office side, yes, that if there was something that was accurately and I could trust just so the way that they trust me in their building here, if I could trust an agent to like manage the sales tax that way or manage like you know, make sure things are paid or credit cards paid, and all that there's a lot of shit that's got to be managed.
+- Unknown: And right now I don't have a staff or anything, just me. Yeah.
+- Unknown: So like making that happen for an affordable price would be worth its weight in gold, for sure.
+- Marley: How much do you pay for fresh books today, if you don't mind me asking?
+- Unknown: They charge, it's weird, it changes at checkout and it goes higher.
+- Unknown: Really?Yeah, because they like say, oh, one year for, I think it was like $360, and then all of a sudden I get the checkout, like, oh no, it's $420 now. Okay.
+- Unknown: It's like $360, I was going through.
+- Unknown: Yeah.And then they charge me an extra more fucking $60.
+- Unknown: But but so, yeah, so like for one year, I'm paying like $400.
+- Unknown: Okay.Got it.
+- Unknown: And is that your only main software that you're paying for?
+- Unknown: As far as like back office, yeah.
+- Unknown: But I mean, I pay a lot more for AI and OpenAI and Gemini and Cloud and all that.
+- Unknown: So I'm I've I pay probably the most for those.
+- Unknown: Yeah.I mean, the my business model is pretty simple.
+- Unknown: I mean I just show up as an expert with some tools and you know it's pretty low cost that way.
+- Unknown: I do maintain a small office in Appleton but costs costs are pretty low.
+- Unknown: So as far as running the business, if somebody was like much leaner than me, 'cause I I I'm using AI for everything and like fame and all that kind of stuff, all this up and building.
+- Unknown: But the as far as like my actual IT management company and the back office part of it, like if you focused on that, I'm sure you can get someone like me to pay what I, at least what I'm paying for fucking fresh books, right?
+- Unknown: Yeah, for sure.
+- Unknown: Interesting.So between 30 and 40 bucks a month would probably be an easy sell, especially if it did the bookkeeping too. Yeah. Saved you a lot of time. Cool. Yeah, I'd buy that.
+- Unknown: Well, awesome.
+- Unknown: Thank you.
+- Unknown: This is really fun.
+- Unknown: I'm I'm really glad he connected us.
+- Marley: I I kind of wasn't like really sure because I think he was.
+- Unknown: I wasn't either.
+- Unknown: I didn't know what was going on.
+- Unknown: I don't know.
+- Unknown: Mario asked so I'm going to do it.
+- Marley: No, that's awesome how you guys met.
+- Unknown: Thank you.
+- Unknown: Yeah, let me know if you have any other questions.
+- Unknown: You want to talk some more.
+- Unknown: But yeah, I got a lot of information.
+- Unknown: If you ask something specific, it'll trigger memories from 15 years ago, and I'll have a more detailed answer for those nuanced questions.
+- Unknown: Yeah, maybe I'll ask for more stories.
+- Unknown: I'm sure you have a lot.
+- Unknown: If you think of some, let me know.
+- Unknown: There's a ton.
+- Unknown: There's a ton. Okay.
+- Unknown: There's some pretty fucked up ones, too. Yeah.
+- Unknown: But, anyways, it's for another day. Okay.
+- Unknown: All right.
+- Unknown: Take it easy.
+- Unknown: Have a good one.
+- Unknown: You too.
+- Unknown: Thanks.See.
+- Unknown: I mean, it's okay.
+- Marley: I thought that was pretty good.

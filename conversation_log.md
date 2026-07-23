@@ -3,6 +3,51 @@
 
 ---
 
+## Entry #19 -- Car Wash Forum, Hardware Distributor (forum reply, anonymous)
+**Date:** 2026-07-23 | **Interviewer:** Marley (anonymous forum post) | **Industry:** Car washes (multi-location)
+**Full summary:** `outputs/transcript-summaries/2026-07-23-car-wash-forum-hardware-distributor.md`
+
+**Top Mistakes:** Not applicable -- forum reply format, no live interviewer.
+
+**Commitment Outcome:** None -- format doesn't allow it.
+
+**Standout Signal:** Vendor (not operator) source explains the mechanism behind WorldPay's tunnel lock-in: bundled with DRB/Sonny's equipment, not chosen independently, and confirms tunnel reporting lag is structural ("WorldPay's portal is next day batch stuff"). Names a concrete, allegedly-already-used fix: gateway layer (NMI/Datacap) for real-time auths, webhooks, REST API. Directly contradicts Jacob Simms (Entry #7) on CardMate, called a live "oligopoly" player by Simms but "an old activation system, I almost never see it anymore" by this distributor -- flagged as an open contradiction, not resolved.
+
+---
+
+## Entry #18 -- Independent IT/MSP Owner, Appleton, WI
+**Date:** 2026-07-14 | **Interviewer:** Marley | **Industry:** IT/MSP for small-to-medium commercial clients
+**Full summary:** `outputs/transcript-summaries/2026-07-14-it-msp-independent-contractor.md`
+
+**Top Mistakes:**
+- Idea reveal happened once he'd already described his own matching concept unprompted; the follow-up confirmed her thesis matched his instead of digging further into his world
+- His feature idea (the "independent contractor app") was accepted at face value instead of interrogated for real motivation -- his stated reason for not building it ("it's price") doesn't actually hold up
+- The "$30-40/month, I'd buy that" close was accepted as a positive signal despite being a classic hypothetical, future-tense statement
+- The ~100 unbilled hours estimate and the sales-tax pain were both left as lifetime/generic claims, never anchored to one specific dated instance
+
+**Commitment Outcome:** Zombie dressed up as enthusiasm. General interest in "possibly being involved" if something gets built; no calendar hold, no next step, no currency exchanged.
+
+**Standout Signal:** Real, quantifiable pain confirmed (sales/use tax classification, ~100 hours of unbilled time over 23 years, active FreshBooks decay) and no known IT-specific back-office competitor per this source. But the strongest apparent validation, his independently-conceived matching product idea, is the weakest kind of data: unprompted enthusiasm for a shared concept, not a tested commitment. First conversation logged in this vertical (n of 1).
+
+---
+
+## Entry #17 -- Deputy Wilkerson, Hennepin County Sheriff's Office (Recruitment & Public Affairs)
+**Date:** 2026-06-22 | **Interviewer:** Marley | **Industry:** Law enforcement (recruitment/HR operations)
+**Full summary:** `outputs/transcript-summaries/2026-06-22-sheriff-wilkerson-recruitment.md`
+
+**Top Mistakes:**
+- Identity revealed mid-conversation ("Are you in IT?" / confirmed) shifted her subsequent answers from describing her world to co-designing solutions
+- No past-specific question was ever forced; funnel-breakage claims stayed structural ("step two, step three, in the ballpark") rather than anchored to one traceable candidate
+- The direct software question ("what do you use right now for software on your computer?") got a non-answer, deflected to an intro offer, and was accepted instead of re-asked
+- No destroy-your-business question asked
+- Real procurement events (mall hiring fairs, Guardian Tracking to Axon migration) were mentioned in passing and never explored for cost or decision process
+
+**Commitment Outcome:** Soft-advancing. Wilkerson volunteered an unprompted intro to the Professional Standards supervisor, real reputation currency, but no timeline was locked down.
+
+**Standout Signal:** Confirmed system gap: no record exists to pass recruiter impressions/soft ratings to background investigators once a candidate applies online. Same Hennepin County Sheriff's Office as Entry #16 (Water Patrol), so this reinforces rather than independently confirms any cross-vertical pattern. The stronger lead is the volunteered Professional Standards intro, the actual owner of the pain being described secondhand.
+
+---
+
 ## Entry #16 -- Hennepin County Water Patrol (Lieutenant)
 **Date:** 2026-06-18 | **Interviewer:** Marley | **Industry:** Law enforcement (water patrol)
 **Full summary:** `outputs/transcript-summaries/2026-06-18-hennepin-water-patrol.md`
