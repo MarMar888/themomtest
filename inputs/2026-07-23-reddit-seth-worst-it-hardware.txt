@@ -1,0 +1,20 @@
+Source: Reddit (IT professional community, thread/subreddit not specified)
+Date: 2026-07-23
+Context: Marley asked an IT professional (username/handle "Seth") what his worst hardware in the industry was.
+Interviewer: Marley (Reddit comment, question paraphrased, not verbatim)
+
+--- OUR QUESTION (paraphrased) ---
+
+What's your worst hardware in the IT industry?
+
+--- SETH'S REPLY ---
+
+IoT devices, often have sub-standard/incomplete instructions and support. And many security vulnerabilities.
+
+Another one would be NVR's, especially those all-in-one cheap systems from places like Costco or Best Buy. Often the apps are not maintained and have bugs/limited features. And for some reason, the biggest offenders (like Owl) also do proprietary alterations of how the feed is delivered to make it difficult to not use their crappy app.
+
+[reactions: heart, clap, thumbs up]
+
+--- FOLLOW-UP EXCHANGE ---
+
+Lack of support in both those cases.

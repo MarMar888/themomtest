@@ -3,6 +3,17 @@
 
 ---
 
+## Entry #20 -- Reddit, Seth (IT professional, "worst hardware" question)
+**Date:** 2026-07-23 | **Interviewer:** Marley (Reddit comment) | **Industry:** IT/MSP, hardware/security systems
+
+**Top Mistakes:** Not applicable -- single Reddit reply, no live back-and-forth. Worth noting for next time: the question itself ("what's your worst hardware") invites general opinion rather than a past-specific story; a Mom Test-compliant version would ask for one specific recent incident directly.
+
+**Commitment Outcome:** None -- format doesn't allow it.
+
+**Standout Signal:** Weak/unanchored data. Two named pain categories, consumer-grade IoT devices (poor docs/support, security vulnerabilities) and cheap all-in-one NVR/security-camera systems (unmaintained apps, and Owl specifically called out for proprietary feed lock-in), but both stated as general complaints ("often," "many") with no specific instance, cost, or workaround behind them. Useful as a lead for a sharper follow-up question, not evidence of validated pain.
+
+---
+
 ## Entry #19 -- Car Wash Forum, Hardware Distributor (forum reply, anonymous)
 **Date:** 2026-07-23 | **Interviewer:** Marley (anonymous forum post) | **Industry:** Car washes (multi-location)
 **Full summary:** `outputs/transcript-summaries/2026-07-23-car-wash-forum-hardware-distributor.md`
